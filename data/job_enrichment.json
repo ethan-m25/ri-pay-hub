@@ -1,10 +1,33 @@
 {
   "meta": {
-    "built_at": "2026-05-21T10:57:58.223450+00:00",
-    "total_jobs": 154,
-    "enriched": 29
+    "built_at": "2026-05-22T10:56:55.575696+00:00",
+    "total_jobs": 156,
+    "enriched": 57
   },
   "jobs": {
+    "clinical-research-as-care-access-28696240": {
+      "summary": "Clinical Research Assistant, PRN (Registered Nurse) delivers life-changing research opportunities to participants with flexible scheduling, handling phlebotomy, specimen handling, documentation, and ensuring regulatory compliance for mobile clinical research events.",
+      "key_skills": [
+        "clinical research",
+        "phlebotomy",
+        "specimen handling",
+        "documentation",
+        "regulatory compliance",
+        "aseptic technique",
+        "participant care",
+        "mobile clinics"
+      ],
+      "core_skills": [
+        "venipuncture",
+        "specimen handling",
+        "documentation",
+        "regulatory compliance"
+      ],
+      "seniority_signal": "entry",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "remote"
+    },
     "clinical-trial-manag-care-access-28696240": {
       "summary": "The Clinical Trial Manager drives the successful execution of clinical trials or projects from strategic planning through closeout, ensuring adherence to timelines, budgets, regulatory requirements, and quality standards while coordinating cross-functional teams and sponsors.",
       "key_skills": [
@@ -45,6 +68,24 @@
       ],
       "seniority_signal": "mid",
       "role_type": "manager",
+      "red_flags": [],
+      "work_mode_derived": "unknown"
+    },
+    "contracts-manager-care-access-28696240": {
+      "summary": "Manages the development, negotiation, and execution of research service contracts while ensuring compliance with legal and regulatory requirements.",
+      "key_skills": [
+        "contracts",
+        "negotiation",
+        "legal",
+        "compliance",
+        "regulatory"
+      ],
+      "core_skills": [
+        "contract management",
+        "risk mitigation"
+      ],
+      "seniority_signal": "mid",
+      "role_type": "ic",
       "red_flags": [],
       "work_mode_derived": "unknown"
     },
@@ -94,6 +135,27 @@
       "red_flags": [],
       "work_mode_derived": "onsite"
     },
+    "enterprise-performan-care-access-28696240": {
+      "summary": "The Enterprise Performance Analytics Engineer designs, builds, and maintains data pipelines, data marts, and data models to ensure data quality and enable reliable reporting for analytics teams.",
+      "key_skills": [
+        "sql",
+        "data_modeling",
+        "data_pipelines",
+        "data_quality",
+        "etl_elt",
+        "data_lineage",
+        "version_control"
+      ],
+      "core_skills": [
+        "sql",
+        "data_modeling",
+        "data_pipelines"
+      ],
+      "seniority_signal": "mid",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "remote"
+    },
     "experiential---media-care-access-28696240": {
       "summary": "Manages end-to-end planning and execution of live events and film productions with oversight of production timelines, vendor logistics, and budget management.",
       "key_skills": [
@@ -116,6 +178,72 @@
       "role_type": "ic",
       "red_flags": [],
       "work_mode_derived": "hybrid"
+    },
+    "manager--quality-ass-care-access-28696240": {
+      "summary": "Manages quality assurance activities including internal and external audits, quality issue resolution, and regulatory compliance to ensure patient safety and data integrity.",
+      "key_skills": [
+        "quality assurance",
+        "regulatory compliance",
+        "gxp",
+        "investigator site audits",
+        "vendor qualifications",
+        "capa management",
+        "root cause analysis",
+        "continuous improvement"
+      ],
+      "core_skills": [
+        "quality assurance",
+        "regulatory compliance",
+        "gxp"
+      ],
+      "seniority_signal": "mid",
+      "role_type": "manager",
+      "red_flags": [],
+      "work_mode_derived": "onsite"
+    },
+    "principal-trainer--c-care-access-28696240": {
+      "summary": "The Principal Trainer, Clinical Education leads onboarding, upskilling, and competency development for clinical operations teams, ensuring standardized training frameworks and compliance with regulatory requirements.",
+      "key_skills": [
+        "clinical education",
+        "onboarding",
+        "training",
+        "competency development",
+        "protocol execution",
+        "participant safety oversight",
+        "source documentation",
+        "good clinical practice"
+      ],
+      "core_skills": [
+        "training",
+        "onboarding",
+        "protocol execution",
+        "participant safety oversight"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "onsite"
+    },
+    "provider-partnership-care-access-28696240": {
+      "summary": "Provider Partnerships Liaison focuses on building partnerships with clinical trial partners, conducting demos, and selling Care Access's value proposition to enhance patient access to clinical trials.",
+      "key_skills": [
+        "clinical research",
+        "provider partnerships",
+        "sales",
+        "patient recruitment",
+        "emr",
+        "chart review"
+      ],
+      "core_skills": [
+        "communication",
+        "problem-solving",
+        "sales process",
+        "stakeholder engagement"
+      ],
+      "seniority_signal": "mid",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "remote"
     },
     "senior-accountant-care-access-28696240": {
       "summary": "Oversees day-to-day accounting activities, ensures accurate financial reporting, and coordinates audits for a fast-paced company.",
@@ -162,6 +290,52 @@
       "role_type": "ic",
       "red_flags": [],
       "work_mode_derived": "unknown"
+    },
+    "senior-media-special-care-access-28696240": {
+      "summary": "Senior Media Specialist owns campaign activation and optimization for health screenings and clinical studies through traditional and localized media channels, while collaborating with cross-functional teams to improve campaign performance and reach.",
+      "key_skills": [
+        "media",
+        "marketing",
+        "campaigns",
+        "optimization",
+        "a/b testing",
+        "data-driven",
+        "reporting",
+        "cross-functional"
+      ],
+      "core_skills": [
+        "a/b testing",
+        "project management",
+        "data analysis",
+        "cross-functional collaboration"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "remote"
+    },
+    "senior-specialist--r-care-access-28696240": {
+      "summary": "Senior Specialist, Regulatory Operations oversees and executes all site-level regulatory operational activities for U.S. clinical trials, ensuring compliance with FDA, OHRP, and global standards while managing site start-ups and regulatory submissions.",
+      "key_skills": [
+        "regulatory operations",
+        "clinical trials",
+        "us regulations",
+        "fda compliance",
+        "irb submissions",
+        "site operations",
+        "study closeout",
+        "gcp"
+      ],
+      "core_skills": [
+        "regulatory compliance",
+        "site management",
+        "irb submissions",
+        "gcp"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "onsite"
     },
     "senior-trainer--clin-care-access-28696240": {
       "summary": "Senior Trainer, Clinical Education delivers standardized onboarding and continuous training for clinical research staff to ensure compliance and readiness while addressing complex training challenges.",
@@ -276,6 +450,29 @@
       "red_flags": [],
       "work_mode_derived": "remote"
     },
+    "travel-sub-investiga-care-access-28696240": {
+      "summary": "Sub-Investigator supports clinical research studies by administering investigational products, conducting physical examinations, monitoring for adverse reactions, and ensuring compliance with clinical trial protocols and regulations.",
+      "key_skills": [
+        "nurse practitioner",
+        "physician assistant",
+        "clinical research",
+        "investigational products",
+        "iv administration",
+        "subcutaneous administration",
+        "intramuscular administration",
+        "phlebotomy"
+      ],
+      "core_skills": [
+        "clinical research",
+        "good clinical practice",
+        "gcp",
+        "regulatory compliance"
+      ],
+      "seniority_signal": "mid",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "hybrid"
+    },
     "partner-consultant-ramp-74407640": {
       "summary": "Partner Consultant who collaborates with channel partners to provide technical accounting expertise, build integrations, and advise on financial workflows for Ramp's customers",
       "key_skills": [
@@ -316,6 +513,52 @@
         "infrastructure",
         "containerization",
         "ci_cd"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "remote"
+    },
+    "brand-designer-vanta-74407640": {
+      "summary": "Brand Designer creates high-quality brand assets across digital, web, campaigns, and print while translating creative briefs into visual solutions that align with brand standards.",
+      "key_skills": [
+        "brand design",
+        "typography",
+        "composition",
+        "visual systems",
+        "layout",
+        "figma",
+        "adobe creative suite",
+        "ai tools"
+      ],
+      "core_skills": [
+        "brand identity",
+        "visual storytelling",
+        "cross-functional collaboration",
+        "typographic excellence"
+      ],
+      "seniority_signal": "mid",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "hybrid"
+    },
+    "design-recruiter-vanta-74407640": {
+      "summary": "Owns full-cycle recruiting for Vanta’s Design organization, partnering with design leadership to shape hiring strategy, define assessments, and close top-tier design talent in competitive markets.",
+      "key_skills": [
+        "design",
+        "recruiting",
+        "talent",
+        "strategy",
+        "portfolio",
+        "assessments",
+        "candidate",
+        "experience"
+      ],
+      "core_skills": [
+        "design_recruiting",
+        "talent_pipeline",
+        "hiring_strategy",
+        "candidate_experience"
       ],
       "seniority_signal": "senior",
       "role_type": "ic",
@@ -390,6 +633,45 @@
       "role_type": "ic",
       "red_flags": [],
       "work_mode_derived": "remote"
+    },
+    "senior-fullstack-sof-vanta-74407640": {
+      "summary": "Senior Software Engineer leads complex projects, sets technical direction for scaling infrastructure, and mentors engineering teams to deliver high-value products for customer security and compliance.",
+      "key_skills": [
+        "typescript",
+        "react",
+        "nodejs"
+      ],
+      "core_skills": [
+        "technical leadership",
+        "complex project delivery"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "hybrid"
+    },
+    "senior-growth-market-vanta-74407640": {
+      "summary": "Owns end-to-end demand generation strategy and execution for Vanta's integrated campaign programs, connecting story, audience, and growth bets to build pipeline for the Agentic Trust Platform.",
+      "key_skills": [
+        "growth marketing",
+        "campaign strategy",
+        "demand generation",
+        "marketing automation",
+        "sales",
+        "sdr",
+        "product marketing",
+        "abm"
+      ],
+      "core_skills": [
+        "campaign strategy",
+        "demand generation",
+        "marketing automation",
+        "sales"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "manager",
+      "red_flags": [],
+      "work_mode_derived": "hybrid"
     },
     "senior-manager--reve-vanta-74407640": {
       "summary": "Senior Manager leads 7 GTM recruiters to drive hiring across Pre and Post sales teams in North America while partnering with leadership to prioritize talent acquisition and meet quarterly goals.",
@@ -526,6 +808,29 @@
       "red_flags": [],
       "work_mode_derived": "remote"
     },
+    "senior-software-engi-vanta-74407640": {
+      "summary": "Designs and builds scalable infrastructure to support rapid growth while ensuring security and reliability for Vanta's core systems.",
+      "key_skills": [
+        "infrastructure",
+        "security",
+        "aws",
+        "typescript",
+        "react",
+        "nodejs",
+        "mongodb",
+        "githubactions"
+      ],
+      "core_skills": [
+        "infrastructure design",
+        "cloud infrastructure",
+        "security infrastructure",
+        "technical leadership"
+      ],
+      "seniority_signal": "mid",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "remote"
+    },
     "solutions-engineer---vanta-74407641": {
       "summary": "Solutions Engineer leads technical discussions with customers to ensure seamless adoption of Vanta's security solutions, develops deep product understanding, and drives technical evaluations for pre-sales engagements.",
       "key_skills": [
@@ -541,6 +846,29 @@
         "product capabilities"
       ],
       "seniority_signal": "mid",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "remote"
+    },
+    "staff-data-engineer-vanta-74407641": {
+      "summary": "Designs and implements complex data models, builds reporting tools, and develops scalable data infrastructure to support data-driven decision-making across the company.",
+      "key_skills": [
+        "data engineering",
+        "sql",
+        "data modeling",
+        "data infrastructure",
+        "data warehousing",
+        "aws",
+        "terraform",
+        "cdc"
+      ],
+      "core_skills": [
+        "data engineering",
+        "sql",
+        "data modeling",
+        "data infrastructure"
+      ],
+      "seniority_signal": "staff",
       "role_type": "ic",
       "red_flags": [],
       "work_mode_derived": "remote"
@@ -567,6 +895,120 @@
       "role_type": "ic",
       "red_flags": [],
       "work_mode_derived": "hybrid"
+    },
+    "vp-of-brand-vanta-74407641": {
+      "summary": "VP of Brand at Vanta defines how the company shows up strategically, emotionally, and culturally across all touchpoints, leading integrated creative, content, and communications efforts to build a brand that drives perception and pipeline.",
+      "key_skills": [
+        "brand strategy",
+        "creative leadership",
+        "content strategy",
+        "social media strategy",
+        "communications strategy",
+        "narrative storytelling",
+        "market positioning",
+        "strategic planning"
+      ],
+      "core_skills": [
+        "brand strategy",
+        "creative leadership",
+        "content strategy",
+        "narrative storytelling"
+      ],
+      "seniority_signal": "executive",
+      "role_type": "executive",
+      "red_flags": [],
+      "work_mode_derived": "unknown"
+    },
+    "detection-and-respon-benchling-74407641": {
+      "summary": "Detects and responds to security threats using AI and automation, building scalable incident response processes and threat detection mechanisms for biotech R&D platforms.",
+      "key_skills": [
+        "ai",
+        "security",
+        "threat_intelligence",
+        "incident_response",
+        "forensics",
+        "automation",
+        "cloud"
+      ],
+      "core_skills": [
+        "threat_intelligence",
+        "incident_response",
+        "forensics",
+        "automation"
+      ],
+      "seniority_signal": "mid",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "remote"
+    },
+    "enterprise-security--benchling-74407641": {
+      "summary": "Enterprise Security Engineer responsible for implementing zero trust security strategies, managing identity and access controls, and ensuring secure AI integration across biotech R&D workflows.",
+      "key_skills": [
+        "ai",
+        "security",
+        "zero_trust",
+        "identity_management",
+        "macos",
+        "sso",
+        "oidc",
+        "oauth"
+      ],
+      "core_skills": [
+        "zero_trust_architecture",
+        "identity_protocols",
+        "macos_fleet_management",
+        "scripting"
+      ],
+      "seniority_signal": "mid",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "onsite"
+    },
+    "software-engineer--e-persona-74407641": {
+      "summary": "Owns edge networking configuration, evolves ingress layer, manages dns, builds network-layer observability, and supports regional expansion for Persona's traffic layer",
+      "key_skills": [
+        "cloudflare",
+        "kubernetes",
+        "networking",
+        "waf",
+        "rate-limiting",
+        "dns",
+        "observability",
+        "service-mesh"
+      ],
+      "core_skills": [
+        "kubernetes",
+        "networking",
+        "waf",
+        "dns"
+      ],
+      "seniority_signal": "mid",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "remote"
+    },
+    "associate-principal--headway-74407641": {
+      "summary": "Owns commercial relationships and channel strategy to expand Headway's partnership with national health plans, ensuring trust and advocacy for mental health care access",
+      "key_skills": [
+        "healthcare",
+        "payer",
+        "partnerships",
+        "commercial",
+        "digital",
+        "strategy",
+        "channel",
+        "operations"
+      ],
+      "core_skills": [
+        "strategic_relationships",
+        "playbook_development",
+        "operational_excellence",
+        "problem_solving"
+      ],
+      "seniority_signal": "associate_principal",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "remote"
     },
     "channel-manager---se-headway-74407641": {
       "summary": "Owns end-to-end SEM program including campaign architecture, keyword strategy, bidding, and performance optimization across Google Ads and Microsoft Ads while scaling spend to $50M+ annually and optimizing for booked appointments through collaboration with Engineering and Data Science teams.",
@@ -614,6 +1056,98 @@
       "red_flags": [],
       "work_mode_derived": "remote"
     },
+    "cx-programs-sr--asso-headway-74407641": {
+      "summary": "Senior Associate on CX Programs team improves customer experience by analyzing feedback, designing processes, and leveraging AI tools to enhance support efficiency and satisfaction metrics.",
+      "key_skills": [
+        "customer_experience",
+        "kpi_analysis",
+        "process_improvement",
+        "ai_tools",
+        "data_insights",
+        "cross_functional_collaboration",
+        "support_processes",
+        "csat"
+      ],
+      "core_skills": [
+        "customer_centricity",
+        "end_to_end_project_ownership",
+        "data_driven_decision_making",
+        "cx_change_readiness"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "remote"
+    },
+    "cx-systems-lead-headway-74407641": {
+      "summary": "Owns the platform behind Headway's customer experience, configuring and evolving voice and chat systems, deploying AI tools for agents, and scaling CX tech stacks to improve patient-provider interactions.",
+      "key_skills": [
+        "cx",
+        "ai",
+        "voice",
+        "routing",
+        "configuration",
+        "operational",
+        "platform",
+        "analytics"
+      ],
+      "core_skills": [
+        "ai-native",
+        "operational-mindset",
+        "analytical-solver",
+        "ambiguity-management"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "hybrid"
+    },
+    "director--clinical-e-headway-74407641": {
+      "summary": "Owns end-to-end clinical education strategy to empower therapists and psychologists across Headway's network while improving clinical quality and retention through scalable learning programs.",
+      "key_skills": [
+        "clinical excellence",
+        "education",
+        "provider network",
+        "clinical quality",
+        "compliance",
+        "regulatory",
+        "learning management system",
+        "lms"
+      ],
+      "core_skills": [
+        "clinical credibility",
+        "adult learning",
+        "systems scaling",
+        "cross-functional collaboration"
+      ],
+      "seniority_signal": "director",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "remote"
+    },
+    "director-of-product--headway-74407641": {
+      "summary": "Builds and leads the product vision for Headway's customer experience system, focusing on AI-powered self-resolution, agent tooling, and proactive engagement to improve support efficiency and satisfaction.",
+      "key_skills": [
+        "product",
+        "ai",
+        "cx",
+        "support",
+        "automation",
+        "healthcare",
+        "insurance",
+        "mental_health"
+      ],
+      "core_skills": [
+        "product_strategy",
+        "ai_integration",
+        "customer_support",
+        "operations"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "remote"
+    },
     "executive-recruiting-headway-74407641": {
       "summary": "Owns end-to-end candidate experience for senior and executive level searches, managing complex scheduling across multiple stakeholders and ensuring a seamless interview process.",
       "key_skills": [
@@ -637,6 +1171,75 @@
       "red_flags": [],
       "work_mode_derived": "remote"
     },
+    "prescriber-clinical--headway-74407641": {
+      "summary": "Clinical Quality Manager supports clinical quality monitoring initiatives and Ongoing Professional Practice Evaluation for providers, conducting chart reviews, providing feedback, creating remediation plans, and collaborating with cross-functional teams to optimize workflows.",
+      "key_skills": [
+        "clinical quality monitoring",
+        "chart review",
+        "evidence-based practices",
+        "documentation standards",
+        "quality improvement",
+        "clinical oversight",
+        "remediation planning",
+        "provider network management"
+      ],
+      "core_skills": [
+        "clinical documentation",
+        "quality assurance",
+        "healthcare compliance",
+        "cross-functional collaboration"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "hybrid"
+    },
+    "principal--prescribe-headway-74407641": {
+      "summary": "Spearheads clinical quality monitoring initiatives and leads ongoing professional practice evaluation programs for mental health providers to ensure safety, efficiency, and effectiveness of care delivery.",
+      "key_skills": [
+        "clinical quality",
+        "chart review",
+        "quality monitoring",
+        "clinical documentation",
+        "professional practice evaluation",
+        "healthcare compliance",
+        "behavioral health",
+        "mental health"
+      ],
+      "core_skills": [
+        "clinical oversight",
+        "quality frameworks",
+        "chart review workflows",
+        "strategic thinking"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "hybrid"
+    },
+    "recruiting-coordinat-headway-74407641": {
+      "summary": "Schedules and coordinates end-to-end interviews for candidates, ensuring smooth logistics and positive candidate experiences across high-volume hiring operations.",
+      "key_skills": [
+        "scheduling",
+        "coordination",
+        "recruiting",
+        "talent",
+        "operations",
+        "candidate_experience",
+        "logistics",
+        "data_hygiene"
+      ],
+      "core_skills": [
+        "scheduling",
+        "coordination",
+        "candidate_experience",
+        "data_hygiene"
+      ],
+      "seniority_signal": "mid",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "hybrid"
+    },
     "senior-manager--peop-headway-74407641": {
       "summary": "Designs and optimizes People Systems and Operations technology to support Headway's employee lifecycle and internal processes, ensuring scalable and efficient HR operations through Workday administration and cross-functional collaboration.",
       "key_skills": [
@@ -659,6 +1262,29 @@
       "role_type": "manager",
       "red_flags": [],
       "work_mode_derived": "onsite"
+    },
+    "senior-revenue-accou-headway-74407641": {
+      "summary": "Senior Revenue Accountant ensures accurate and compliant revenue accounting for a fast-growing company by managing ASC 606 revenue recognition, month-end close activities, and building scalable revenue processes while collaborating with cross-functional teams.",
+      "key_skills": [
+        "revenue accounting",
+        "asc 606",
+        "financial reporting",
+        "month-end close",
+        "revenue recognition",
+        "process automation",
+        "cross-functional collaboration",
+        "audit compliance"
+      ],
+      "core_skills": [
+        "asc 606",
+        "financial reporting",
+        "revenue recognition",
+        "cross-functional collaboration"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "hybrid"
     }
   }
 }
