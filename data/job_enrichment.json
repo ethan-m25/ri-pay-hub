@@ -1,8 +1,8 @@
 {
   "meta": {
-    "built_at": "2026-05-25T10:53:34.047198+00:00",
+    "built_at": "2026-05-26T10:51:34.837551+00:00",
     "total_jobs": 163,
-    "enriched": 133
+    "enriched": 138
   },
   "jobs": {
     "associate-director---care-access-28696240": {
@@ -198,6 +198,29 @@
         "risk assessment",
         "regulatory compliance",
         "contract review"
+      ],
+      "seniority_signal": "mid",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "remote"
+    },
+    "counsel--health-data-care-access-28696240": {
+      "summary": "Provides strategic and practical legal advice on global privacy and data protection laws, negotiates data protection and healthcare-related agreements, and ensures compliance across clinical research and operational activities.",
+      "key_skills": [
+        "hipaa",
+        "gdpr",
+        "data_privacy",
+        "health_data",
+        "ai_ethics",
+        "privacy_compliance",
+        "legal_advisory",
+        "contract_negotiation"
+      ],
+      "core_skills": [
+        "privacy_law_expertise",
+        "ai_risk_assessment",
+        "cross_functional_partnership",
+        "contract_negotiation"
       ],
       "seniority_signal": "mid",
       "role_type": "ic",
@@ -1198,6 +1221,29 @@
       "red_flags": [],
       "work_mode_derived": "remote"
     },
+    "field-chief-informat-vanta-74407640": {
+      "summary": "Field CISO acts as a strategic security advisor to customers and prospects, driving enterprise security engagement through customer-facing conversations, strategic insights, and cross-functional collaboration.",
+      "key_skills": [
+        "cybersecurity",
+        "compliance",
+        "cloud-security",
+        "risk-management",
+        "threat-intelligence",
+        "incident-response",
+        "security-architecture",
+        "identity-management"
+      ],
+      "core_skills": [
+        "strategic-advisory",
+        "customer-engagement",
+        "executive-briefing",
+        "cross-functional-collaboration"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "executive",
+      "red_flags": [],
+      "work_mode_derived": "remote"
+    },
     "field-marketing-mana-vanta-74407640": {
       "summary": "Owns regional field marketing strategy and execution to drive pipeline, accelerate deals, and partner with sales leadership through in-person and virtual programs.",
       "key_skills": [
@@ -1243,6 +1289,29 @@
       "role_type": "manager",
       "red_flags": [],
       "work_mode_derived": "unknown"
+    },
+    "head-of-data---analy-vanta-74407640": {
+      "summary": "Head of Data & Analytics delivers business insights by leading analysts and data engineering teams to build and scale AI-powered data infrastructure for Vanta’s business.",
+      "key_skills": [
+        "data engineering",
+        "data analytics",
+        "ai",
+        "snowflake",
+        "dbt",
+        "data governance",
+        "data modeling",
+        "data infrastructure"
+      ],
+      "core_skills": [
+        "data engineering",
+        "data analytics",
+        "ai",
+        "snowflake"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "executive",
+      "red_flags": [],
+      "work_mode_derived": "remote"
     },
     "lead-technical-recru-vanta-74407640": {
       "summary": "Owns full-cycle engineering hiring globally, partners with senior engineering and executive leaders to shape hiring strategy and close top-tier technical talent in competitive markets.",
@@ -2481,6 +2550,29 @@
       "red_flags": [],
       "work_mode_derived": "hybrid"
     },
+    "manager--revenue-acc-headway-74407641": {
+      "summary": "Owns operational execution of revenue accounting, leads senior revenue accountants, drives month-end close, and ensures compliance with ASC 606 while scaling processes through automation and cross-functional partnerships.",
+      "key_skills": [
+        "revenue accounting",
+        "asc 606",
+        "financial reporting",
+        "process automation",
+        "cross-functional collaboration",
+        "team leadership",
+        "audit readiness",
+        "ai implementation"
+      ],
+      "core_skills": [
+        "revenue accounting",
+        "asc 606",
+        "financial reporting",
+        "process automation"
+      ],
+      "seniority_signal": "mid",
+      "role_type": "manager",
+      "red_flags": [],
+      "work_mode_derived": "hybrid"
+    },
     "medical-clinical-dir-headway-74407641": {
       "summary": "Supports health plan partnerships and payer strategy to expand provider network impact while collaborating with cross-functional teams to improve mental healthcare access.",
       "key_skills": [
@@ -2546,6 +2638,29 @@
         "strategic thinking"
       ],
       "seniority_signal": "senior",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "hybrid"
+    },
+    "program-manager--tal-headway-74407641": {
+      "summary": "Builds and manages AI adoption programs to enhance talent acquisition workflows and enable hiring teams to effectively use AI tools in their recruitment processes.",
+      "key_skills": [
+        "program management",
+        "talent acquisition",
+        "ai enablement",
+        "process optimization",
+        "talent strategy",
+        "hiring ecosystem",
+        "ai tools",
+        "talent operations"
+      ],
+      "core_skills": [
+        "program management",
+        "talent acquisition",
+        "ai enablement",
+        "process optimization"
+      ],
+      "seniority_signal": "mid",
       "role_type": "ic",
       "red_flags": [],
       "work_mode_derived": "hybrid"
