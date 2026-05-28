@@ -1,8 +1,8 @@
 {
   "meta": {
-    "built_at": "2026-05-27T10:51:01.930589+00:00",
-    "total_jobs": 163,
-    "enriched": 138
+    "built_at": "2026-05-28T11:51:28.689896+00:00",
+    "total_jobs": 603,
+    "enriched": 167
   },
   "jobs": {
     "associate-director---care-access-28696240": {
@@ -3122,6 +3122,669 @@
       ],
       "seniority_signal": "associate_principal",
       "role_type": "executive",
+      "red_flags": [],
+      "work_mode_derived": "remote"
+    },
+    "clinical-research-co-careaccess-68809818": {
+      "summary": "Clinical Research Coordinator ensures protocol and regulatory compliance while managing patient recruitment, coordination, and monitoring for clinical trials.",
+      "key_skills": [
+        "clinical research",
+        "gcp",
+        "protocol compliance",
+        "patient coordination",
+        "data management",
+        "adverse events",
+        "regulatory compliance",
+        "ich guidelines"
+      ],
+      "core_skills": [
+        "protocol compliance",
+        "patient coordination",
+        "data management",
+        "regulatory compliance"
+      ],
+      "seniority_signal": "mid",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "onsite"
+    },
+    "principal-investigat-careaccess-68809818": {
+      "summary": "Oversees clinical trials, reviews protocols for GCP compliance, ensures participant safety, and trains study staff.",
+      "key_skills": [
+        "clinical trials",
+        "medical oversight",
+        "protocol review",
+        "gcp compliance",
+        "safety monitoring",
+        "case report forms",
+        "adverse events",
+        "sub-investigators"
+      ],
+      "core_skills": [
+        "medical oversight",
+        "protocol review",
+        "gcp compliance",
+        "safety monitoring"
+      ],
+      "seniority_signal": "principal",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "onsite"
+    },
+    "provider-partnership-careaccess-68809818": {
+      "summary": "Provider Partnerships Liaison focuses on building and strengthening partnerships with Trial Access Partners to enhance clinical trial access, conducting demos, and selling Care Access's value proposition while ensuring patient recruitment effectiveness.",
+      "key_skills": [
+        "sales",
+        "partnerships",
+        "communication",
+        "customer_support",
+        "patient_recruitment",
+        "emr"
+      ],
+      "core_skills": [
+        "sales",
+        "communication"
+      ],
+      "seniority_signal": "mid",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "onsite"
+    },
+    "analyst-i--full-stac-affirm-68809818": {
+      "summary": "Owns end-to-end analytics workflows, builds scalable data models, and improves developer and analytics lifecycle efficiency through data infrastructure and cross-functional collaboration.",
+      "key_skills": [
+        "sql",
+        "data",
+        "analytics",
+        "engineering",
+        "snowflake",
+        "dbt",
+        "git",
+        "sigma"
+      ],
+      "core_skills": [
+        "sql",
+        "data",
+        "analytics",
+        "engineering"
+      ],
+      "seniority_signal": "mid",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "remote"
+    },
+    "analytics-lead--full-affirm-68809818": {
+      "summary": "Owns marketplace monetization and economics, balancing merchant supply, consumer demand, and pricing to drive engagement, conversion, and profitability while building dashboards and collaborating with cross-functional teams.",
+      "key_skills": [
+        "marketplace analytics",
+        "monetization",
+        "economics",
+        "pricing",
+        "supply-demand dynamics",
+        "data analysis",
+        "sql",
+        "python"
+      ],
+      "core_skills": [
+        "marketplace economics",
+        "supply-demand dynamics",
+        "pricing strategy",
+        "data-driven decision making"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "remote"
+    },
+    "compliance-exam-lead-affirm-68809818": {
+      "summary": "Manages end-to-end regulatory exam processes, coordinates corrective actions, and maintains documentation for compliance with consumer financial regulations.",
+      "key_skills": [
+        "compliance",
+        "regulatory",
+        "exam",
+        "risk_management",
+        "consumer_financial_services",
+        "regulatory_exams",
+        "regulatory_compliance",
+        "consumer_protection_laws"
+      ],
+      "core_skills": [
+        "regulatory_exams",
+        "risk_management",
+        "consumer_protection_laws",
+        "compliance"
+      ],
+      "seniority_signal": "mid",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "onsite"
+    },
+    "counsel-ii--commerci-affirm-68809818": {
+      "summary": "Structures, drafts, negotiates, and reviews global commercial agreements while providing strategic legal advice to cross-functional teams.",
+      "key_skills": [
+        "commercial agreements",
+        "negotiation",
+        "drafting",
+        "legal advice",
+        "project management",
+        "data privacy terms"
+      ],
+      "core_skills": [
+        "complex commercial drafting",
+        "negotiation",
+        "legal advice",
+        "project management"
+      ],
+      "seniority_signal": "mid",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "remote"
+    },
+    "customer-operations--affirm-68809818": {
+      "summary": "Resolves escalated customer inquiries via email and phone, maintains high quality assurance scores, and collaborates with cross-functional teams to implement new systems and products.",
+      "key_skills": [
+        "customer service",
+        "email communication",
+        "quality assurance",
+        "financial knowledge",
+        "problem solving",
+        "analytical thinking",
+        "team collaboration",
+        "cross-functional"
+      ],
+      "core_skills": [
+        "customer inquiries resolution",
+        "omnichannel support",
+        "financial products",
+        "KPI management"
+      ],
+      "seniority_signal": "entry",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "hybrid"
+    },
+    "director--analytics--affirm-68809818": {
+      "summary": "Provides strategic partnership and analytics leadership to Revenue segment leaders, driving data-driven insights and growth opportunities through AI and automation.",
+      "key_skills": [
+        "strategy",
+        "analytics",
+        "data",
+        "leadership",
+        "team",
+        "ai",
+        "automation",
+        "problem-solving"
+      ],
+      "core_skills": [
+        "strategy",
+        "analytics",
+        "data",
+        "leadership"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "executive",
+      "red_flags": [],
+      "work_mode_derived": "remote"
+    },
+    "director--partner-ma-affirm-68809818": {
+      "summary": "Owns and scales Partner Marketing function to drive revenue growth through co-marketing campaigns and merchant partnerships.",
+      "key_skills": [
+        "partner marketing",
+        "performance marketing",
+        "affiliate marketing",
+        "media",
+        "attribution",
+        "marketplace",
+        "co-marketing",
+        "revenue growth"
+      ],
+      "core_skills": [
+        "strategic planning",
+        "team leadership",
+        "analytical skills",
+        "cross-functional collaboration"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "executive",
+      "red_flags": [],
+      "work_mode_derived": "unknown"
+    },
+    "it-engineering-manag-affirm-68809818": {
+      "summary": "Hands-on technical manager leads the Client Platform Engineering team to set technical direction, establish program operating model, and develop a team of three engineers for endpoint platform delivery.",
+      "key_skills": [
+        "client platform engineering",
+        "endpoint platform",
+        "zero-touch provisioning",
+        "mdm",
+        "patch management",
+        "automation pipelines",
+        "compliance posture",
+        "infrastructure-as-code"
+      ],
+      "core_skills": [
+        "technical leadership",
+        "program management",
+        "technical architecture",
+        "cross-functional partnership"
+      ],
+      "seniority_signal": "mid",
+      "role_type": "manager",
+      "red_flags": [],
+      "work_mode_derived": "hybrid"
+    },
+    "key-account-manager-affirm-68809818": {
+      "summary": "Key Account Manager oversees strategic merchant accounts to drive revenue growth through contract negotiations, pricing strategies, and cross-functional collaboration.",
+      "key_skills": [
+        "account_management",
+        "contract_negotiation",
+        "revenue_growth",
+        "strategic_partnerships",
+        "pricing_strategy",
+        "cross_functional_leading",
+        "merchant_relationships",
+        "e_commerce"
+      ],
+      "core_skills": [
+        "contract_negotiation",
+        "cross_functional_leading",
+        "revenue_growth",
+        "strategic_partnerships"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "manager",
+      "red_flags": [],
+      "work_mode_derived": "remote"
+    },
+    "manager--machine-lea-affirm-68809818": {
+      "summary": "Manages ML engineering team building economic decisioning engine using advanced ML techniques to underwrite and optimize applications based on expected returns, lifetime value, and predicted conversion.",
+      "key_skills": [
+        "machine learning",
+        "deep learning",
+        "transformers",
+        "tree-based models",
+        "agentic ml"
+      ],
+      "core_skills": [
+        "technical strategy",
+        "hands-on technical leadership",
+        "cross-functional collaboration"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "manager",
+      "red_flags": [],
+      "work_mode_derived": "remote"
+    },
+    "senior-director--key-affirm-68809818": {
+      "summary": "Senior Director leads Key & Enterprise Retail Sales to grow retail merchant relationships through strategic partnerships, pricing, and go-to-market execution.",
+      "key_skills": [
+        "sales",
+        "strategy",
+        "leadership",
+        "retail",
+        "enterprise",
+        "merchants",
+        "ai",
+        "data"
+      ],
+      "core_skills": [
+        "sales_leadership",
+        "strategic_partnerships",
+        "revenue_growth",
+        "executive_communication"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "executive",
+      "red_flags": [],
+      "work_mode_derived": "unknown"
+    },
+    "senior-engineering-m-affirm-68809818": {
+      "summary": "Senior Manager leads ML Platform engineering organization to build and operate critical infrastructure for ML capabilities including real-time and batch feature computation, model training, and model serving at scale.",
+      "key_skills": [
+        "machine learning",
+        "distributed systems",
+        "platform engineering",
+        "transformer models",
+        "reinforcement learning",
+        "gpu computing",
+        "feature stores",
+        "model serving"
+      ],
+      "core_skills": [
+        "machine learning",
+        "distributed systems",
+        "platform engineering",
+        "transformer models"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "manager",
+      "red_flags": [],
+      "work_mode_derived": "remote"
+    },
+    "senior-manager--soft-affirm-68809818": {
+      "summary": "Leads engineering teams to design and implement scalable data storage solutions for Affirm's products while ensuring high performance and reliability.",
+      "key_skills": [
+        "data",
+        "storage",
+        "services",
+        "engineering",
+        "leadership",
+        "cache",
+        "architecture",
+        "caching"
+      ],
+      "core_skills": [
+        "cache architecture",
+        "caching",
+        "storage infrastructure",
+        "leadership"
+      ],
+      "seniority_signal": "executive",
+      "role_type": "executive",
+      "red_flags": [],
+      "work_mode_derived": "remote"
+    },
+    "senior-product-desig-affirm-68809818": {
+      "summary": "Senior Product Designer partners with cross-functional teams to shape end-to-end customer experiences, deliver high-quality outcomes, and evolve how people interact with their money through design.",
+      "key_skills": [
+        "product design",
+        "user experience",
+        "design systems",
+        "research",
+        "data analysis",
+        "experimentation",
+        "cross-functional collaboration",
+        "design thinking"
+      ],
+      "core_skills": [
+        "product thinking",
+        "ownership",
+        "data-informed decision making",
+        "team influence"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "remote"
+    },
+    "senior-staff-machine-affirm-68809818": {
+      "summary": "Senior Staff Machine Learning Engineer designs, implements, and scales advanced ML systems while mentoring senior engineers and influencing architectural decisions across Affirm's financial services.",
+      "key_skills": [
+        "machine learning",
+        "python",
+        "pytorch",
+        "xgboost",
+        "distributed systems",
+        "transformers",
+        "feature stores",
+        "model monitoring"
+      ],
+      "core_skills": [
+        "technical leadership",
+        "system architecture",
+        "cross-functional collaboration",
+        "ml strategy"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "unknown"
+    },
+    "senior-staff-softwar-affirm-68809818": {
+      "summary": "Senior Staff Software Engineer shapes best practices, leads architectural choices, and drives delivery of critical web platform and infrastructure initiatives.",
+      "key_skills": [
+        "react",
+        "typescript",
+        "nx",
+        "oxlint",
+        "turbo",
+        "rspack",
+        "vite"
+      ],
+      "core_skills": [
+        "architecting",
+        "building",
+        "scaling",
+        "web_apps"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "remote"
+    },
+    "staff-product-manage-affirm-68809818": {
+      "summary": "Owns end-to-end bank product development including deposit products, loan originations, and regulatory compliance within Affirm's ecosystem.",
+      "key_skills": [
+        "product_management",
+        "banking",
+        "regulatory_compliance",
+        "de novo_bank_build",
+        "deposit_products",
+        "loan_origination",
+        "fintech",
+        "cross_functional"
+      ],
+      "core_skills": [
+        "program_leadership",
+        "bank_charter_experience",
+        "deposit_product_strategy",
+        "regulatory_compliance"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "unknown"
+    },
+    "strategic-finance-le-affirm-68809818": {
+      "summary": "Partners with cross-functional leaders to drive business outcomes through strategic and analytic support, builds financial models for forecasting and variance analysis, and delivers scalable automated dashboards for executive consumption.",
+      "key_skills": [
+        "financial modeling",
+        "forecasting",
+        "revenue finance",
+        "data analysis",
+        "sql",
+        "excel",
+        "python",
+        "looker"
+      ],
+      "core_skills": [
+        "analytical skills",
+        "cross-functional collaboration",
+        "strategic planning",
+        "financial reporting"
+      ],
+      "seniority_signal": "mid",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "remote"
+    },
+    "vice-president--trea-affirm-68809818": {
+      "summary": "Leads treasury functions including cash management, funding, and risk management across U.S. and international markets to ensure liquidity and strategic financial decision-making.",
+      "key_skills": [
+        "quantitative_insights",
+        "cash_management",
+        "risk_management",
+        "financial_modeling",
+        "interest_rate_derivatives",
+        "fx_risk_management",
+        "corporate_capital_structure",
+        "treasury_operations"
+      ],
+      "core_skills": [
+        "financial_services",
+        "structured_finance",
+        "corporate_financing"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "executive",
+      "red_flags": [],
+      "work_mode_derived": "remote"
+    },
+    "assistant-general-co-marqeta-68809818": {
+      "summary": "Owns SEC reporting workstreams, drives corporate governance, supports the Board and committees, and drafts proxy statements and related disclosure materials daily.",
+      "key_skills": [
+        "corporate",
+        "securities",
+        "governance",
+        "proxy",
+        "disclosure",
+        "sec",
+        "compliance",
+        "board"
+      ],
+      "core_skills": [
+        "sec reporting",
+        "corporate governance",
+        "board support",
+        "proxy statement drafting"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "hybrid"
+    },
+    "senior-cloud-databas-marqeta-68809818": {
+      "summary": "Senior Cloud Database Engineer responsible for automating AWS Aurora instance lifecycles, optimizing database performance, and building resilient database solutions for Marqeta's global card issuing platform.",
+      "key_skills": [
+        "aws",
+        "aurora",
+        "mysql",
+        "postgres",
+        "dynamodb",
+        "mongodb",
+        "terraform",
+        "python",
+        "linux",
+        "shell scripting",
+        "datadog",
+        "ci/cd",
+        "database administration",
+        "query tuning",
+        "indexing",
+        "performance metrics"
+      ],
+      "core_skills": [
+        "cloud native databases",
+        "high availability",
+        "disaster recovery",
+        "distributed systems"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "remote"
+    },
+    "senior-product-manag-marqeta-68809818": {
+      "summary": "Owns product strategy and roadmap for Marqeta's tokenization platform, drives innovation in digital wallet provisioning and network token transactions, and manages relationships with key partners including Visa, Mastercard, Apple, and Google.",
+      "key_skills": [
+        "product management",
+        "tokenization",
+        "payment systems",
+        "compliance",
+        "agile",
+        "api integration",
+        "customer success",
+        "stakeholder management"
+      ],
+      "core_skills": [
+        "payment industry expertise",
+        "end-to-end product delivery",
+        "compliance management",
+        "technical acumen"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "remote"
+    },
+    "design-engineer-vercel-68809818": {
+      "summary": "Design engineer works on high-level polish and creativity for Vercel's web experiences, marketing surfaces, and events, collaborating with cross-functional teams to improve user experience and performance.",
+      "key_skills": [
+        "nextjs",
+        "payload",
+        "rudderstack",
+        "clearbit",
+        "sequel",
+        "figma",
+        "seo",
+        "core web vitals"
+      ],
+      "core_skills": [
+        "nextjs",
+        "payload",
+        "rudderstack",
+        "clearbit"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "remote"
+    },
+    "senior-software-engi-vercel-68809818": {
+      "summary": "Senior Software Engineer builds and operates systems to protect developers and projects from abuse at internet scale by analyzing threat behavior, detecting abuse patterns, and implementing LLM-driven mitigations.",
+      "key_skills": [
+        "security engineering",
+        "data analysis",
+        "llm techniques",
+        "abuse prevention",
+        "trust and safety",
+        "cloud infrastructure",
+        "prompt engineering",
+        "fine-tuning"
+      ],
+      "core_skills": [
+        "security engineering",
+        "data analysis",
+        "llm techniques",
+        "abuse prevention"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "remote"
+    },
+    "software-engineer--b-vercel-68809818": {
+      "summary": "Backend software engineer designs, builds, and maintains scalable, high-performance systems using JavaScript/TypeScript, Node.js, and cloud-native databases to ensure secure and reliable user, group, and membership management solutions.",
+      "key_skills": [
+        "typescript",
+        "javascript",
+        "nodejs",
+        "sql",
+        "nosql",
+        "aws",
+        "rest",
+        "json"
+      ],
+      "core_skills": [
+        "security",
+        "scalability",
+        "cloud",
+        "infrastructure"
+      ],
+      "seniority_signal": "mid",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "hybrid"
+    },
+    "associate-general-co-webflow-68809818": {
+      "summary": "The Associate General Counsel, Privacy & Product leads global privacy and product legal strategy, manages legal teams, partners with product and engineering to embed privacy-by-design, and advises on AI-powered features and regulations.",
+      "key_skills": [
+        "privacy",
+        "product",
+        "legal",
+        "compliance",
+        "ai",
+        "governance",
+        "data",
+        "regulations"
+      ],
+      "core_skills": [
+        "legal",
+        "compliance",
+        "privacy",
+        "product"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "ic",
       "red_flags": [],
       "work_mode_derived": "remote"
     }
