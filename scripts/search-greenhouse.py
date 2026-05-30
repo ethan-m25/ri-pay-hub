@@ -17,6 +17,7 @@ from datetime import date, timedelta
 sys.path.insert(0, os.path.dirname(__file__))
 from _common import (
     make_logger, acquire_lock, load_existing_keys,
+    load_existing_urls,
     write_job, TODAY, OUTPUT_FILE, REGION_TERMS, _NON_REGION_LOC_TERMS,
 )
 
@@ -29,19 +30,10 @@ LOOKBACK_DATE = (date.today() - timedelta(days=60)).isoformat() + "T00:00:00.000
 log = make_logger(LOG_FILE)
 fetcher = Fetcher()
 
-SEED_SLUGS = [
-    ("careaccess", "Care Access"),
-    ("cvshealth", "CVS Health"),
-    ("citizensfinancial", "Citizens Financial"),
-    ("textron", None),
-    ("hasbro", None),
-    ("amgen", None),
-    ("fmglobal", "FM Global"),
-    ("brownuniversity", "Brown University"),
-    ("nationalgrid", "National Grid"),
-    ("bnymellon", "BNY Mellon"),
-    ("alexion", None),
-]
+# === Phase 4 seed loader (added 2026-05-27) ===
+sys.path.insert(0, os.path.expanduser('~/shared-scripts'))
+from hub_employer_seeds import load_greenhouse_seeds
+SEED_SLUGS = load_greenhouse_seeds('ri')
 
 
 SALARY_PATTERNS = [
@@ -179,6 +171,7 @@ def main():
 
     log("=== RI Greenhouse scraper started ===")
     existing = load_existing_keys()
+    existing_urls = load_existing_urls()
     log(f"Existing dedup keys: {len(existing)}")
 
     new_count = 0
@@ -186,11 +179,14 @@ def main():
         log(f"[{slug}] fetching...")
         jobs = fetch_company_jobs(slug, name_override)
         for job in jobs:
+            if job.get("source_url") in existing_urls:
+                continue
             key = f"{job['role'].lower().strip()}|{job['company'].lower().strip()}"
             if key in existing:
                 continue
             write_job(OUTPUT_FILE, job)
             existing.add(key)
+            existing_urls.add(job.get("source_url", ""))
             new_count += 1
             log(f"  + {job['role']} @ {job['company']} | ${job['min']:,}–${job['max']:,} | {job['location']}")
         time.sleep(0.5)

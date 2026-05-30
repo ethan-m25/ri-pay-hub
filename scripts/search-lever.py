@@ -17,6 +17,7 @@ from datetime import date, datetime, timedelta, timezone
 sys.path.insert(0, os.path.dirname(__file__))
 from _common import (
     make_logger, acquire_lock, exa_search, load_existing_keys,
+    load_existing_urls,
     write_job, TODAY, OUTPUT_FILE, REGION_TERMS, _NON_REGION_LOC_TERMS,
 )
 
@@ -29,18 +30,11 @@ LOOKBACK_DATE = (date.today() - timedelta(days=60)).isoformat() + "T00:00:00.000
 log = make_logger(LOG_FILE)
 fetcher = Fetcher()
 
-SEED_SLUGS = [
-    "textron",
-    "hasbro",
-    "fm-global",
-    "citizens",
-    "infosys",
-    "amgen",
-    "alexion",
-    "brown-university",
-    "cognizant",
-    "nuvera",
-]
+# === Phase 4 seed loader (added 2026-05-27) ===
+sys.path.insert(0, os.path.expanduser('~/shared-scripts'))
+from hub_employer_seeds import load_lever_seeds
+SEED_SLUGS = load_lever_seeds('ri')
+    "woodardcurran",  # auto-discovered 2026-05-28 — 3 RI+salary
 SEED_SLUGS = list(dict.fromkeys(SEED_SLUGS))
 
 
@@ -182,6 +176,7 @@ def main():
 
     existing_keys = load_existing_keys()
     seen_keys = set(existing_keys)
+    seen_urls = load_existing_urls()
     os.makedirs(os.path.dirname(OUTPUT_FILE), exist_ok=True)
 
     total_found = 0
@@ -233,6 +228,8 @@ def main():
             vmin, vmax = salary
             job_id = job.get("id", "")
             abs_url = f"https://jobs.lever.co/{slug}/{job_id}" if job_id else ""
+            if abs_url and abs_url in seen_urls:
+                continue
 
             posted = TODAY
             created_ms = job.get("createdAt")
@@ -257,6 +254,7 @@ def main():
 
             write_job(OUTPUT_FILE, job_out)
             seen_keys.add(key)
+            seen_urls.add(abs_url)
             total_found += 1
             found_this += 1
             log(f"  FOUND: {title[:50]} | ${vmin:,}–${vmax:,} [{loc_name}]")
