@@ -1,8 +1,8 @@
 {
   "meta": {
-    "built_at": "2026-05-29T12:39:04.112799+00:00",
+    "built_at": "2026-05-30T15:22:19.069381+00:00",
     "total_jobs": 616,
-    "enriched": 318
+    "enriched": 501
   },
   "jobs": {
     "associate-director---care-access-28696240": {
@@ -1428,6 +1428,32 @@
       "red_flags": [],
       "work_mode_derived": "remote"
     },
+    "revenue-enablement-c-vanta-74407640": {
+      "summary": "Enables JavaScript to run the app",
+      "key_skills": [
+        "javascript"
+      ],
+      "core_skills": [
+        "javascript"
+      ],
+      "seniority_signal": "entry",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "unknown"
+    },
+    "salesforce-product-m-vanta-74407640": {
+      "summary": "Enables JavaScript to run the app",
+      "key_skills": [
+        "javascript"
+      ],
+      "core_skills": [
+        "javascript"
+      ],
+      "seniority_signal": "entry",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "unknown"
+    },
     "salesforce-quality-e-vanta-74407640": {
       "summary": "Builds and owns the Business Systems Quality Assurance program for Vanta's internal GTM and Finance systems, ensuring revenue-critical workflows are protected through end-to-end quality gates, automation frameworks, and observability infrastructure.",
       "key_skills": [
@@ -1871,6 +1897,19 @@
       "red_flags": [],
       "work_mode_derived": "remote"
     },
+    "senior-salesforce-ad-vanta-74407640": {
+      "summary": "Enables JavaScript to run the app",
+      "key_skills": [
+        "javascript"
+      ],
+      "core_skills": [
+        "javascript"
+      ],
+      "seniority_signal": "entry",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "unknown"
+    },
     "senior-software-engi-vanta-74407640": {
       "summary": "Designs and builds scalable infrastructure to support rapid growth while ensuring security and reliability for Vanta's core systems.",
       "key_skills": [
@@ -1962,6 +2001,19 @@
       "role_type": "ic",
       "red_flags": [],
       "work_mode_derived": "remote"
+    },
+    "software-engineer--i-vanta-74407641": {
+      "summary": "Enables JavaScript to run the app",
+      "key_skills": [
+        "javascript"
+      ],
+      "core_skills": [
+        "javascript"
+      ],
+      "seniority_signal": "entry",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "unknown"
     },
     "solutions-engineer---vanta-74407641": {
       "summary": "Solutions Engineer leads technical discussions with customers to ensure seamless adoption of Vanta's security solutions, develops deep product understanding, and drives technical evaluations for pre-sales engagements.",
@@ -2549,6 +2601,19 @@
       "role_type": "manager",
       "red_flags": [],
       "work_mode_derived": "hybrid"
+    },
+    "manager--operations-headway-74407641": {
+      "summary": "Enables JavaScript to run the app",
+      "key_skills": [
+        "javascript"
+      ],
+      "core_skills": [
+        "javascript"
+      ],
+      "seniority_signal": "entry",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "unknown"
     },
     "manager--revenue-acc-headway-74407641": {
       "summary": "Owns operational execution of revenue accounting, leads senior revenue accountants, drives month-end close, and ensures compliance with ASC 606 while scaling processes through automation and cross-functional partnerships.",
@@ -3210,6 +3275,75 @@
       ],
       "seniority_signal": "mid",
       "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "onsite"
+    },
+    "business-operations--lyft-68809818": {
+      "summary": "This role owns financial modeling and analytics that drive fleet management strategy, including forecasting short- and long-term outcomes, monitoring market conditions, supporting expansion into autonomous vehicles, and translating data into actionable recommendations.",
+      "key_skills": [
+        "financial modeling",
+        "analytics",
+        "financial operations",
+        "process optimization",
+        "forecasting",
+        "variance analysis",
+        "automated reporting",
+        "cost optimization"
+      ],
+      "core_skills": [
+        "financial modeling",
+        "forecasting",
+        "var:analysis",
+        "process optimization"
+      ],
+      "seniority_signal": "mid",
+      "role_type": "manager",
+      "red_flags": [],
+      "work_mode_derived": "unknown"
+    },
+    "head-of-claims-lyft-68809818": {
+      "summary": "Head of Claims leads the claims strategy and operations for Lyft's rideshare services, managing third-party administrators and carriers while driving cost-mitigation and predictive risk intelligence.",
+      "key_skills": [
+        "claims",
+        "risk_management",
+        "liability",
+        "casualty",
+        "litigation",
+        "reserving",
+        "actuarial",
+        "predictive_analytics"
+      ],
+      "core_skills": [
+        "claims_strategy",
+        "tpa_management",
+        "severe_casualty",
+        "predictive_intelligence"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "executive",
+      "red_flags": [],
+      "work_mode_derived": "unknown"
+    },
+    "manager--global-inve-lyft-68809818": {
+      "summary": "Manages global investigations team to resolve organized crime cases through law enforcement partnerships and cross-functional collaboration.",
+      "key_skills": [
+        "law enforcement",
+        "investigations",
+        "fraud detection",
+        "community safety",
+        "risk assessment",
+        "executive protection",
+        "platform fraud",
+        "organized crime"
+      ],
+      "core_skills": [
+        "law enforcement partnerships",
+        "investigative analysis",
+        "cross-functional collaboration",
+        "strategic planning"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "manager",
       "red_flags": [],
       "work_mode_derived": "onsite"
     },
@@ -5349,6 +5483,29 @@
       "red_flags": [],
       "work_mode_derived": "remote"
     },
+    "commercial-counsel---asana-68809818": {
+      "summary": "Commercial Counsel, Procurement works cross-functionally with internal stakeholders to draft and negotiate commercial agreements and vendor onboarding while ensuring compliance and risk management.",
+      "key_skills": [
+        "commercial",
+        "procurement",
+        "legal",
+        "agreements",
+        "negotiation",
+        "drafting",
+        "vendor",
+        "onboarding"
+      ],
+      "core_skills": [
+        "legal",
+        "agreements",
+        "negotiation",
+        "drafting"
+      ],
+      "seniority_signal": "mid",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "remote"
+    },
     "corporate-account-ex-asana-68809818": {
       "summary": "Corporate Account Executive fuels Asana's expansion into established books of business by uncovering hidden potential and driving exponential growth through complex deals and strategic partnerships.",
       "key_skills": [
@@ -5462,6 +5619,28 @@
       "role_type": "ic",
       "red_flags": [],
       "work_mode_derived": "hybrid"
+    },
+    "renewal-manager-asana-68809818": {
+      "summary": "Manages human-agent workflows using Asana AI to streamline project management and automation tasks.",
+      "key_skills": [
+        "asana",
+        "ai",
+        "workflow",
+        "automation",
+        "goals",
+        "reporting",
+        "resource",
+        "management"
+      ],
+      "core_skills": [
+        "ai",
+        "workflow",
+        "automation"
+      ],
+      "seniority_signal": "entry",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "unknown"
     },
     "security-risk-and-co-asana-68809818": {
       "summary": "Security Risk and Compliance Analyst maintains Asana's compliance and certification programme, including controls maturity, policy governance, and audit execution, while collaborating with Security Engineering, Legal, Privacy, and R&D teams to ensure effective controls and certifications.",
@@ -6532,6 +6711,231 @@
       "red_flags": [],
       "work_mode_derived": "hybrid"
     },
+    "-usa--facilities-mai-walmart-inc--68809819": {
+      "summary": "Oversees predictive and preventative maintenance of facilities, leads technicians, ensures building efficiency and safety, and manages contractor licenses and compliance.",
+      "key_skills": [
+        "facilities maintenance",
+        "mechanical maintenance",
+        "preventative maintenance",
+        "predictive maintenance",
+        "contractor license",
+        "electrical",
+        "plumbing",
+        "mechanical"
+      ],
+      "core_skills": [
+        "leadership",
+        "problem solving",
+        "communication",
+        "customer service"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "manager",
+      "red_flags": [],
+      "work_mode_derived": "hybrid"
+    },
+    "ad-tech-product---se-cvs-pharmacy--i-68809819": {
+      "summary": "This role involves developing long-term marketing technology and ad technology product vision across CVS Health's lines of business, managing user identity work, and ensuring data compliance while collaborating with cross-functional teams.",
+      "key_skills": [
+        "ad technology",
+        "digital media",
+        "data science",
+        "identity solutions",
+        "media data",
+        "data connectivity",
+        "user identity",
+        "pseudonymous consumer data"
+      ],
+      "core_skills": [
+        "strategic oversight",
+        "cross-functional collaboration",
+        "data governance",
+        "privacy compliance"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "manager",
+      "red_flags": [],
+      "work_mode_derived": "remote"
+    },
+    "lead-senior-medical--cvs-shared-serv-68809819": {
+      "summary": "unknown",
+      "key_skills": [],
+      "core_skills": [],
+      "seniority_signal": "unknown",
+      "role_type": "unknown",
+      "red_flags": [],
+      "work_mode_derived": "unknown"
+    },
+    "senior-manager---fro-cvs-pharmacy--i-68809819": {
+      "summary": "The Senior Manager leads pricing strategy and execution across front store categories to drive profitable growth, price competitiveness, and customer value while partnering with Merchandising, Promotions, Marketing, Store Operations, and Finance.",
+      "key_skills": [
+        "pricing",
+        "retail",
+        "merchandising",
+        "revenue_management",
+        "financial_analytics",
+        "excel"
+      ],
+      "core_skills": [
+        "pricing_strategy",
+        "cross_functional_collaboration",
+        "analytical_skills"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "manager",
+      "red_flags": [],
+      "work_mode_derived": "remote"
+    },
+    "manager---pharmacy-w-cvs-pharmacy--i-68809819": {
+      "summary": "Manages pharmacy workflow innovation projects, executes tactical steps, and collaborates across departments to improve retail pharmacy operations and customer experiences.",
+      "key_skills": [
+        "pharmacy",
+        "workflow",
+        "innovation",
+        "retail",
+        "operations",
+        "project",
+        "execution",
+        "tactical"
+      ],
+      "core_skills": [
+        "project execution",
+        "tactical planning",
+        "cross-functional collaboration",
+        "data-driven decision making"
+      ],
+      "seniority_signal": "mid",
+      "role_type": "manager",
+      "red_flags": [],
+      "work_mode_derived": "remote"
+    },
+    "manager--patient-ful-cvs-pharmacy--i-68809819": {
+      "summary": "unknown",
+      "key_skills": [],
+      "core_skills": [],
+      "seniority_signal": "unknown",
+      "role_type": "unknown",
+      "red_flags": [],
+      "work_mode_derived": "unknown"
+    },
+    "site-manager-2-corp-corporate--68809819": {
+      "summary": "Directs all phases of assigned location program objectives from inception through completion and oversees day-to-day site operations including employees, facility, safety, security, and production.",
+      "key_skills": [
+        "site management",
+        "technical performance",
+        "new construction",
+        "field engineering",
+        "safety",
+        "security",
+        "production",
+        "shipyard operations"
+      ],
+      "core_skills": [
+        "leadership",
+        "technical oversight",
+        "risk management",
+        "program coordination"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "onsite"
+    },
+    "gastroenterology-hea-pfizer-inc-68809819": {
+      "summary": "Drives customer engagement and sales performance through effective in-person interactions while building compliant relationships with healthcare providers and office staff across assigned accounts.",
+      "key_skills": [
+        "gastroenterology",
+        "sales",
+        "health",
+        "science",
+        "specialty",
+        "pharmaceutical",
+        "biologics",
+        "reimbursement"
+      ],
+      "core_skills": [
+        "sales",
+        "pharmusing",
+        "reimbursement",
+        "digital_engagement"
+      ],
+      "seniority_signal": "mid",
+      "role_type": "ic",
+      "red_flags": [
+        "dual",
+        "dual"
+      ],
+      "work_mode_derived": "onsite"
+    },
+    "senior-product-manag-vanta-68809819": {
+      "summary": "Owns the Test Experience roadmap, focuses on helping customers surface compliance gaps fast, resolve issues through automated and agentic means, and generate audit-ready evidence.",
+      "key_skills": [
+        "product management",
+        "compliance",
+        "security",
+        "ai",
+        "agentic",
+        "automation",
+        "customer experience",
+        "workflow tools"
+      ],
+      "core_skills": [
+        "product management",
+        "customer experience",
+        "ai",
+        "automation"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "remote"
+    },
+    "senior-software-engi-vanta-68809819": {
+      "summary": "Builds and ships internal tools to accelerate Vanta's go-to-market efforts by collaborating with Sales, Customer Success, and Revenue Operations to improve pipeline generation and win rates through AI-powered workflows and automation.",
+      "key_skills": [
+        "python",
+        "typescript",
+        "sql",
+        "ai",
+        "web",
+        "full-stack",
+        "ai-driven",
+        "automation"
+      ],
+      "core_skills": [
+        "full-stack",
+        "ai",
+        "python",
+        "typescript"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "unknown"
+    },
+    "technical-support-sp-vanta-68809819": {
+      "summary": "Provides technical support to customers through email, screen sharing, and chat, resolving inquiries within SLAs while mastering Vanta's product and explaining complex solutions in simplified terms.",
+      "key_skills": [
+        "technical support",
+        "troubleshooting",
+        "cloud infrastructure",
+        "api integration",
+        "networking",
+        "datadog",
+        "database",
+        "empathy"
+      ],
+      "core_skills": [
+        "troubleshooting",
+        "cloud infrastructure",
+        "api integration",
+        "networking"
+      ],
+      "seniority_signal": "mid",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "remote"
+    },
     "growth-marketing-lea-brisk-teaching-68809819": {
       "summary": "Owns Brisk's teacher growth engine end-to-end, designing experiments and building systems to acquire, retain, and advocate teachers through B2C funnel optimization.",
       "key_skills": [
@@ -6935,6 +7339,21 @@
       "red_flags": [],
       "work_mode_derived": "unknown"
     },
+    "senior-manager--ukg--kpmg-68809819": {
+      "summary": "person does day-to-day work at kpmg canada",
+      "key_skills": [
+        "kpmg",
+        "canada"
+      ],
+      "core_skills": [
+        "kpmg",
+        "canada"
+      ],
+      "seniority_signal": "entry",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "unknown"
+    },
     "senior-manager--indi-kpmg-68809819": {
       "summary": "Senior Manager handles indirect tax compliance and advisory services for clients in Vancouver, Canada.",
       "key_skills": [
@@ -6994,6 +7413,2574 @@
       "role_type": "manager",
       "red_flags": [],
       "work_mode_derived": "onsite"
+    },
+    "senior-consultant-sa-kpmg-68809819": {
+      "summary": "Senior Consultant SAP - IT Risk Services in Toronto, Canada | KPMG",
+      "key_skills": [
+        "sap",
+        "it risk services"
+      ],
+      "core_skills": [
+        "sap"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "unknown"
+    },
+    "senior-associate--re-kpmg-68809819": {
+      "summary": "person does day-to-day work at kpmg canada",
+      "key_skills": [
+        "kpmg",
+        "canada"
+      ],
+      "core_skills": [
+        "kpmg",
+        "canada"
+      ],
+      "seniority_signal": "entry",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "unknown"
+    },
+    "specialist--private--kpmg-68809819": {
+      "summary": "Specialist, Private Enterprise Tax in Kelowna, Canada",
+      "key_skills": [
+        "tax"
+      ],
+      "core_skills": [
+        "tax"
+      ],
+      "seniority_signal": "entry",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "unknown"
+    },
+    "manager--audit-quali-kpmg-68809819": {
+      "summary": "Manages audit quality and risk management for KPMG in Toronto, Canada.",
+      "key_skills": [
+        "audit",
+        "quality",
+        "risk",
+        "management"
+      ],
+      "core_skills": [
+        "audit",
+        "risk"
+      ],
+      "seniority_signal": "mid",
+      "role_type": "manager",
+      "red_flags": [],
+      "work_mode_derived": "onsite"
+    },
+    "senior-consultant--t-kpmg-68809819": {
+      "summary": "Senior Consultant works on technology risk services in it audit",
+      "key_skills": [
+        "technology",
+        "risk",
+        "services",
+        "it",
+        "audit"
+      ],
+      "core_skills": [
+        "it",
+        "audit"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "unknown"
+    },
+    "senior-manager--regu-kpmg-68809819": {
+      "summary": "Senior Manager provides regulatory and risk advisory services to clients in the financial sector.",
+      "key_skills": [
+        "quantitative",
+        "regulatory",
+        "risk"
+      ],
+      "core_skills": [
+        "quantitative",
+        "regulatory",
+        "risk"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "manager",
+      "red_flags": [],
+      "work_mode_derived": "onsite"
+    },
+    "manager--audit-kpmg-68809819": {
+      "summary": "Manages audit teams across multiple locations.",
+      "key_skills": [
+        "audit",
+        "manager"
+      ],
+      "core_skills": [
+        "audit"
+      ],
+      "seniority_signal": "manager",
+      "role_type": "manager",
+      "red_flags": [],
+      "work_mode_derived": "unknown"
+    },
+    "senior-manager--audi-kpmg-68809819": {
+      "summary": "Senior Manager, Audit - Enterprise conducts enterprise-wide audit engagements and leads audit teams.",
+      "key_skills": [
+        "audit",
+        "enterprise"
+      ],
+      "core_skills": [
+        "audit"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "manager",
+      "red_flags": [],
+      "work_mode_derived": "unknown"
+    },
+    "manager---governance-kpmg-68809819": {
+      "summary": "Manages governance, risk, and compliance services for asset management and pensions sectors in Toronto, Canada.",
+      "key_skills": [
+        "governance",
+        "risk",
+        "compliance",
+        "internal audit",
+        "asset management",
+        "pensions"
+      ],
+      "core_skills": [
+        "governance",
+        "risk",
+        "compliance"
+      ],
+      "seniority_signal": "mid",
+      "role_type": "manager",
+      "red_flags": [],
+      "work_mode_derived": "onsite"
+    },
+    "salesforce-alliance--kpmg-68809819": {
+      "summary": "Executes Salesforce alliance strategy and drives revenue growth for KPMG's Salesforce ecosystem.",
+      "key_skills": [
+        "salesforce",
+        "alliance",
+        "executive"
+      ],
+      "core_skills": [
+        "salesforce"
+      ],
+      "seniority_signal": "executive",
+      "role_type": "executive",
+      "red_flags": [],
+      "work_mode_derived": "unknown"
+    },
+    "data---ai-alliance-e-kpmg-68809819": {
+      "summary": "Data & AI Alliance Executive at KPMG in Toronto, Canada",
+      "key_skills": [
+        "data",
+        "ai"
+      ],
+      "core_skills": [
+        "data"
+      ],
+      "seniority_signal": "executive",
+      "role_type": "executive",
+      "red_flags": [],
+      "work_mode_derived": "unknown"
+    },
+    "senior-manager--fina-kpmg-68809819": {
+      "summary": "Senior Manager leads finance transformation initiatives in Vancouver, Canada.",
+      "key_skills": [
+        "finance",
+        "transformation"
+      ],
+      "core_skills": [
+        "finance"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "manager",
+      "red_flags": [],
+      "work_mode_derived": "onsite"
+    },
+    "manager--servicenow--kpmg-68809819": {
+      "summary": "Manages ServiceNow transformation and engagement initiatives for clients in Vancouver, Canada.",
+      "key_skills": [
+        "service now",
+        "transformation",
+        "engagement"
+      ],
+      "core_skills": [
+        "service now"
+      ],
+      "seniority_signal": "lead",
+      "role_type": "manager",
+      "red_flags": [],
+      "work_mode_derived": "onsite"
+    },
+    "senior-consultant--s-kpmg-68809819": {
+      "summary": "Senior Consultant works with clients to implement ServiceNow solutions and drive digital transformation.",
+      "key_skills": [
+        "service now",
+        "consultant",
+        "senior"
+      ],
+      "core_skills": [
+        "service now",
+        "consultant"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "onsite"
+    },
+    "senior-technical-con-kpmg-68809819": {
+      "summary": "Senior Technical Consultant, ServiceNow Developer works on ServiceNow platform development and implementation projects.",
+      "key_skills": [
+        "service now",
+        "technical consultant",
+        "developer"
+      ],
+      "core_skills": [
+        "service now"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "unknown"
+    },
+    "senior-manager--acco-kpmg-68809819": {
+      "summary": "Senior Manager provides accounting advisory services to clients in Toronto, Canada.",
+      "key_skills": [
+        "accounting",
+        "advisory",
+        "services"
+      ],
+      "core_skills": [
+        "accounting"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "manager",
+      "red_flags": [],
+      "work_mode_derived": "onsite"
+    },
+    "senior-tax-manager---kpmg-68809819": {
+      "summary": "Senior Tax Manager handles tax compliance and advisory services for asset management clients in Toronto, Canada.",
+      "key_skills": [
+        "tax",
+        "asset management"
+      ],
+      "core_skills": [
+        "tax"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "manager",
+      "red_flags": [],
+      "work_mode_derived": "onsite"
+    },
+    "senior-consultant--a-kpmg-68809819": {
+      "summary": "Senior Consultant provides accounting advisory services to clients in Toronto, Canada.",
+      "key_skills": [
+        "accounting",
+        "consulting",
+        "advisory"
+      ],
+      "core_skills": [
+        "accounting"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "onsite"
+    },
+    "vice-president--sr---kpmg-68809819": {
+      "summary": "This role involves managing corporate finance operations, including financial analysis, financial modeling, budgeting, and risk management for large-scale business initiatives.",
+      "key_skills": [
+        "corporate finance",
+        "financial analysis",
+        "financial modeling",
+        "budgeting",
+        "risk management",
+        "accounting",
+        "auditing",
+        "strategy"
+      ],
+      "core_skills": [
+        "financial analysis",
+        "financial modeling",
+        "budgeting",
+        "risk management"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "executive",
+      "red_flags": [],
+      "work_mode_derived": "onsite"
+    },
+    "associate--tax-law-m-kpmg-68809819": {
+      "summary": "Associate working on tax law matters related to mergers and acquisitions in Toronto, Canada.",
+      "key_skills": [
+        "tax",
+        "m&a"
+      ],
+      "core_skills": [
+        "tax"
+      ],
+      "seniority_signal": "entry",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "onsite"
+    },
+    "senior-consultant--b-kpmg-68809819": {
+      "summary": "Senior Consultant works on banking and capital markets projects for clients in Toronto, Canada.",
+      "key_skills": [
+        "banking",
+        "capital markets",
+        "consulting"
+      ],
+      "core_skills": [
+        "consulting"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "onsite"
+    },
+    "tax-specialist---mer-kpmg-68809819": {
+      "summary": "Tax Specialist performs day-to-day tax work related to mergers and acquisitions in Toronto, Canada.",
+      "key_skills": [
+        "tax",
+        "mergers",
+        "acquisitions"
+      ],
+      "core_skills": [
+        "tax"
+      ],
+      "seniority_signal": "entry",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "onsite"
+    },
+    "legal-assistant-kpmg-68809819": {
+      "summary": "Legal assistant provides support to legal teams in Hamilton, Canada.",
+      "key_skills": [
+        "legal",
+        "assistant",
+        "kpmg",
+        "hamilton"
+      ],
+      "core_skills": [
+        "legal"
+      ],
+      "seniority_signal": "entry",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "onsite"
+    },
+    "senior-manager--root-kpmg-68809819": {
+      "summary": "Senior Manager responsible for leading root cause analysis across multiple locations.",
+      "key_skills": [
+        "root cause analysis",
+        "senior manager"
+      ],
+      "core_skills": [
+        "root cause analysis"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "manager",
+      "red_flags": [],
+      "work_mode_derived": "unknown"
+    },
+    "tax-manager--mergers-kpmg-68809819": {
+      "summary": "Tax Manager handles tax compliance and advisory for M&A transactions in Toronto.",
+      "key_skills": [
+        "tax",
+        "mergers",
+        "acquisitions"
+      ],
+      "core_skills": [
+        "tax"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "manager",
+      "red_flags": [],
+      "work_mode_derived": "onsite"
+    },
+    "senior-accountant--e-kpmg-68809819": {
+      "summary": "Senior Accountant performs enterprise audit tasks and ensures compliance with accounting standards.",
+      "key_skills": [
+        "accounting",
+        "audit"
+      ],
+      "core_skills": [
+        "audit"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "onsite"
+    },
+    "manager--accounting--kpmg-68809819": {
+      "summary": "Manages accounting advisory services team in Toronto, Canada.",
+      "key_skills": [
+        "accounting",
+        "advisory",
+        "services"
+      ],
+      "core_skills": [
+        "accounting"
+      ],
+      "seniority_signal": "mid",
+      "role_type": "manager",
+      "red_flags": [],
+      "work_mode_derived": "onsite"
+    },
+    "service-now-develope-kpmg-68809819": {
+      "summary": "Service Now Developer works on implementing and maintaining ServiceNow platforms for client engagements.",
+      "key_skills": [
+        "service now",
+        "developer"
+      ],
+      "core_skills": [
+        "service now"
+      ],
+      "seniority_signal": "entry",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "unknown"
+    },
+    "senior-power-platfor-kpmg-68809819": {
+      "summary": "Senior Power Platform Developer works on developing and maintaining Power Platform solutions for clients.",
+      "key_skills": [
+        "powerplatform",
+        "developer"
+      ],
+      "core_skills": [
+        "powerplatform"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "unknown"
+    },
+    "senior-consultant--e-kpmg-68809819": {
+      "summary": "Senior Consultant provides ESG assurance services to clients in Toronto, Canada.",
+      "key_skills": [
+        "esg",
+        "consultant",
+        "assurance"
+      ],
+      "core_skills": [
+        "esg",
+        "assurance"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "onsite"
+    },
+    "manager--audit---pri-kpmg-68809819": {
+      "summary": "Manages audit teams and delivers audit services for private enterprise clients in Prince George, Canada.",
+      "key_skills": [
+        "audit",
+        "kpmg",
+        "prince george",
+        "canada"
+      ],
+      "core_skills": [
+        "audit"
+      ],
+      "seniority_signal": "mid",
+      "role_type": "manager",
+      "red_flags": [],
+      "work_mode_derived": "onsite"
+    },
+    "permanent-residency--kpmg-68809819": {
+      "summary": "Performs clerical tasks related to permanent residency applications in Toronto, Canada.",
+      "key_skills": [
+        "permanent residency",
+        "clerk",
+        "toronto",
+        "canada"
+      ],
+      "core_skills": [
+        "clerk"
+      ],
+      "seniority_signal": "entry",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "onsite"
+    },
+    "lead-security-archit-kpmg-68809819": {
+      "summary": "Lead Security Architect in Multiple Locations",
+      "key_skills": [
+        "security",
+        "architecture"
+      ],
+      "core_skills": [
+        "security"
+      ],
+      "seniority_signal": "lead",
+      "role_type": "executive",
+      "red_flags": [],
+      "work_mode_derived": "unknown"
+    },
+    "manager--partner-fin-kpmg-68809819": {
+      "summary": "Manages partner financial planning and wellness programs for clients in Toronto, Canada.",
+      "key_skills": [
+        "partner",
+        "financial",
+        "planning",
+        "wellness"
+      ],
+      "core_skills": [
+        "financial",
+        "planning"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "manager",
+      "red_flags": [],
+      "work_mode_derived": "onsite"
+    },
+    "manager--third-party-kpmg-68809819": {
+      "summary": "Manages third party risk programs for financial institutions and regulatory compliance.",
+      "key_skills": [
+        "third party risk",
+        "risk management",
+        "compliance",
+        "regulatory compliance",
+        "financial risk"
+      ],
+      "core_skills": [
+        "risk management",
+        "compliance"
+      ],
+      "seniority_signal": "mid",
+      "role_type": "manager",
+      "red_flags": [],
+      "work_mode_derived": "onsite"
+    },
+    "second-year-staff-ac-kpmg-68809819": {
+      "summary": "Second Year Staff Accountant performs day-to-day accounting tasks related to audit work.",
+      "key_skills": [
+        "accounting",
+        "audit"
+      ],
+      "core_skills": [
+        "accounting"
+      ],
+      "seniority_signal": "entry",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "onsite"
+    },
+    "senior-manager--publ-kpmg-68809819": {
+      "summary": "Senior Manager conducts public company audit engagements in Vancouver, Canada.",
+      "key_skills": [
+        "public company audit",
+        "vancouver",
+        "kpmg"
+      ],
+      "core_skills": [
+        "public company audit"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "manager",
+      "red_flags": [],
+      "work_mode_derived": "onsite"
+    },
+    "senior-law-clerk---b-kpmg-68809819": {
+      "summary": "Senior Law Clerk works with legal teams to provide legal support for business law matters in Toronto, Canada.",
+      "key_skills": [
+        "business law",
+        "senior law clerk"
+      ],
+      "core_skills": [
+        "business law"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "onsite"
+    },
+    "partner-administrati-kpmg-68809819": {
+      "summary": "Supports partner administrative needs with day-to-day tasks",
+      "key_skills": [
+        "partner",
+        "administrative",
+        "assistant"
+      ],
+      "core_skills": [
+        "administrative"
+      ],
+      "seniority_signal": "entry",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "onsite"
+    },
+    "manager--banking-and-kpmg-68809819": {
+      "summary": "Manages banking and capital markets teams in Toronto, Canada.",
+      "key_skills": [
+        "banking",
+        "capital markets"
+      ],
+      "core_skills": [
+        "banking",
+        "capital markets"
+      ],
+      "seniority_signal": "mid",
+      "role_type": "manager",
+      "red_flags": [],
+      "work_mode_derived": "onsite"
+    },
+    "consultant--accounti-kpmg-68809819": {
+      "summary": "Consultant provides accounting advisory services across multiple locations.",
+      "key_skills": [
+        "accounting",
+        "advisory"
+      ],
+      "core_skills": [
+        "advisory"
+      ],
+      "seniority_signal": "entry",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "unknown"
+    },
+    "manager--audit---ent-kpmg-68809819": {
+      "summary": "Manages audit teams and delivers enterprise audit services.",
+      "key_skills": [
+        "audit",
+        "enterprise"
+      ],
+      "core_skills": [
+        "audit"
+      ],
+      "seniority_signal": "mid",
+      "role_type": "manager",
+      "red_flags": [],
+      "work_mode_derived": "onsite"
+    },
+    "consultant--go-to-ma-kpmg-68809819": {
+      "summary": "person does day-to-day work at kpmg canada",
+      "key_skills": [
+        "kpmg",
+        "canada"
+      ],
+      "core_skills": [
+        "kpmg",
+        "canada"
+      ],
+      "seniority_signal": "entry",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "unknown"
+    },
+    "data-support-senior--kpmg-68809819": {
+      "summary": "Data Support Senior Consultant provides data support services across multiple locations.",
+      "key_skills": [
+        "data",
+        "support",
+        "senior",
+        "consultant"
+      ],
+      "core_skills": [
+        "data"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "unknown"
+    },
+    "senior-sr-ed-consult-kpmg-68809819": {
+      "summary": "Senior SR&ED Consultant provides technical consulting services to help clients navigate complex regulatory and compliance requirements in mechanical and chemical engineering fields.",
+      "key_skills": [
+        "sr&ed",
+        "consultant",
+        "mechanical",
+        "chemical",
+        "engineering"
+      ],
+      "core_skills": [
+        "sr&ed",
+        "consultant"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "unknown"
+    },
+    "manager--change-and--kpmg-68809819": {
+      "summary": "Manages change and adoption initiatives for clients in Toronto, Canada.",
+      "key_skills": [
+        "change_management",
+        "adoption"
+      ],
+      "core_skills": [
+        "change_management"
+      ],
+      "seniority_signal": "mid",
+      "role_type": "manager",
+      "red_flags": [],
+      "work_mode_derived": "onsite"
+    },
+    "senior-manager--cust-kpmg-68809819": {
+      "summary": "Senior Manager, Customer Success works with clients to ensure their success and satisfaction.",
+      "key_skills": [
+        "customer success",
+        "toronto",
+        "kpmg"
+      ],
+      "core_skills": [
+        "customer success"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "manager",
+      "red_flags": [],
+      "work_mode_derived": "unknown"
+    },
+    "senior-manager--glob-kpmg-68809819": {
+      "summary": "Senior Manager leads global data analytics and insights initiatives for procurement operations.",
+      "key_skills": [
+        "data analytics",
+        "insights",
+        "global procurement"
+      ],
+      "core_skills": [
+        "data analytics",
+        "insights"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "manager",
+      "red_flags": [],
+      "work_mode_derived": "onsite"
+    },
+    "manager--global-proc-kpmg-68809819": {
+      "summary": "Manages global procurement knowledge management operations in Toronto, Canada.",
+      "key_skills": [
+        "procurement",
+        "knowledge management"
+      ],
+      "core_skills": [
+        "procurement"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "manager",
+      "red_flags": [],
+      "work_mode_derived": "onsite"
+    },
+    "senior-consultant--f-kpmg-68809819": {
+      "summary": "Senior Consultant works on finance transformation projects for insurance clients in Toronto, Canada.",
+      "key_skills": [
+        "finance",
+        "transformation",
+        "insurance"
+      ],
+      "core_skills": [
+        "finance"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "onsite"
+    },
+    "manager--finance-tra-kpmg-68809819": {
+      "summary": "Manages finance transformation initiatives for insurance clients in Toronto, Canada.",
+      "key_skills": [
+        "finance",
+        "transformation",
+        "insurance"
+      ],
+      "core_skills": [
+        "finance"
+      ],
+      "seniority_signal": "mid",
+      "role_type": "manager",
+      "red_flags": [],
+      "work_mode_derived": "onsite"
+    },
+    "site-reliability-eng-kpmg-68809819": {
+      "summary": "Site Reliability Engineer works on ensuring system reliability and stability across multiple locations.",
+      "key_skills": [
+        "site",
+        "reliability",
+        "engineer"
+      ],
+      "core_skills": [
+        "kpmg"
+      ],
+      "seniority_signal": "entry",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "unknown"
+    },
+    "senior-consultant--g-kpmg-68809819": {
+      "summary": "senior_consultant_works_with_clients_to_solve_business_problems",
+      "key_skills": [
+        "kpmg",
+        "senior_consultant"
+      ],
+      "core_skills": [
+        "consulting"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "unknown"
+    },
+    "manager--risk-indepe-kpmg-68809819": {
+      "summary": "Manages risk independence activities across multiple locations",
+      "key_skills": [
+        "risk",
+        "independence"
+      ],
+      "core_skills": [
+        "risk"
+      ],
+      "seniority_signal": "mid",
+      "role_type": "manager",
+      "red_flags": [],
+      "work_mode_derived": "unknown"
+    },
+    "senior-manager--data-kpmg-68809819": {
+      "summary": "Senior Manager leads data analytics and automation initiatives for data modernization projects in Toronto, Canada.",
+      "key_skills": [
+        "data analytics",
+        "automation",
+        "data modernization"
+      ],
+      "core_skills": [
+        "data analytics",
+        "automation"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "manager",
+      "red_flags": [],
+      "work_mode_derived": "onsite"
+    },
+    "marketing-specialist-kpmg-68809819": {
+      "summary": "Marketing Specialist works on marketing activities for Audit & Assurance and Private Enterprise services across multiple locations.",
+      "key_skills": [
+        "marketing",
+        "audit",
+        "assurance",
+        "private",
+        "enterprise"
+      ],
+      "core_skills": [
+        "marketing"
+      ],
+      "seniority_signal": "entry",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "onsite"
+    },
+    "senior-manager--tax--kpmg-68809819": {
+      "summary": "Senior Manager leads tax strategy for M&A transactions in Toronto, Canada.",
+      "key_skills": [
+        "tax",
+        "mergers",
+        "acquisitions"
+      ],
+      "core_skills": [
+        "tax"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "manager",
+      "red_flags": [],
+      "work_mode_derived": "onsite"
+    },
+    "soc-analyst-level-2--kpmg-68809819": {
+      "summary": "SOC Analyst Level 2 performs day-to-day security monitoring and incident response activities.",
+      "key_skills": [
+        "cyber security",
+        "soc analyst"
+      ],
+      "core_skills": [
+        "cyber security"
+      ],
+      "seniority_signal": "entry",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "onsite"
+    },
+    "solution-architect-a-kpmg-68809820": {
+      "summary": "Solution Architect designs and implements enterprise solutions using Anaplan platform.",
+      "key_skills": [
+        "solution",
+        "architect"
+      ],
+      "core_skills": [
+        "solution",
+        "architect"
+      ],
+      "seniority_signal": "entry",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "unknown"
+    },
+    "associate-vice-presi-kpmg-68809820": {
+      "summary": "Manages corporate finance operations including financial analysis, financial modeling, budgeting, and financial reporting for a large organization.",
+      "key_skills": [
+        "corporate finance",
+        "financial analysis",
+        "financial modeling",
+        "budgeting",
+        "financial reporting",
+        "risk management",
+        "accounting",
+        "strategy"
+      ],
+      "core_skills": [
+        "financial analysis",
+        "financial modeling",
+        "budgeting",
+        "financial reporting"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "manager",
+      "red_flags": [],
+      "work_mode_derived": "onsite"
+    },
+    "manager--transaction-kpmg-68809820": {
+      "summary": "Manages transaction services infrastructure operations",
+      "key_skills": [
+        "infrastructure",
+        "transaction"
+      ],
+      "core_skills": [
+        "infrastructure"
+      ],
+      "seniority_signal": "mid",
+      "role_type": "manager",
+      "red_flags": [],
+      "work_mode_derived": "onsite"
+    },
+    "senior-manager--tran-kpmg-68809820": {
+      "summary": "Senior Manager responsible for infrastructure transaction services in Toronto, Canada.",
+      "key_skills": [
+        "infrastructure",
+        "transaction"
+      ],
+      "core_skills": [
+        "infrastructure"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "manager",
+      "red_flags": [],
+      "work_mode_derived": "onsite"
+    },
+    "senior-manager--data-kpmg-68809820": {
+      "summary": "Senior Manager leads data and automation solutions hub across multiple locations.",
+      "key_skills": [
+        "data",
+        "automation",
+        "solutions",
+        "hub"
+      ],
+      "core_skills": [
+        "data",
+        "automation"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "manager",
+      "red_flags": [],
+      "work_mode_derived": "unknown"
+    },
+    "senior-consultant--m-kpmg-68809820": {
+      "summary": "Senior Consultant works on data engineering and data science projects using Microsoft Fabric, Azure, SQL, and Python.",
+      "key_skills": [
+        "microsoft fabric",
+        "data engineering",
+        "data science",
+        "azure",
+        "sql",
+        "python",
+        "power bi",
+        "power automate"
+      ],
+      "core_skills": [
+        "microsoft fabric",
+        "azure",
+        "sql",
+        "python"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "onsite"
+    },
+    "manager--ml-ai-engin-kpmg-68809820": {
+      "summary": "Manages ML/AI engineering teams across multiple locations to deliver data and AI solutions.",
+      "key_skills": [
+        "ml",
+        "ai",
+        "data"
+      ],
+      "core_skills": [
+        "ml",
+        "ai"
+      ],
+      "seniority_signal": "mid",
+      "role_type": "manager",
+      "red_flags": [],
+      "work_mode_derived": "hybrid"
+    },
+    "senior-consultant--d-kpmg-68809820": {
+      "summary": "Senior Consultant works on AI modernization projects involving data analytics and automation solutions.",
+      "key_skills": [
+        "data analytics",
+        "automation",
+        "ai modernization"
+      ],
+      "core_skills": [
+        "data analytics",
+        "automation"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "onsite"
+    },
+    "attorney--us-immigra-kpmg-68809820": {
+      "summary": "Attorney specializing in US immigration law who provides legal advice and assistance to clients in Toronto, Canada.",
+      "key_skills": [
+        "attorney",
+        "us immigration"
+      ],
+      "core_skills": [
+        "us immigration"
+      ],
+      "seniority_signal": "entry",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "onsite"
+    },
+    "process-manager--glo-kpmg-68809820": {
+      "summary": "Process Manager, Global Procurement manages procurement processes across global operations.",
+      "key_skills": [
+        "procurement",
+        "process"
+      ],
+      "core_skills": [
+        "procurement"
+      ],
+      "seniority_signal": "mid",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "onsite"
+    },
+    "manager---global-pro-kpmg-68809820": {
+      "summary": "Manages global procurement systems administration and supplier information engagement platform operations.",
+      "key_skills": [
+        "procurement",
+        "systems",
+        "administration",
+        "global"
+      ],
+      "core_skills": [
+        "procurement",
+        "systems"
+      ],
+      "seniority_signal": "mid",
+      "role_type": "manager",
+      "red_flags": [],
+      "work_mode_derived": "onsite"
+    },
+    "contract-manager-kpmg-68809820": {
+      "summary": "Manages contracts across multiple locations for KPMG.",
+      "key_skills": [
+        "contract",
+        "manager"
+      ],
+      "core_skills": [
+        "contract"
+      ],
+      "seniority_signal": "mid",
+      "role_type": "manager",
+      "red_flags": [],
+      "work_mode_derived": "unknown"
+    },
+    "key-account-speciali-kpmg-68809820": {
+      "summary": "Key Account Specialist works with government and healthcare clients to manage relationships and ensure infrastructure services meet client needs.",
+      "key_skills": [
+        "infrastructure",
+        "government",
+        "healthcare"
+      ],
+      "core_skills": [
+        "communication"
+      ],
+      "seniority_signal": "entry",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "onsite"
+    },
+    "security-architect-kpmg-68809820": {
+      "summary": "Security Architect designs and implements security solutions across multiple locations.",
+      "key_skills": [
+        "security",
+        "architecture"
+      ],
+      "core_skills": [
+        "security"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "onsite"
+    },
+    "senior-manager---it--kpmg-68809820": {
+      "summary": "Senior Manager responsible for IT internal control and financial reporting functions.",
+      "key_skills": [
+        "it",
+        "icfr"
+      ],
+      "core_skills": [
+        "it",
+        "icfr"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "manager",
+      "red_flags": [],
+      "work_mode_derived": "onsite"
+    },
+    "associate--corporate-kpmg-68809820": {
+      "summary": "Associate working in corporate finance in toronto, canada",
+      "key_skills": [
+        "corporate finance",
+        "toronto",
+        "kpmg"
+      ],
+      "core_skills": [
+        "corporate finance"
+      ],
+      "seniority_signal": "entry",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "onsite"
+    },
+    "client-administratio-kpmg-68809820": {
+      "summary": "Client Administration Lead manages client administration processes and ensures smooth client interactions.",
+      "key_skills": [
+        "client",
+        "administration",
+        "lead"
+      ],
+      "core_skills": [
+        "client",
+        "administration"
+      ],
+      "seniority_signal": "lead",
+      "role_type": "executive",
+      "red_flags": [],
+      "work_mode_derived": "unknown"
+    },
+    "team-administrative--kpmg-68809820": {
+      "summary": "Team Administrative Assistant handles day-to-day administrative tasks for the team.",
+      "key_skills": [
+        "team",
+        "administrative",
+        "assistant"
+      ],
+      "core_skills": [
+        "administrative"
+      ],
+      "seniority_signal": "entry",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "onsite"
+    },
+    "partner-administrati-kpmg-68809820": {
+      "summary": "Supports partner-level financial crimes teams with administrative tasks and coordination.",
+      "key_skills": [
+        "partner",
+        "administrative",
+        "assistant",
+        "financial",
+        "crimes"
+      ],
+      "core_skills": [
+        "administrative",
+        "financial"
+      ],
+      "seniority_signal": "entry",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "onsite"
+    },
+    "senior-consultant--t-kpmg-68809820": {
+      "summary": "Senior Consultant works on transfer pricing projects across multiple locations.",
+      "key_skills": [
+        "transfer pricing",
+        "consulting"
+      ],
+      "core_skills": [
+        "transfer pricing"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "unknown"
+    },
+    "intelligent-automati-kpmg-68809820": {
+      "summary": "Business analyst working with intelligent automation solutions to support business processes and improve efficiency.",
+      "key_skills": [
+        "intelligent automation",
+        "business analyst"
+      ],
+      "core_skills": [
+        "intelligent automation",
+        "business analysis"
+      ],
+      "seniority_signal": "mid",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "hybrid"
+    },
+    "manager--enterprise--kpmg-68809820": {
+      "summary": "Manages enterprise core services operations and teams.",
+      "key_skills": [
+        "enterprise",
+        "core",
+        "services"
+      ],
+      "core_skills": [
+        "enterprise"
+      ],
+      "seniority_signal": "mid",
+      "role_type": "manager",
+      "red_flags": [],
+      "work_mode_derived": "onsite"
+    },
+    "manager--data-analyt-kpmg-68809820": {
+      "summary": "Manages data analytics and data governance initiatives within the Governance, Risk & Compliance Services (GRCS) team in Ottawa, Canada.",
+      "key_skills": [
+        "data analytics",
+        "data governance"
+      ],
+      "core_skills": [
+        "data governance"
+      ],
+      "seniority_signal": "mid",
+      "role_type": "manager",
+      "red_flags": [],
+      "work_mode_derived": "onsite"
+    },
+    "senior-manager--us-c-kpmg-68809820": {
+      "summary": "Senior Manager handles corporate tax matters for US clients in Toronto, Canada.",
+      "key_skills": [
+        "tax",
+        "corporate"
+      ],
+      "core_skills": [
+        "tax"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "manager",
+      "red_flags": [],
+      "work_mode_derived": "onsite"
+    },
+    "manager--audit---pub-kpmg-68809820": {
+      "summary": "Manages audit teams for public companies in Vancouver, Canada.",
+      "key_skills": [
+        "audit",
+        "public_company"
+      ],
+      "core_skills": [
+        "audit"
+      ],
+      "seniority_signal": "mid",
+      "role_type": "manager",
+      "red_flags": [],
+      "work_mode_derived": "onsite"
+    },
+    "senior-manager--reso-kpmg-68809820": {
+      "summary": "Senior Manager leads audit teams across multiple locations, managing resources and ensuring compliance with audit standards.",
+      "key_skills": [
+        "resource management",
+        "audit"
+      ],
+      "core_skills": [
+        "audit"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "manager",
+      "red_flags": [],
+      "work_mode_derived": "onsite"
+    },
+    "senior-consultant----kpmg-68809820": {
+      "summary": "Senior Consultant works on IT risk assessments and advisory services for clients in Toronto, Canada.",
+      "key_skills": [
+        "it",
+        "risk",
+        "services"
+      ],
+      "core_skills": [
+        "risk",
+        "analysis"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "onsite"
+    },
+    "senior-consultant--e-kpmg-68809820": {
+      "summary": "Senior Consultant works with clients to implement and optimize enterprise performance management solutions using Anaplan, OneStream, and Oracle.",
+      "key_skills": [
+        "enterprise performance management",
+        "anaplan",
+        "onestream",
+        "oracle"
+      ],
+      "core_skills": [
+        "enterprise performance management"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "onsite"
+    },
+    "senior-manager--ente-kpmg-68809820": {
+      "summary": "Senior Manager, Enterprise Tax in Sudbury, Canada",
+      "key_skills": [
+        "enterprise",
+        "tax"
+      ],
+      "core_skills": [
+        "tax"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "manager",
+      "red_flags": [],
+      "work_mode_derived": "unknown"
+    },
+    "legal-assistant--24--kpmg-68809820": {
+      "summary": "Legal assistant supporting legal team with day-to-day tasks",
+      "key_skills": [
+        "legal",
+        "assistant",
+        "contract"
+      ],
+      "core_skills": [
+        "legal"
+      ],
+      "seniority_signal": "entry",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "remote"
+    },
+    "manager--transfer-pr-kpmg-68809820": {
+      "summary": "Manages transfer pricing activities across multiple locations",
+      "key_skills": [
+        "transfer pricing",
+        "manager"
+      ],
+      "core_skills": [
+        "transfer pricing"
+      ],
+      "seniority_signal": "mid",
+      "role_type": "manager",
+      "red_flags": [],
+      "work_mode_derived": "unknown"
+    },
+    "analyst--corporate-f-kpmg-68809820": {
+      "summary": "Analyst performs financial analysis and reporting for corporate finance.",
+      "key_skills": [
+        "corporate finance",
+        "analysis"
+      ],
+      "core_skills": [
+        "analysis"
+      ],
+      "seniority_signal": "entry",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "unknown"
+    },
+    "manager--audit---sys-kpmg-68809820": {
+      "summary": "Manages audit activities for quality management systems across multiple locations",
+      "key_skills": [
+        "audit",
+        "quality_management"
+      ],
+      "core_skills": [
+        "audit"
+      ],
+      "seniority_signal": "mid",
+      "role_type": "manager",
+      "red_flags": [],
+      "work_mode_derived": "onsite"
+    },
+    "national-data-manage-kpmg-68809820": {
+      "summary": "Coordinates data management activities across multiple locations with practical experience.",
+      "key_skills": [
+        "data",
+        "management",
+        "coordination",
+        "practical"
+      ],
+      "core_skills": [
+        "data"
+      ],
+      "seniority_signal": "mid",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "hybrid"
+    },
+    "financial-analyst-kpmg-68809820": {
+      "summary": "Financial Analyst performs day-to-day financial analysis tasks in Toronto, Canada.",
+      "key_skills": [
+        "financial",
+        "analysis",
+        "toronto",
+        "kpmg"
+      ],
+      "core_skills": [
+        "financial_analysis"
+      ],
+      "seniority_signal": "entry",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "onsite"
+    },
+    "senior-manager--hr-c-kpmg-68809820": {
+      "summary": "Senior Manager, HR Consultant works with clients to provide HR consulting services in Vancouver, Canada.",
+      "key_skills": [
+        "hr",
+        "consultant",
+        "senior"
+      ],
+      "core_skills": [
+        "hr",
+        "consultant"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "manager",
+      "red_flags": [],
+      "work_mode_derived": "onsite"
+    },
+    "senior-manager--cana-kpmg-68809820": {
+      "summary": "Senior Manager responsible for Canadian Corporate Tax services in Vancouver, Canada",
+      "key_skills": [
+        "tax",
+        "corporate"
+      ],
+      "core_skills": [
+        "tax"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "manager",
+      "red_flags": [],
+      "work_mode_derived": "onsite"
+    },
+    "manager--sap-integra-kpmg-68809820": {
+      "summary": "Manages SAP integration and BTP projects for clients in Toronto, Canada.",
+      "key_skills": [
+        "sap",
+        "integration",
+        "btp"
+      ],
+      "core_skills": [
+        "sap"
+      ],
+      "seniority_signal": "lead",
+      "role_type": "manager",
+      "red_flags": [],
+      "work_mode_derived": "onsite"
+    },
+    "manager--sap-technic-kpmg-68809820": {
+      "summary": "Manages technical teams and leads SAP implementations",
+      "key_skills": [
+        "sap",
+        "technical"
+      ],
+      "core_skills": [
+        "technical"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "manager",
+      "red_flags": [],
+      "work_mode_derived": "onsite"
+    },
+    "senior-consultant--s-kpmg-68809820": {
+      "summary": "Senior Consultant works with clients to implement SAP S/4HANA Embedded Analytics solutions.",
+      "key_skills": [
+        "sap",
+        "s4hana",
+        "embedded",
+        "analytics",
+        "consultant"
+      ],
+      "core_skills": [
+        "sap",
+        "s4hana"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "unknown"
+    },
+    "director--banking----kpmg-68809820": {
+      "summary": "Director leads banking and capital markets teams in Toronto, Canada.",
+      "key_skills": [
+        "banking",
+        "capital markets"
+      ],
+      "core_skills": [
+        "banking",
+        "capital markets"
+      ],
+      "seniority_signal": "director",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "onsite"
+    },
+    "ai-platform-administ-kpmg-68809820": {
+      "summary": "AI Platform Administrator manages and maintains AI infrastructure across multiple locations.",
+      "key_skills": [
+        "ai",
+        "platform",
+        "administrator"
+      ],
+      "core_skills": [
+        "ai",
+        "platform"
+      ],
+      "seniority_signal": "entry",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "onsite"
+    },
+    "consultant---life-ac-kpmg-68809820": {
+      "summary": "Consultant - Life Actuarial works on actuarial projects for clients in Toronto, Canada.",
+      "key_skills": [
+        "actuarial",
+        "consultant"
+      ],
+      "core_skills": [
+        "actuarial"
+      ],
+      "seniority_signal": "entry",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "onsite"
+    },
+    "ontario---atlantic-p-kpmg-68809820": {
+      "summary": "Manages Ontario and Atlantic Pursuits and Proposals for KPMG in Toronto, Canada.",
+      "key_skills": [
+        "kpmg",
+        "ontario",
+        "atlantic",
+        "pursuits",
+        "proposals",
+        "manager"
+      ],
+      "core_skills": [
+        "manager"
+      ],
+      "seniority_signal": "mid",
+      "role_type": "manager",
+      "red_flags": [],
+      "work_mode_derived": "onsite"
+    },
+    "key-account-manager--kpmg-68809820": {
+      "summary": "Manages key client relationships in financial services, including banking and asset management.",
+      "key_skills": [
+        "key account management",
+        "financial services",
+        "banking",
+        "asset management"
+      ],
+      "core_skills": [
+        "client relationship management",
+        "financial analysis"
+      ],
+      "seniority_signal": "mid",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "onsite"
+    },
+    "senior-economist-kpmg-68809820": {
+      "summary": "Senior Economist works on economic analysis and policy recommendations across multiple locations.",
+      "key_skills": [
+        "economist",
+        "kpmg"
+      ],
+      "core_skills": [
+        "economist"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "unknown"
+    },
+    "manager--financial-d-kpmg-68809820": {
+      "summary": "Manages financial due diligence processes for transactions in deal advisory services.",
+      "key_skills": [
+        "financial",
+        "due",
+        "diligence",
+        "transaction",
+        "services",
+        "deal"
+      ],
+      "core_skills": [
+        "financial",
+        "due",
+        "diligence"
+      ],
+      "seniority_signal": "mid",
+      "role_type": "manager",
+      "red_flags": [],
+      "work_mode_derived": "onsite"
+    },
+    "senior-associate--fi-kpmg-68809820": {
+      "summary": "Senior Associate performs financial due diligence and transaction services for clients in Toronto, Canada.",
+      "key_skills": [
+        "financial due diligence",
+        "transaction services"
+      ],
+      "core_skills": [
+        "financial due diligence",
+        "transaction services"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "onsite"
+    },
+    "manager--human-resou-kpmg-68809820": {
+      "summary": "Manages human resources for mergers and acquisitions projects in Toronto, Canada.",
+      "key_skills": [
+        "human resources",
+        "mergers and acquisitions"
+      ],
+      "core_skills": [
+        "mergers and acquisitions"
+      ],
+      "seniority_signal": "mid",
+      "role_type": "manager",
+      "red_flags": [],
+      "work_mode_derived": "onsite"
+    },
+    "senior-manager--regu-kpmg-68809820": {
+      "summary": "Provides regulatory compliance advice and transformation services to clients in Toronto, Canada.",
+      "key_skills": [
+        "regulatory compliance",
+        "risk advisory"
+      ],
+      "core_skills": [
+        "regulatory compliance",
+        "risk advisory"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "manager",
+      "red_flags": [],
+      "work_mode_derived": "onsite"
+    },
+    "immigration-coordina-kpmg-68809820": {
+      "summary": "person does day-to-day work at kpmg canada",
+      "key_skills": [
+        "kpmg",
+        "canada"
+      ],
+      "core_skills": [
+        "kpmg",
+        "canada"
+      ],
+      "seniority_signal": "entry",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "unknown"
+    },
+    "end-user-support-ana-kpmg-68809820": {
+      "summary": "End User Support Analyst provides day-to-day technical support to end users in Toronto, Canada.",
+      "key_skills": [
+        "end user support",
+        "toronto",
+        "kpmg"
+      ],
+      "core_skills": [
+        "end user support"
+      ],
+      "seniority_signal": "entry",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "onsite"
+    },
+    "billing-and-collecti-kpmg-68809820": {
+      "summary": "Billing and Collection Coordinator handles billing and collection tasks for clients.",
+      "key_skills": [
+        "billing",
+        "collection"
+      ],
+      "core_skills": [
+        "billing"
+      ],
+      "seniority_signal": "entry",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "onsite"
+    },
+    "supplier-relationshi-kpmg-68809820": {
+      "summary": "Manages supplier relationships for global digital business operations in Toronto, Canada.",
+      "key_skills": [
+        "supplier",
+        "relationship",
+        "manager",
+        "global",
+        "digital",
+        "business",
+        "operations"
+      ],
+      "core_skills": [
+        "relationship",
+        "management"
+      ],
+      "seniority_signal": "mid",
+      "role_type": "manager",
+      "red_flags": [],
+      "work_mode_derived": "onsite"
+    },
+    "senior-manager--fami-kpmg-68809820": {
+      "summary": "Senior Manager responsible for cross border tax services within family offices across multiple locations.",
+      "key_skills": [
+        "tax",
+        "cross_border",
+        "family_office"
+      ],
+      "core_skills": [
+        "tax"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "manager",
+      "red_flags": [],
+      "work_mode_derived": "unknown"
+    },
+    "manager-sap---it-ris-kpmg-68809820": {
+      "summary": "Manages IT risk services operations in Toronto, Canada.",
+      "key_skills": [
+        "sap",
+        "it risk services"
+      ],
+      "core_skills": [
+        "sap"
+      ],
+      "seniority_signal": "mid",
+      "role_type": "manager",
+      "red_flags": [],
+      "work_mode_derived": "onsite"
+    },
+    "senior-consultant--v-kpmg-68809820": {
+      "summary": "Senior Consultant in Valuations deals with deal advisory services across multiple locations.",
+      "key_skills": [
+        "valuation",
+        "consultant",
+        "deal"
+      ],
+      "core_skills": [
+        "valuation"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "unknown"
+    },
+    "senior-manager--gran-kpmg-68809820": {
+      "summary": "Senior Manager leads grants and government assistance practice across multiple locations.",
+      "key_skills": [
+        "grants",
+        "government",
+        "assistance",
+        "practice"
+      ],
+      "core_skills": [
+        "grants",
+        "government"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "manager",
+      "red_flags": [],
+      "work_mode_derived": "unknown"
+    },
+    "senior-manager-sap---kpmg-68809820": {
+      "summary": "Senior Manager SAP - IT Risk Services in Toronto, Canada | KPMG",
+      "key_skills": [
+        "sap",
+        "it risk services"
+      ],
+      "core_skills": [
+        "sap"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "manager",
+      "red_flags": [],
+      "work_mode_derived": "unknown"
+    },
+    "billing-specialist---kpmg-68809820": {
+      "summary": "Billing Specialist handles billing tasks for family office clients.",
+      "key_skills": [
+        "billing",
+        "specialist"
+      ],
+      "core_skills": [
+        "billing"
+      ],
+      "seniority_signal": "entry",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "onsite"
+    },
+    "global-mobility--bil-kpmg-68809820": {
+      "summary": "Bilingual senior advisor provides global mobility services to clients across multiple locations.",
+      "key_skills": [
+        "bilingual",
+        "global_mobility"
+      ],
+      "core_skills": [
+        "bilingual"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "executive",
+      "red_flags": [],
+      "work_mode_derived": "unknown"
+    },
+    "senior-consultant--i-kpmg-68809820": {
+      "summary": "Senior Consultant works on integration and separation services for mergers and acquisitions in Toronto, Canada.",
+      "key_skills": [
+        "integration",
+        "separation",
+        "services",
+        "operations",
+        "mergers",
+        "acquisitions"
+      ],
+      "core_skills": [
+        "integration",
+        "separation"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "onsite"
+    },
+    "senior-consultant--r-kpmg-68809820": {
+      "summary": "Senior Consultant works on risk and compliance transformation projects within governance, risk and compliance services.",
+      "key_skills": [
+        "risk",
+        "compliance",
+        "transformation",
+        "governance"
+      ],
+      "core_skills": [
+        "risk_management",
+        "compliance"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "onsite"
+    },
+    "senior-consultant-ad-kpmg-68809820": {
+      "summary": "Senior Consultant Advisory - M&A Ops works on day-to-day operations for mergers and acquisitions transactions.",
+      "key_skills": [
+        "m&a",
+        "advisory",
+        "consulting",
+        "operations"
+      ],
+      "core_skills": [
+        "m&a"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "onsite"
+    },
+    "tax-specialist--asse-kpmg-68809820": {
+      "summary": "Tax Specialist works on tax compliance and advisory services for asset management clients.",
+      "key_skills": [
+        "tax",
+        "asset"
+      ],
+      "core_skills": [
+        "tax"
+      ],
+      "seniority_signal": "entry",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "onsite"
+    },
+    "workday-technical-in-kpmg-68809820": {
+      "summary": "Lead technical integrations across multiple locations for KPMG.",
+      "key_skills": [
+        "workday",
+        "integrations",
+        "lead"
+      ],
+      "core_skills": [
+        "workday"
+      ],
+      "seniority_signal": "lead",
+      "role_type": "executive",
+      "red_flags": [],
+      "work_mode_derived": "unknown"
+    },
+    "manager--accounting--kpmg-68809820": {
+      "summary": "Manages accounting advisory services for financial instruments in Toronto, Canada.",
+      "key_skills": [
+        "accounting",
+        "advisory",
+        "financial"
+      ],
+      "core_skills": [
+        "accounting"
+      ],
+      "seniority_signal": "mid",
+      "role_type": "manager",
+      "red_flags": [],
+      "work_mode_derived": "onsite"
+    },
+    "senior-manager--acco-kpmg-68809820": {
+      "summary": "Senior Manager leads financial instruments advisory services team in Toronto, Canada.",
+      "key_skills": [
+        "accounting",
+        "advisory",
+        "financial"
+      ],
+      "core_skills": [
+        "accounting"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "manager",
+      "red_flags": [],
+      "work_mode_derived": "onsite"
+    },
+    "manager--tax-shared--kpmg-68809820": {
+      "summary": "Manages tax shared services across multiple locations.",
+      "key_skills": [
+        "tax",
+        "shared_services",
+        "manager"
+      ],
+      "core_skills": [
+        "tax"
+      ],
+      "seniority_signal": "manager",
+      "role_type": "manager",
+      "red_flags": [],
+      "work_mode_derived": "unknown"
+    },
+    "consultant--complex--kpmg-68809820": {
+      "summary": "Consultant performs complex financial instruments valuations for deal advisory services in Toronto, Canada.",
+      "key_skills": [
+        "complex financial instruments",
+        "valuations",
+        "deal advisory"
+      ],
+      "core_skills": [
+        "financial modeling",
+        "valuation"
+      ],
+      "seniority_signal": "mid",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "onsite"
+    },
+    "manager--data---auto-kpmg-68809820": {
+      "summary": "Manages data and automation solutions hub across multiple locations",
+      "key_skills": [
+        "data",
+        "automation",
+        "solutions",
+        "hub"
+      ],
+      "core_skills": [
+        "data",
+        "automation"
+      ],
+      "seniority_signal": "mid",
+      "role_type": "manager",
+      "red_flags": [],
+      "work_mode_derived": "unknown"
+    },
+    "senior-accountant--d-kpmg-68809820": {
+      "summary": "Senior Accountant handles financial reporting and analysis for Data & Automation Solutions Hub across multiple locations.",
+      "key_skills": [
+        "accounting",
+        "data",
+        "automation"
+      ],
+      "core_skills": [
+        "accounting"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "onsite"
+    },
+    "learning-operations--kpmg-68809820": {
+      "summary": "Learning Operations Specialist works with learning and development teams to design and implement learning programs for employees.",
+      "key_skills": [
+        "learning",
+        "operations",
+        "specialist"
+      ],
+      "core_skills": [
+        "learning",
+        "operations"
+      ],
+      "seniority_signal": "entry",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "unknown"
+    },
+    "senior-manager--corp-kpmg-68809820": {
+      "summary": "Senior Manager, Corporate Tax, Real Estate in Toronto, Canada | KPMG",
+      "key_skills": [
+        "corporate tax",
+        "real estate"
+      ],
+      "core_skills": [
+        "corporate tax"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "manager",
+      "red_flags": [],
+      "work_mode_derived": "unknown"
+    },
+    "director--experience-kpmg-68809820": {
+      "summary": "Directs global digital marketing experience design initiatives",
+      "key_skills": [
+        "digital marketing",
+        "experience design",
+        "global"
+      ],
+      "core_skills": [
+        "digital marketing"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "executive",
+      "red_flags": [],
+      "work_mode_derived": "unknown"
+    },
+    "senior-manager--tax--kpmg-68809820": {
+      "summary": "Senior Manager leads tax shared services operations across multiple locations for private enterprise clients.",
+      "key_skills": [
+        "tax",
+        "shared_services",
+        "private_enterprise"
+      ],
+      "core_skills": [
+        "tax"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "manager",
+      "red_flags": [],
+      "work_mode_derived": "unknown"
+    },
+    "manager---governance-kpmg-68809820": {
+      "summary": "Manages governance, risk, and compliance services for banking clients in Toronto.",
+      "key_skills": [
+        "governance",
+        "risk",
+        "compliance",
+        "internal audit",
+        "banking"
+      ],
+      "core_skills": [
+        "governance",
+        "risk",
+        "compliance"
+      ],
+      "seniority_signal": "mid",
+      "role_type": "manager",
+      "red_flags": [],
+      "work_mode_derived": "onsite"
+    },
+    "ai-builder--senior-c-kpmg-68809820": {
+      "summary": "Senior consultant working with AI to build solutions across multiple locations.",
+      "key_skills": [
+        "ai",
+        "builder",
+        "senior",
+        "consultant",
+        "multiple",
+        "locations"
+      ],
+      "core_skills": [
+        "ai"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "unknown"
+    },
+    "manager--talent-attr-kpmg-68809820": {
+      "summary": "Manages talent attraction for tax professionals in Toronto, Canada.",
+      "key_skills": [
+        "tax",
+        "talent_attraction"
+      ],
+      "core_skills": [
+        "tax"
+      ],
+      "seniority_signal": "mid",
+      "role_type": "manager",
+      "red_flags": [],
+      "work_mode_derived": "onsite"
+    },
+    "ai-builder--manager-kpmg-68809820": {
+      "summary": "Manages AI projects across multiple locations",
+      "key_skills": [
+        "ai",
+        "builder"
+      ],
+      "core_skills": [
+        "ai"
+      ],
+      "seniority_signal": "mid",
+      "role_type": "manager",
+      "red_flags": [],
+      "work_mode_derived": "hybrid"
+    },
+    "specialist--sr-ed----kpmg-68809820": {
+      "summary": "Specialist works on tax incentives for clients in Toronto, Canada.",
+      "key_skills": [
+        "tax",
+        "incentives",
+        "sr&ed"
+      ],
+      "core_skills": [
+        "tax",
+        "incentives"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "onsite"
+    },
+    "manager--us-corporat-kpmg-68809820": {
+      "summary": "Manages corporate tax team in Vancouver, Canada, ensuring compliance and strategic tax planning for clients.",
+      "key_skills": [
+        "corporate tax",
+        "tax compliance",
+        "tax planning",
+        "tax advisory",
+        "tax strategy"
+      ],
+      "core_skills": [
+        "tax compliance",
+        "tax planning"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "manager",
+      "red_flags": [],
+      "work_mode_derived": "onsite"
+    },
+    "senior-consultant--h-kpmg-68809820": {
+      "summary": "Senior Consultant in Human Resources focuses on Mergers & Acquisitions, providing strategic HR solutions for complex transactions.",
+      "key_skills": [
+        "human resources",
+        "mergers and acquisitions",
+        "consulting"
+      ],
+      "core_skills": [
+        "consulting"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "onsite"
+    },
+    "senior-manager--glob-kpmg-68809820": {
+      "summary": "Senior Manager leads global identity and access management operations.",
+      "key_skills": [
+        "identity",
+        "access",
+        "management",
+        "operations",
+        "global"
+      ],
+      "core_skills": [
+        "identity",
+        "access",
+        "management"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "manager",
+      "red_flags": [],
+      "work_mode_derived": "onsite"
+    },
+    "consultant--valuatio-kpmg-68809820": {
+      "summary": "Consultant who advises on valuations for deals across multiple locations.",
+      "key_skills": [
+        "consultant",
+        "valuations",
+        "deal"
+      ],
+      "core_skills": [
+        "valuations"
+      ],
+      "seniority_signal": "entry",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "unknown"
+    },
+    "senior-brand-manager-kpmg-68809820": {
+      "summary": "Senior Brand Manager leads global marketing initiatives and brand strategy development for KPMG's international operations.",
+      "key_skills": [
+        "brand management",
+        "global marketing"
+      ],
+      "core_skills": [
+        "brand strategy",
+        "market analysis"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "onsite"
+    },
+    "manager--operations--kpmg-68809820": {
+      "summary": "Manages M&A strategy operations for KPMG in Toronto, Canada",
+      "key_skills": [
+        "m&a strategy",
+        "operations"
+      ],
+      "core_skills": [
+        "m&a strategy",
+        "operations"
+      ],
+      "seniority_signal": "mid",
+      "role_type": "manager",
+      "red_flags": [],
+      "work_mode_derived": "onsite"
+    },
+    "director--strategy---kpmg-68809820": {
+      "summary": "Directs strategy and operations for business enablement across multiple locations.",
+      "key_skills": [
+        "strategy",
+        "operations",
+        "business",
+        "enablement"
+      ],
+      "core_skills": [
+        "strategy",
+        "operations"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "executive",
+      "red_flags": [],
+      "work_mode_derived": "unknown"
+    },
+    "manager--business-en-kpmg-68809820": {
+      "summary": "Manages business enablement services for finance across multiple locations.",
+      "key_skills": [
+        "business enablement",
+        "finance"
+      ],
+      "core_skills": [
+        "business enablement"
+      ],
+      "seniority_signal": "mid",
+      "role_type": "manager",
+      "red_flags": [],
+      "work_mode_derived": "onsite"
+    },
+    "manager--data-platfo-kpmg-68809820": {
+      "summary": "Manages data platform architecture across multiple locations",
+      "key_skills": [
+        "data",
+        "platform",
+        "architect"
+      ],
+      "core_skills": [
+        "data",
+        "platform"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "manager",
+      "red_flags": [],
+      "work_mode_derived": "unknown"
+    },
+    "system-server-admini-kpmg-68809820": {
+      "summary": "System Server Administrator manages and maintains server infrastructure across multiple locations.",
+      "key_skills": [
+        "system",
+        "server",
+        "administration"
+      ],
+      "core_skills": [
+        "system",
+        "server"
+      ],
+      "seniority_signal": "entry",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "onsite"
+    },
+    "analytics-lead--full-affirm-54988429": {
+      "summary": "The role involves leveraging advanced data analytics to optimize credit strategies, designing risk models, monitoring portfolio performance, and collaborating with cross-functional teams to ensure regulatory compliance and sustainable growth.",
+      "key_skills": [
+        "data analytics",
+        "credit risk",
+        "machine learning",
+        "sql",
+        "python",
+        "statistical modeling",
+        "data visualization",
+        "regulatory compliance"
+      ],
+      "core_skills": [
+        "credit strategy",
+        "risk mitigation",
+        "cross-functional collaboration",
+        "regulatory frameworks"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "unknown"
+    },
+    "manager--software-en-affirm-54988429": {
+      "summary": "This Engineering Manager leads the team building and operating platforms that support ephemeral developer environments, improving engineering productivity through reliable, scalable systems and close collaboration with CI/CD and infrastructure teams.",
+      "key_skills": [
+        "kubernetes",
+        "ci/cd",
+        "docker",
+        "infrastructure-as-code",
+        "python",
+        "kotlin",
+        "cloud-native",
+        "aws"
+      ],
+      "core_skills": [
+        "engineering_management",
+        "systems_operations",
+        "developer_productivity",
+        "cloud_infrastructure"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "manager",
+      "red_flags": [],
+      "work_mode_derived": "onsite"
+    },
+    "staff-backend-engine-grafanalabs-54988429": {
+      "summary": "Backend engineer responsible for designing and leading development of scalable backend services and distributed systems for Grafana Enterprise, ensuring reliability and security for large-scale customer operations.",
+      "key_skills": [
+        "go",
+        "distributed systems",
+        "backend engineering",
+        "scalable infrastructure",
+        "observability",
+        "open source",
+        "distributed systems",
+        "scalable infrastructure"
+      ],
+      "core_skills": [
+        "distributed systems",
+        "backend engineering",
+        "observability",
+        "open source"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "remote"
+    },
+    "senior-strategic-fin-mixpanel-54988429": {
+      "summary": "Owns end-to-end financial planning for major domains like GTM, R&D, or G&A, designing scalable planning processes and providing strategic financial insights to leadership.",
+      "key_skills": [
+        "sql",
+        "financial_modeling",
+        "saaS_unit_economics",
+        "forecasting",
+        "scenario_analysis",
+        "data_quality"
+      ],
+      "core_skills": [
+        "financial_planning",
+        "strategic_finance",
+        "cross_functional_partnership",
+        "data_driven_decision_making"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "executive",
+      "red_flags": [],
+      "work_mode_derived": "hybrid"
+    },
+    "talent-manager---cen-veterinaryemerg-54988429": {
+      "summary": "Provides 24/7 emergency veterinary care for pets",
+      "key_skills": [
+        "veterinary",
+        "emergency",
+        "pets"
+      ],
+      "core_skills": [
+        "veterinary"
+      ],
+      "seniority_signal": "entry",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "onsite"
+    },
+    "veterinary-sonograph-veterinaryemerg-54988429": {
+      "summary": "Sonographer provides ultrasound support for VEG hospitals and training facilities, performing scans and training staff in ultrasound techniques while collaborating with medical teams.",
+      "key_skills": [
+        "ultrasound",
+        "sonography",
+        "veterinary",
+        "emergency",
+        "training",
+        "medical",
+        "diagnostic",
+        "radiology"
+      ],
+      "core_skills": [
+        "ultrasound training",
+        "patient care",
+        "team collaboration",
+        "adaptable"
+      ],
+      "seniority_signal": "mid",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "hybrid"
+    },
+    "product-quality-engi-andurilindustri-54988429": {
+      "summary": "Senior Product Quality Engineer responsible for defining, developing, and executing quality processes for AUV integration, ensuring compliance with AS9100 standards and scaling into new production facilities.",
+      "key_skills": [
+        "ai",
+        "autonomous",
+        "defense",
+        "integration",
+        "quality",
+        "manufacturing",
+        "sensor",
+        "metrology"
+      ],
+      "core_skills": [
+        "quality_management",
+        "fmea",
+        "apqp",
+        "ppap"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "onsite"
+    },
+    "senior-writer--cvs-p-cvs-pharmacy--i-54988429": {
+      "summary": "Senior Writer creates and manages marketing content for CVS Pharmacy Retail and Health Services, translating complex topics into clear, engaging copy across digital, email, social, and video channels while ensuring brand compliance and quality.",
+      "key_skills": [
+        "creative writing",
+        "content marketing",
+        "copywriting",
+        "brand voice",
+        "strategic thinking",
+        "compliance",
+        "AI tools",
+        "multichannel content"
+      ],
+      "core_skills": [
+        "creative writing",
+        "content marketing",
+        "copywriting",
+        "brand voice"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "hybrid"
+    },
+    "engineering-manager--vanta-54988429": {
+      "summary": "Engineering Manager responsible for owning foundational infrastructure that scales with company growth while ensuring reliability, security, and developer productivity.",
+      "key_skills": [
+        "cloud",
+        "infrastructure",
+        "observability",
+        "monitoring",
+        "datastore",
+        "async",
+        "security",
+        "scalability"
+      ],
+      "core_skills": [
+        "technical architecture",
+        "team development",
+        "infrastructure reliability",
+        "developer experience"
+      ],
+      "seniority_signal": "mid",
+      "role_type": "manager",
+      "red_flags": [],
+      "work_mode_derived": "hybrid"
+    },
+    "program-manager--ai--vanta-54988429": {
+      "summary": "Owns strategy and execution of AI-driven automations across GTM stack to drive internal AI initiatives for Marketing, Sales, Customer Success, and RevOps teams",
+      "key_skills": [
+        "program management",
+        "ai",
+        "automation",
+        "gtm",
+        "salesforce",
+        "marketing automation",
+        "customer success",
+        "data"
+      ],
+      "core_skills": [
+        "program management",
+        "ai",
+        "automation",
+        "gtm"
+      ],
+      "seniority_signal": "mid",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "remote"
+    },
+    "senior-enablement-ex-vanta-54988429": {
+      "summary": "Owns strategy and roadmap for learning platform while designing and delivering high-impact, scalable learning programs across the organization",
+      "key_skills": [
+        "learning experience design",
+        "lms/lxp platform management",
+        "async learning programs",
+        "ai enablement",
+        "content curation",
+        "program scaling",
+        "data-driven learning",
+        "learning outcomes"
+      ],
+      "core_skills": [
+        "lms/lxp platform management",
+        "async learning programs",
+        "ai enablement",
+        "data-driven learning"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "remote"
+    },
+    "senior-medical-codin-headway-54988429": {
+      "summary": "Audits behavioral health documentation and coding for accuracy, compliance, and completeness while delivering actionable feedback to providers through remediation meetings and educating on coding guidelines.",
+      "key_skills": [
+        "medical coding",
+        "auditing",
+        "compliance",
+        "icd-10-cm",
+        "cpt",
+        "documentation",
+        "behavioral health",
+        "payer rules"
+      ],
+      "core_skills": [
+        "auditing",
+        "compliance",
+        "icd-10-cm",
+        "cpt"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "hybrid"
     }
   }
 }
