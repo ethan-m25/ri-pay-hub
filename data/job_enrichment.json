@@ -1,8 +1,8 @@
 {
   "meta": {
-    "built_at": "2026-05-31T12:00:22.885891+00:00",
-    "total_jobs": 392,
-    "enriched": 337
+    "built_at": "2026-06-01T11:43:37.991419+00:00",
+    "total_jobs": 394,
+    "enriched": 339
   },
   "jobs": {
     "associate-director---care-access-28696240": {
@@ -992,29 +992,6 @@
       "role_type": "ic",
       "red_flags": [],
       "work_mode_derived": "hybrid"
-    },
-    "software-engineer----modern-treasury-74407640": {
-      "summary": "Designs, deploys, and operates high-scale payment infrastructure using AWS, container orchestration, and automation to support multi-rail money movement and real-time payment systems.",
-      "key_skills": [
-        "aws",
-        "infrastructure",
-        "containerization",
-        "ci_cd",
-        "infrastructure_as_code",
-        "distributed_systems",
-        "observability",
-        "performance_tuning"
-      ],
-      "core_skills": [
-        "aws",
-        "infrastructure",
-        "containerization",
-        "ci_cd"
-      ],
-      "seniority_signal": "senior",
-      "role_type": "ic",
-      "red_flags": [],
-      "work_mode_derived": "remote"
     },
     "backend-senior-softw-vanta-74407640": {
       "summary": "Senior Software Engineer leads and mentors engineers, delivering high-value products for customers and infrastructure to scale security monitoring capabilities.",
@@ -5583,75 +5560,6 @@
       "red_flags": [],
       "work_mode_derived": "hybrid"
     },
-    "head-of-customer-ai--asana-68809818": {
-      "summary": "Operational leader for Asana’s AI Transformation Factory, evolving customer success teams to drive AI product adoption, redesigning post-sales motions, and enabling seat-to-AI conversion in renewal workflows.",
-      "key_skills": [
-        "ai",
-        "customer",
-        "transformation",
-        "product",
-        "engineering",
-        "revenue",
-        "customer_success",
-        "renewal"
-      ],
-      "core_skills": [
-        "strategic",
-        "cross_functional",
-        "operationalization",
-        "ai_implementation"
-      ],
-      "seniority_signal": "senior",
-      "role_type": "executive",
-      "red_flags": [],
-      "work_mode_derived": "remote"
-    },
-    "head-of-internal-aud-asana-68809818": {
-      "summary": "The Head of Internal Audit & SOX leads the company’s Internal Audit function and defines the strategy for strengthening the organization’s risk management, governance, and internal control environment.",
-      "key_skills": [
-        "internal audit",
-        "sox compliance",
-        "risk management",
-        "governance",
-        "enterprise risk management",
-        "control environment",
-        "audit strategy",
-        "risk-based auditing"
-      ],
-      "core_skills": [
-        "strategic planning",
-        "cross-functional collaboration",
-        "risk assessment",
-        "governance oversight"
-      ],
-      "seniority_signal": "senior",
-      "role_type": "ic",
-      "red_flags": [],
-      "work_mode_derived": "hybrid"
-    },
-    "principal-security-e-asana-68809818": {
-      "summary": "Provides technical leadership and execution across a complex global SaaS security environment, defining security architecture and driving cross-company alignment with Engineering, Product, and Executive leadership.",
-      "key_skills": [
-        "cloud-security",
-        "security-architecture",
-        "threat-detection",
-        "access-control",
-        "identity-management",
-        "incident-response",
-        "risk-assessment",
-        "compliance"
-      ],
-      "core_skills": [
-        "security-architecture",
-        "threat-detection",
-        "access-control",
-        "identity-management"
-      ],
-      "seniority_signal": "senior",
-      "role_type": "ic",
-      "red_flags": [],
-      "work_mode_derived": "hybrid"
-    },
     "renewal-manager-asana-68809818": {
       "summary": "Manages human-agent workflows using Asana AI to streamline project management and automation tasks.",
       "key_skills": [
@@ -5673,29 +5581,6 @@
       "role_type": "ic",
       "red_flags": [],
       "work_mode_derived": "unknown"
-    },
-    "security-risk-and-co-asana-68809818": {
-      "summary": "Security Risk and Compliance Analyst maintains Asana's compliance and certification programme, including controls maturity, policy governance, and audit execution, while collaborating with Security Engineering, Legal, Privacy, and R&D teams to ensure effective controls and certifications.",
-      "key_skills": [
-        "compliance",
-        "security",
-        "risk",
-        "governance",
-        "automation",
-        "policy",
-        "audit",
-        "controls"
-      ],
-      "core_skills": [
-        "compliance",
-        "security",
-        "risk",
-        "governance"
-      ],
-      "seniority_signal": "entry",
-      "role_type": "ic",
-      "red_flags": [],
-      "work_mode_derived": "hybrid"
     },
     "inside-account-execu-toast-68809818": {
       "summary": "Generates list of prospective restaurants, manages sales cycle from initial call to close, conducts demos, develops customized solutions, and partners with cross-functional teams to ensure delivery.",
@@ -6498,72 +6383,6 @@
       ],
       "seniority_signal": "senior",
       "role_type": "manager",
-      "red_flags": [],
-      "work_mode_derived": "remote"
-    },
-    "customer-support-ass-betterment-68809819": {
-      "summary": "This role involves analyzing financial data to provide insights and recommendations for investment strategies.",
-      "key_skills": [
-        "python",
-        "data_analysis",
-        "machine_learning",
-        "statistics",
-        "sql",
-        "cloud_computing",
-        "big_data",
-        "data_science"
-      ],
-      "core_skills": [
-        "python",
-        "data_analysis",
-        "machine_learning"
-      ],
-      "seniority_signal": "mid",
-      "role_type": "ic",
-      "red_flags": [],
-      "work_mode_derived": "remote"
-    },
-    "cx-automation-perfor-betterment-68809819": {
-      "summary": "This role involves analyzing financial data to provide insights and recommendations for investment strategies.",
-      "key_skills": [
-        "python",
-        "data_analysis",
-        "machine_learning",
-        "statistics",
-        "sql",
-        "cloud_computing",
-        "big_data",
-        "data_science"
-      ],
-      "core_skills": [
-        "python",
-        "data_analysis",
-        "machine_learning"
-      ],
-      "seniority_signal": "mid",
-      "role_type": "ic",
-      "red_flags": [],
-      "work_mode_derived": "remote"
-    },
-    "strategic-sales-mana-betterment-68809819": {
-      "summary": "This role involves analyzing financial data to provide insights and recommendations for investment strategies.",
-      "key_skills": [
-        "python",
-        "data_analysis",
-        "machine_learning",
-        "statistics",
-        "sql",
-        "cloud_computing",
-        "big_data",
-        "data_science"
-      ],
-      "core_skills": [
-        "python",
-        "data_analysis",
-        "machine_learning"
-      ],
-      "seniority_signal": "mid",
-      "role_type": "ic",
       "red_flags": [],
       "work_mode_derived": "remote"
     },
@@ -7485,6 +7304,233 @@
         "cpt"
       ],
       "seniority_signal": "senior",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "hybrid"
+    },
+    "security-risk-and-co-asana-13459008": {
+      "summary": "Security Risk and Compliance Analyst maintains and improves Asana's control frameworks, tracks control effectiveness across multiple compliance standards, and collaborates with cross-functional teams to ensure robust security and compliance practices.",
+      "key_skills": [
+        "security",
+        "compliance",
+        "risk",
+        "governance",
+        "policy",
+        "audit",
+        "automation",
+        "controls"
+      ],
+      "core_skills": [
+        "governance",
+        "audit",
+        "automation",
+        "compliance"
+      ],
+      "seniority_signal": "entry",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "hybrid"
+    },
+    "director--communicat-bestow-13459008": {
+      "summary": "Directs communications strategy to shape market perception of Bestow's insurance technology platform through storytelling, media relations, and thought leadership.",
+      "key_skills": [
+        "storytelling",
+        "corporate_comms",
+        "media_relations",
+        "product_marketing",
+        "thought_leadership",
+        "analyst_relations",
+        "executive_communication",
+        "strategic_narrative"
+      ],
+      "core_skills": [
+        "storytelling",
+        "corporate_comms",
+        "media_relations",
+        "product_marketing"
+      ],
+      "seniority_signal": "director",
+      "role_type": "executive",
+      "red_flags": [],
+      "work_mode_derived": "hybrid"
+    },
+    "security-operations--bestow-13459008": {
+      "summary": "Security Operations Engineer II supports company-wide information security and privacy risk governance by executing security operational tasks, collaborating with CSO teams and IT, and maintaining secure cloud environments through vulnerability management and compliance.",
+      "key_skills": [
+        "cloud",
+        "security",
+        "automation",
+        "scripting",
+        "penetration testing",
+        "vulnerability management",
+        "compliance",
+        "nist"
+      ],
+      "core_skills": [
+        "cloud security",
+        "security operations",
+        "penetration testing",
+        "vulnerability management"
+      ],
+      "seniority_signal": "mid",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "hybrid"
+    },
+    "senior-engineering-m-bestow-13459008": {
+      "summary": "Senior Engineering Manager leads frontend platform development, mentors engineering teams, and drives AI-augmented engineering practices to deliver high-quality life insurance products.",
+      "key_skills": [
+        "react",
+        "nextjs",
+        "golang",
+        "python",
+        "node",
+        "apis",
+        "relational_databases",
+        "genai"
+      ],
+      "core_skills": [
+        "engineering_management",
+        "full_stack",
+        "ai_augmented_engineering",
+        "technical_leadership"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "manager",
+      "red_flags": [],
+      "work_mode_derived": "remote"
+    },
+    "senior-product-manag-bestow-13459008": {
+      "summary": "Senior Product Manager leads complex product initiatives, leverages AI tools for product development, and collaborates with cross-functional teams to deliver high-impact solutions.",
+      "key_skills": [
+        "product management",
+        "ai tools",
+        "strategic planning",
+        "cross-functional collaboration",
+        "user research",
+        "data-driven decision making",
+        "roadmap development",
+        "stakeholder communication"
+      ],
+      "core_skills": [
+        "product management",
+        "ai tools",
+        "strategic planning",
+        "cross-functional collaboration"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "hybrid"
+    },
+    "senior-product-marke-bestow-13459008": {
+      "summary": "The Senior Product Marketing Manager owns platform messaging and positioning, leads product launches, and ensures Sales has necessary enablement to win enterprise insurance carriers using AI tools.",
+      "key_skills": [
+        "product marketing",
+        "ai",
+        "messaging",
+        "positioning",
+        "sales enablement",
+        "competitive intelligence",
+        "customer research",
+        "market research"
+      ],
+      "core_skills": [
+        "product marketing",
+        "ai",
+        "messaging",
+        "position. "
+      ],
+      "seniority_signal": "senior",
+      "role_type": "manager",
+      "red_flags": [],
+      "work_mode_derived": "hybrid"
+    },
+    "senior-technical-sol-bestow-13459008": {
+      "summary": "Works with internal and external engineers to lead bug fixes and solutions while maintaining product stability and documentation",
+      "key_skills": [
+        "python",
+        "go",
+        "typescript",
+        "microservices",
+        "bug_fixing",
+        "documentation"
+      ],
+      "core_skills": [
+        "full_stack",
+        "communication",
+        "problem_solving"
+      ],
+      "seniority_signal": "mid",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "hybrid"
+    },
+    "staff-backend-engine-bestow-13459008": {
+      "summary": "Owns technical architecture for IPC services, designs and builds backend services using Python, Go, and Java, leads cross-team technical initiatives, ensures production reliability, and uses agentic AI coding tools as part of daily workflow.",
+      "key_skills": [
+        "python",
+        "go",
+        "java",
+        "kubernetes",
+        "gcp",
+        "postgresql",
+        "drools",
+        "agentic ai"
+      ],
+      "core_skills": [
+        "distributed systems",
+        "microservices",
+        "api design",
+        "cloud infrastructure"
+      ],
+      "seniority_signal": "staff",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "hybrid"
+    },
+    "staff-software-engin-bestow-13459008": {
+      "summary": "Develops core services using Golang and PostgreSQL, resolves issues with existing features, writes tests, peers reviews code, ensures security and maintainability, and collaborates with designers and product managers.",
+      "key_skills": [
+        "golang",
+        "postgresql",
+        "react",
+        "typescript",
+        "ci/cd",
+        "distributed systems",
+        "api design",
+        "ai-augmented engineering"
+      ],
+      "core_skills": [
+        "golang",
+        "postgresql",
+        "react",
+        "typescript"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "hybrid"
+    },
+    "underwriter-bestow-13459008": {
+      "summary": "The Underwriter I balances high-volume transactional underwriting with specialized risk analysis to ensure policy issuance aligns with carrier guidelines and regulatory standards.",
+      "key_skills": [
+        "underwriting",
+        "compliance",
+        "audit",
+        "claims",
+        "risk_analysis",
+        "regulatory",
+        "medical_impairment",
+        "mib"
+      ],
+      "core_skills": [
+        "underwriting",
+        "compliance",
+        "audit",
+        "claims"
+      ],
+      "seniority_signal": "entry",
       "role_type": "ic",
       "red_flags": [],
       "work_mode_derived": "hybrid"
