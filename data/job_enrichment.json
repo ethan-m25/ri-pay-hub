@@ -1,8 +1,8 @@
 {
   "meta": {
-    "built_at": "2026-06-03T10:57:02.638677+00:00",
+    "built_at": "2026-06-04T10:31:18.088449+00:00",
     "total_jobs": 405,
-    "enriched": 329
+    "enriched": 341
   },
   "jobs": {
     "associate-director---care-access-28696240": {
@@ -7305,6 +7305,277 @@
       ],
       "seniority_signal": "senior",
       "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "hybrid"
+    },
+    "software-engineer-robinhood-82391253": {
+      "summary": "Builds, tests, and releases product-facing and platform features for market data, trading, accounting, authentication, and security using Go and Python.",
+      "key_skills": [
+        "golang",
+        "python",
+        "distributed systems",
+        "microservices",
+        "messaging middleware",
+        "rest apis",
+        "cloud computing",
+        "databases"
+      ],
+      "core_skills": [
+        "golang",
+        "python",
+        "distributed systems",
+        "microservices"
+      ],
+      "seniority_signal": "mid",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "hybrid"
+    },
+    "security-risk-and-co-asana-82391253": {
+      "summary": "Security Risk and Compliance Analyst maintains and improves Asana's control frameworks, tracks control effectiveness across multiple compliance standards, and collaborates with cross-functional teams to ensure robust security and compliance practices.",
+      "key_skills": [
+        "security",
+        "compliance",
+        "risk",
+        "governance",
+        "policy",
+        "audit",
+        "automation",
+        "controls"
+      ],
+      "core_skills": [
+        "governance",
+        "audit",
+        "automation",
+        "compliance"
+      ],
+      "seniority_signal": "entry",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "hybrid"
+    },
+    "senior-majors-accoun-cloudflare-82391253": {
+      "summary": "Senior Majors Account Executive leads strategic customer engagements and digital transformation for enterprise clients, focusing on high-value platform sales and C-suite relationships.",
+      "key_skills": [
+        "sales",
+        "strategy",
+        "enterprise_architecture",
+        "c-suite_engagement",
+        "digital_transformation",
+        "forecasting",
+        "pipeline_management",
+        "executive_sponsorship"
+      ],
+      "core_skills": [
+        "sales",
+        "strategy",
+        "enterprise_architecture"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "executive",
+      "red_flags": [],
+      "work_mode_derived": "onsite"
+    },
+    "senior-named-account-cloudflare-82391253": {
+      "summary": "Senior Named Account Executive leads strategic customer engagements and enterprise sales for Cloudflare, focusing on high-value platform sales and digital transformation.",
+      "key_skills": [
+        "sales",
+        "strategy",
+        "enterprise_architecture",
+        "cloud"
+      ],
+      "core_skills": [
+        "sales_leadership",
+        "forecasting",
+        "pipeline_management",
+        "c-suite_engagement"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "executive",
+      "red_flags": [],
+      "work_mode_derived": "onsite"
+    },
+    "director-of-pricing--pagerduty-82391253": {
+      "summary": "Owns strategy and execution of packaging, pricing, and monetization for PagerDuty's Operations Cloud platform, working closely with Product, Sales, Finance, and Marketing to ensure pricing translates into commercial results.",
+      "key_skills": [
+        "product",
+        "monetization",
+        "pricing",
+        "strategy",
+        "pricing",
+        "monetization",
+        "product",
+        "management"
+      ],
+      "core_skills": [
+        "pricing",
+        "monetization",
+        "product",
+        "strategy"
+      ],
+      "seniority_signal": "director",
+      "role_type": "executive",
+      "red_flags": [],
+      "work_mode_derived": "unknown"
+    },
+    "enterprise-account-e-pagerduty-82391253": {
+      "summary": "Sells SaaS products to enterprise accounts, focuses on value-based selling and consultative approaches to drive growth in the $500M+ revenue space.",
+      "key_skills": [
+        "enterprise",
+        "sales",
+        "growth",
+        "account",
+        "execution",
+        "value",
+        "selling",
+        "consultative"
+      ],
+      "core_skills": [
+        "sales",
+        "consultative",
+        "value",
+        "selling"
+      ],
+      "seniority_signal": "mid",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "hybrid"
+    },
+    "hr-infrastructure----pagerduty-82391253": {
+      "summary": "Architects and scales HR infrastructure to revolutionize people operations through AI-driven augmented workforce programs and recruiting technology ecosystems.",
+      "key_skills": [
+        "ai",
+        "hr",
+        "operations",
+        "recruiting",
+        "automation",
+        "workflow",
+        "compliance",
+        "talent"
+      ],
+      "core_skills": [
+        "hr_operations",
+        "ai_integration",
+        "global_workforce_planning",
+        "recruiting_technology"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "manager",
+      "red_flags": [],
+      "work_mode_derived": "remote"
+    },
+    "interim-director--co-pagerduty-82391253": {
+      "summary": "Interim Director of Communications leads global PR, media strategy, internal communications, and executive communications for PagerDuty, ensuring cohesive brand storytelling across channels and managing global communications teams.",
+      "key_skills": [
+        "corporate communications",
+        "pr",
+        "media relations",
+        "social media",
+        "internal communications",
+        "executive communications",
+        "ghostwriting",
+        "change management"
+      ],
+      "core_skills": [
+        "pr strategy",
+        "media events",
+        "research and thought leadership",
+        "executive coaching"
+      ],
+      "seniority_signal": "executive",
+      "role_type": "executive",
+      "red_flags": [],
+      "work_mode_derived": "hybrid"
+    },
+    "principal-product-de-pagerduty-82391253": {
+      "summary": "Designs and leads AI and automation capabilities for PagerDuty's Operations Cloud, ensuring intuitive and trustworthy user experiences for technical operations teams.",
+      "key_skills": [
+        "ai",
+        "ml",
+        "automation",
+        "product_design",
+        "ux",
+        "intelligent_agents",
+        "devops",
+        "cloud"
+      ],
+      "core_skills": [
+        "ai_product_design",
+        "design_strategy",
+        "cross_functional_collaboration",
+        "ai_transparency"
+      ],
+      "seniority_signal": "principal",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "hybrid"
+    },
+    "regional-sales-direc-pagerduty-82391253": {
+      "summary": "Regional Sales Director leads enterprise sales teams to grow revenue through existing account expansion and strategic account development with Fortune 500 and Global 2000 companies.",
+      "key_skills": [
+        "sales",
+        "enterprise",
+        "sales_leads",
+        "account_management",
+        "strategic_planning",
+        "customer_success",
+        "sales_methodology",
+        "forecasting"
+      ],
+      "core_skills": [
+        "sales_leads",
+        "account_management",
+        "strategic_planning",
+        "customer_success"
+      ],
+      "seniority_signal": "executive",
+      "role_type": "executive",
+      "red_flags": [],
+      "work_mode_derived": "onsite"
+    },
+    "senior-director--cor-pagerduty-82391253": {
+      "summary": "Senior Director, Corporate Strategy partners with CEO and leadership to define and execute corporate strategy, drive AI and technology initiatives, conduct market analysis, and lead cross-functional teams for strategic outcomes.",
+      "key_skills": [
+        "ai",
+        "strategy",
+        "corporate",
+        "executive",
+        "devops",
+        "it_ops",
+        "observability",
+        "infrastructure"
+      ],
+      "core_skills": [
+        "strategic_execution",
+        "market_analysis",
+        "financial_modeling",
+        "cross_functional_leadership"
+      ],
+      "seniority_signal": "executive",
+      "role_type": "executive",
+      "red_flags": [],
+      "work_mode_derived": "hybrid"
+    },
+    "sr--principal-csm-pagerduty-82391253": {
+      "summary": "Senior Principal Customer Success Manager builds executive-level trusted advisor relationships with customers' IT, Engineering, and Support organizations to accelerate their digital journey through real-time operations and DevOps modernization.",
+      "key_skills": [
+        "customer success",
+        "digital operations",
+        "devops",
+        "it monitoring",
+        "cloud migration",
+        "ai/ml",
+        "automation",
+        "digital transformation"
+      ],
+      "core_skills": [
+        "trusted advisor",
+        "business value",
+        "risk mitigation",
+        "cross-functional collaboration"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "executive",
       "red_flags": [],
       "work_mode_derived": "hybrid"
     }
