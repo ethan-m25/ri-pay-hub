@@ -1,8 +1,8 @@
 {
   "meta": {
-    "built_at": "2026-06-04T10:31:18.088449+00:00",
+    "built_at": "2026-06-05T10:25:59.541340+00:00",
     "total_jobs": 405,
-    "enriched": 341
+    "enriched": 342
   },
   "jobs": {
     "associate-director---care-access-28696240": {
@@ -6074,6 +6074,29 @@
       "red_flags": [],
       "work_mode_derived": "remote"
     },
+    "senior-risk-manageme-grafanalabs-68809818": {
+      "summary": "Builds and maintains observability tools for monitoring and alerting systems",
+      "key_skills": [
+        "golang",
+        "kubernetes",
+        "prometheus",
+        "grafana",
+        "cloud",
+        "data",
+        "metrics",
+        "observability"
+      ],
+      "core_skills": [
+        "golang",
+        "kubernetes",
+        "prometheus",
+        "grafana"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "remote"
+    },
     "senior-solutions-eng-grafanalabs-68809818": {
       "summary": "Enterprise Solutions Engineers partner with sales teams to articulate Grafana's value proposition, technical expertise, and product strategy to customers while driving high-velocity opportunities through hands-on technical engagement and feedback loops.",
       "key_skills": [
@@ -7331,29 +7354,6 @@
       "red_flags": [],
       "work_mode_derived": "hybrid"
     },
-    "security-risk-and-co-asana-82391253": {
-      "summary": "Security Risk and Compliance Analyst maintains and improves Asana's control frameworks, tracks control effectiveness across multiple compliance standards, and collaborates with cross-functional teams to ensure robust security and compliance practices.",
-      "key_skills": [
-        "security",
-        "compliance",
-        "risk",
-        "governance",
-        "policy",
-        "audit",
-        "automation",
-        "controls"
-      ],
-      "core_skills": [
-        "governance",
-        "audit",
-        "automation",
-        "compliance"
-      ],
-      "seniority_signal": "entry",
-      "role_type": "ic",
-      "red_flags": [],
-      "work_mode_derived": "hybrid"
-    },
     "senior-majors-accoun-cloudflare-82391253": {
       "summary": "Senior Majors Account Executive leads strategic customer engagements and digital transformation for enterprise clients, focusing on high-value platform sales and C-suite relationships.",
       "key_skills": [
@@ -7576,6 +7576,28 @@
       ],
       "seniority_signal": "senior",
       "role_type": "executive",
+      "red_flags": [],
+      "work_mode_derived": "hybrid"
+    },
+    "security-risk-and-co-asana-55082560": {
+      "summary": "Security Risk and Compliance Analyst maintains and improves Asana's control frameworks and audit cycles while collaborating with Security Engineering, Legal, Privacy, and R&D to ensure compliance with SOC 2, ISO 27001, and FedRAMP standards.",
+      "key_skills": [
+        "compliance",
+        "risk",
+        "security",
+        "governance",
+        "audit",
+        "automation",
+        "policy",
+        "framework"
+      ],
+      "core_skills": [
+        "compliance",
+        "risk",
+        "security"
+      ],
+      "seniority_signal": "entry",
+      "role_type": "ic",
       "red_flags": [],
       "work_mode_derived": "hybrid"
     }
