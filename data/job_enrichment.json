@@ -1,8 +1,8 @@
 {
   "meta": {
-    "built_at": "2026-06-05T10:25:59.541340+00:00",
-    "total_jobs": 405,
-    "enriched": 342
+    "built_at": "2026-06-06T10:26:06.005571+00:00",
+    "total_jobs": 404,
+    "enriched": 341
   },
   "jobs": {
     "associate-director---care-access-28696240": {
@@ -7576,28 +7576,6 @@
       ],
       "seniority_signal": "senior",
       "role_type": "executive",
-      "red_flags": [],
-      "work_mode_derived": "hybrid"
-    },
-    "security-risk-and-co-asana-55082560": {
-      "summary": "Security Risk and Compliance Analyst maintains and improves Asana's control frameworks and audit cycles while collaborating with Security Engineering, Legal, Privacy, and R&D to ensure compliance with SOC 2, ISO 27001, and FedRAMP standards.",
-      "key_skills": [
-        "compliance",
-        "risk",
-        "security",
-        "governance",
-        "audit",
-        "automation",
-        "policy",
-        "framework"
-      ],
-      "core_skills": [
-        "compliance",
-        "risk",
-        "security"
-      ],
-      "seniority_signal": "entry",
-      "role_type": "ic",
       "red_flags": [],
       "work_mode_derived": "hybrid"
     }
