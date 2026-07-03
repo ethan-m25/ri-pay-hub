@@ -1,10 +1,10 @@
 {
   "meta": {
-    "count": 588,
-    "active": 290,
-    "new_today": 1,
+    "count": 589,
+    "active": 291,
+    "new_today": 3,
     "links_newly_archived": 0,
-    "updated": "2026-07-02T20:07:42Z",
+    "updated": "2026-07-03T18:48:02Z",
     "state": "Rhode Island",
     "law": "⚖️ RI S0270 (2023)",
     "currency": "USD",
@@ -18918,6 +18918,33 @@
       "scraped": "2026-07-01",
       "last_seen": "2026-07-01",
       "location_display": "Statewide (RI)",
+      "location_city": ""
+    },
+    {
+      "role": "Director, Clinical Strategy",
+      "company": "Stepful",
+      "min": 190000,
+      "max": 220000,
+      "location": "Remote (Rhode Island)",
+      "source_url": "https://jobs.ashbyhq.com/stepful/1378ef40-5f66-4e8d-95c7-be431725128d",
+      "posted": "2026-07-03",
+      "source_platform": "ashby",
+      "currency": "USD",
+      "region": "RI",
+      "_width": 30000,
+      "_compliant": true,
+      "_nonCompliant": false,
+      "_exempt": false,
+      "_federal": false,
+      "category": "Management",
+      "work_mode": "remote",
+      "salary_type": "annual",
+      "id": "director--clinical-s-stepful-04482778",
+      "status": "active",
+      "date_added": "2026-07-03",
+      "scraped": "2026-07-03",
+      "last_seen": "2026-07-03",
+      "location_display": "Remote (RI)",
       "location_city": ""
     }
   ]
