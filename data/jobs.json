@@ -1,10 +1,10 @@
 {
   "meta": {
-    "count": 980,
+    "count": 981,
     "active": 195,
-    "new_today": 4,
-    "links_newly_archived": 0,
-    "updated": "2026-10-01T06:10:45Z",
+    "new_today": 3,
+    "links_newly_archived": 1,
+    "updated": "2026-10-02T05:51:33Z",
     "state": "Rhode Island",
     "law": "⚖️ RI S0270 (2023)",
     "currency": "USD",
@@ -10581,7 +10581,7 @@
       "work_mode": "remote",
       "salary_type": "annual",
       "id": "senior-application-s-brex-68809818",
-      "status": "active",
+      "status": "archived",
       "date_added": "2026-05-28",
       "scraped": "2026-05-28",
       "last_seen": "2026-09-27",
@@ -10594,7 +10594,8 @@
       "category_provisional": false,
       "category_title": "Engineering",
       "classifier_version": "gemma4:12b|codex-v1.0|p2",
-      "category_legacy": "Engineering"
+      "category_legacy": "Engineering",
+      "archived_date": "2026-10-02"
     },
     {
       "role": "Senior GRC Lead",
@@ -30967,6 +30968,32 @@
       "last_seen": "2026-10-01",
       "location_display": "Warwick, RI",
       "location_city": "Warwick"
+    },
+    {
+      "role": "Sr Analyst, Colleague Relations",
+      "company": "CVS Shared Services Resources LLC",
+      "min": 46988,
+      "max": 112200,
+      "location": "Rhode Island, RI",
+      "source_url": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/Work-At-Home-Rhode-Island/Sr-Analyst--Colleague-Relations_R1038465-1",
+      "posted": "2026-10-02",
+      "currency": "USD",
+      "region": "RI",
+      "_width": 65212,
+      "_compliant": true,
+      "_nonCompliant": false,
+      "_exempt": false,
+      "_federal": false,
+      "category": "Data & Analytics",
+      "work_mode": "unknown",
+      "salary_type": "annual",
+      "id": "sr-analyst--colleagu-cvs-shared-serv-20293298",
+      "status": "active",
+      "date_added": "2026-10-02",
+      "scraped": "2026-10-02",
+      "last_seen": "2026-10-02",
+      "location_display": "Statewide (RI)",
+      "location_city": ""
     }
   ]
 }
