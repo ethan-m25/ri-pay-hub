@@ -1,10 +1,10 @@
 {
   "meta": {
     "count": 1129,
-    "active": 314,
+    "active": 301,
     "new_today": 2,
     "links_newly_archived": 0,
-    "updated": "2026-10-18T08:34:35Z",
+    "updated": "2026-10-19T06:52:09Z",
     "state": "Rhode Island",
     "law": "⚖️ RI S0270 (2023)",
     "currency": "USD",
@@ -3322,7 +3322,7 @@
       "work_mode": "remote",
       "salary_type": "annual",
       "id": "senior-software-engi-vanta-74407640",
-      "status": "active",
+      "status": "archived",
       "date_added": "2026-05-20",
       "scraped": "2026-05-20",
       "last_seen": "2026-10-11",
@@ -3335,7 +3335,9 @@
       "category_provisional": false,
       "category_title": "Engineering",
       "classifier_version": "gemma4:12b|codex-v1.0|p2",
-      "category_legacy": "Engineering"
+      "category_legacy": "Engineering",
+      "archived_date": "2026-10-18",
+      "archived_reason": "deadlink_diff_v1"
     },
     {
       "role": "Senior Software Engineer, Enterprise Resilience",
@@ -4312,7 +4314,7 @@
       "work_mode": "remote",
       "salary_type": "annual",
       "id": "associate-principal--headway-74407641",
-      "status": "active",
+      "status": "archived",
       "date_added": "2026-05-20",
       "scraped": "2026-05-20",
       "last_seen": "2026-10-11",
@@ -4325,7 +4327,9 @@
       "category_provisional": false,
       "category_title": "Sales & Mktg",
       "classifier_version": "gemma4:12b|codex-v1.0|p2",
-      "category_legacy": "Other"
+      "category_legacy": "Other",
+      "archived_date": "2026-10-18",
+      "archived_reason": "deadlink_diff_v1"
     },
     {
       "role": "Business Development Lead, Care Partnerships",
@@ -15255,7 +15259,7 @@
       "status": "active",
       "date_added": "2026-06-18",
       "scraped": "2026-06-18",
-      "last_seen": "2026-10-04",
+      "last_seen": "2026-10-18",
       "location_display": "Remote (RI)",
       "location_city": "",
       "category_codex": "Engineering",
@@ -15288,7 +15292,7 @@
       "status": "active",
       "date_added": "2026-06-18",
       "scraped": "2026-06-18",
-      "last_seen": "2026-10-04",
+      "last_seen": "2026-10-18",
       "location_display": "Remote (RI)",
       "location_city": "",
       "category_codex": "Operations",
@@ -15321,7 +15325,7 @@
       "status": "active",
       "date_added": "2026-06-18",
       "scraped": "2026-06-18",
-      "last_seen": "2026-10-04",
+      "last_seen": "2026-10-18",
       "location_display": "Remote (RI)",
       "location_city": "",
       "category_codex": "Sales & Mktg",
@@ -15354,7 +15358,7 @@
       "status": "active",
       "date_added": "2026-06-18",
       "scraped": "2026-06-18",
-      "last_seen": "2026-10-04",
+      "last_seen": "2026-10-18",
       "location_display": "Remote (RI)",
       "location_city": "",
       "category_codex": "Operations",
@@ -16379,7 +16383,7 @@
       "status": "active",
       "date_added": "2026-06-18",
       "scraped": "2026-06-18",
-      "last_seen": "2026-10-04",
+      "last_seen": "2026-10-18",
       "location_display": "Remote (RI)",
       "location_city": "",
       "category_codex": "Sales & Mktg",
@@ -16409,7 +16413,7 @@
       "work_mode": "hybrid",
       "salary_type": "annual",
       "id": "manager--banking-ope-brex-10029269",
-      "status": "active",
+      "status": "archived",
       "date_added": "2026-06-18",
       "scraped": "2026-06-18",
       "last_seen": "2026-10-04",
@@ -18981,7 +18985,7 @@
       "status": "active",
       "date_added": "2026-06-18",
       "scraped": "2026-06-18",
-      "last_seen": "2026-10-04",
+      "last_seen": "2026-10-18",
       "location_display": "Providence, RI",
       "location_city": "Providence",
       "category_codex": "Healthcare & Social Services",
@@ -19611,7 +19615,7 @@
       "work_mode": "remote",
       "salary_type": "annual",
       "id": "it-field-support-spe-veterinaryemerg-02428439",
-      "status": "active",
+      "status": "archived",
       "date_added": "2026-06-25",
       "scraped": "2026-06-25",
       "last_seen": "2026-10-11",
@@ -19622,7 +19626,9 @@
       "category_confidence": "high",
       "category_provisional": false,
       "category_title": "IT & Infra",
-      "classifier_version": "gemma4:12b|codex-v1.0|p4"
+      "classifier_version": "gemma4:12b|codex-v1.0|p4",
+      "archived_date": "2026-10-18",
+      "archived_reason": "deadlink_diff_v1"
     },
     {
       "role": "Lead Director - Construction Program Management",
@@ -19713,7 +19719,7 @@
       "status": "active",
       "date_added": "2026-06-30",
       "scraped": "2026-06-30",
-      "last_seen": "2026-10-04",
+      "last_seen": "2026-10-18",
       "location_display": "Statewide (RI)",
       "location_city": "",
       "category_codex": "Sales & Mktg",
@@ -20131,7 +20137,7 @@
       "status": "active",
       "date_added": "2026-07-01",
       "scraped": "2026-07-01",
-      "last_seen": "2026-10-04",
+      "last_seen": "2026-10-18",
       "location_display": "Remote (RI)",
       "location_city": "",
       "category_codex": "Sales & Mktg",
@@ -20199,7 +20205,7 @@
       "status": "active",
       "date_added": "2026-07-01",
       "scraped": "2026-07-01",
-      "last_seen": "2026-10-04",
+      "last_seen": "2026-10-18",
       "location_display": "Statewide (RI)",
       "location_city": "",
       "category_codex": "Healthcare & Social Services",
@@ -20232,7 +20238,7 @@
       "status": "active",
       "date_added": "2026-07-01",
       "scraped": "2026-07-01",
-      "last_seen": "2026-10-04",
+      "last_seen": "2026-10-18",
       "location_display": "Statewide (RI)",
       "location_city": "",
       "category_codex": "Healthcare & Social Services",
@@ -20547,7 +20553,7 @@
       "status": "active",
       "date_added": "2026-07-15",
       "scraped": "2026-07-15",
-      "last_seen": "2026-10-04",
+      "last_seen": "2026-10-18",
       "location_display": "Providence, RI",
       "location_city": "Providence"
     },
@@ -20600,7 +20606,7 @@
       "status": "active",
       "date_added": "2026-07-16",
       "scraped": "2026-07-16",
-      "last_seen": "2026-10-04",
+      "last_seen": "2026-10-18",
       "location_display": "Statewide (RI)",
       "location_city": ""
     },
@@ -20627,7 +20633,7 @@
       "status": "active",
       "date_added": "2026-07-17",
       "scraped": "2026-07-17",
-      "last_seen": "2026-10-04",
+      "last_seen": "2026-10-18",
       "location_display": "Statewide (RI)",
       "location_city": ""
     },
@@ -20653,7 +20659,7 @@
       "status": "active",
       "date_added": "2026-07-17",
       "scraped": "2026-07-17",
-      "last_seen": "2026-10-04",
+      "last_seen": "2026-10-18",
       "location_display": "Woonsocket, RI",
       "location_city": "Woonsocket"
     },
@@ -20872,7 +20878,7 @@
       "status": "active",
       "date_added": "2026-07-28",
       "scraped": "2026-07-28",
-      "last_seen": "2026-10-04",
+      "last_seen": "2026-10-18",
       "location_display": "Statewide (RI)",
       "location_city": ""
     },
@@ -20896,12 +20902,14 @@
       "work_mode": "remote",
       "salary_type": "annual",
       "id": "head-of-revenue-oper-jellyfish-13730410",
-      "status": "active",
+      "status": "archived",
       "date_added": "2026-07-28",
       "scraped": "2026-07-28",
-      "last_seen": "2026-10-04",
+      "last_seen": "2026-10-18",
       "location_display": "Remote (RI)",
-      "location_city": ""
+      "location_city": "",
+      "archived_date": "2026-10-18",
+      "archived_reason": "deadlink_diff_v1"
     },
     {
       "role": "Analyst, Financial Operations (AR)",
@@ -21034,7 +21042,7 @@
       "status": "active",
       "date_added": "2026-07-30",
       "scraped": "2026-07-30",
-      "last_seen": "2026-10-04",
+      "last_seen": "2026-10-18",
       "location_display": "Providence, RI",
       "location_city": "Providence"
     },
@@ -21061,7 +21069,7 @@
       "status": "active",
       "date_added": "2026-07-30",
       "scraped": "2026-07-30",
-      "last_seen": "2026-10-04",
+      "last_seen": "2026-10-18",
       "location_display": "Providence, RI",
       "location_city": "Providence"
     },
@@ -22625,12 +22633,14 @@
       "work_mode": "onsite",
       "salary_type": "annual",
       "id": "test-engineer-havocai-84686133",
-      "status": "active",
+      "status": "archived",
       "date_added": "2026-09-05",
       "scraped": "2026-09-05",
       "last_seen": "2026-10-11",
       "location_display": "Statewide (RI)",
-      "location_city": ""
+      "location_city": "",
+      "archived_date": "2026-10-18",
+      "archived_reason": "deadlink_diff_v1"
     },
     {
       "role": "Compensation Analyst",
@@ -22736,7 +22746,7 @@
       "status": "active",
       "date_added": "2026-09-10",
       "scraped": "2026-09-10",
-      "last_seen": "2026-10-04",
+      "last_seen": "2026-10-18",
       "location_display": "Providence, RI",
       "location_city": "Providence"
     },
@@ -22762,7 +22772,7 @@
       "status": "active",
       "date_added": "2026-09-10",
       "scraped": "2026-09-10",
-      "last_seen": "2026-10-04",
+      "last_seen": "2026-10-18",
       "location_display": "Statewide (RI)",
       "location_city": ""
     },
@@ -29008,12 +29018,14 @@
       "work_mode": "remote",
       "salary_type": "annual",
       "id": "technical-consultant-ramp-48987207",
-      "status": "active",
+      "status": "archived",
       "date_added": "2026-09-15",
       "scraped": "2026-09-15",
       "last_seen": "2026-10-11",
       "location_display": "Remote (RI)",
-      "location_city": ""
+      "location_city": "",
+      "archived_date": "2026-10-18",
+      "archived_reason": "deadlink_diff_v1"
     },
     {
       "role": "Technical Consultant, Enterprise, Microsoft Dynamics F&O",
@@ -29251,12 +29263,14 @@
       "work_mode": "remote",
       "salary_type": "annual",
       "id": "customer-success-man-vanta-48987207",
-      "status": "active",
+      "status": "archived",
       "date_added": "2026-09-15",
       "scraped": "2026-09-15",
       "last_seen": "2026-10-11",
       "location_display": "Remote (RI)",
-      "location_city": ""
+      "location_city": "",
+      "archived_date": "2026-10-18",
+      "archived_reason": "deadlink_diff_v1"
     },
     {
       "role": "Director of Communications",
@@ -29337,7 +29351,7 @@
       "status": "active",
       "date_added": "2026-09-15",
       "scraped": "2026-09-15",
-      "last_seen": "2026-10-04",
+      "last_seen": "2026-10-18",
       "location_display": "Remote (RI)",
       "location_city": ""
     },
@@ -29364,7 +29378,7 @@
       "status": "active",
       "date_added": "2026-09-15",
       "scraped": "2026-09-15",
-      "last_seen": "2026-10-04",
+      "last_seen": "2026-10-18",
       "location_display": "Remote (RI)",
       "location_city": ""
     },
@@ -29391,7 +29405,7 @@
       "status": "active",
       "date_added": "2026-09-15",
       "scraped": "2026-09-15",
-      "last_seen": "2026-10-04",
+      "last_seen": "2026-10-18",
       "location_display": "Remote (RI)",
       "location_city": ""
     },
@@ -29418,7 +29432,7 @@
       "status": "active",
       "date_added": "2026-09-15",
       "scraped": "2026-09-15",
-      "last_seen": "2026-10-04",
+      "last_seen": "2026-10-18",
       "location_display": "Remote (RI)",
       "location_city": ""
     },
@@ -29532,7 +29546,7 @@
       "status": "active",
       "date_added": "2026-09-15",
       "scraped": "2026-09-15",
-      "last_seen": "2026-10-04",
+      "last_seen": "2026-10-18",
       "location_display": "Remote (RI)",
       "location_city": ""
     },
@@ -29559,7 +29573,7 @@
       "status": "active",
       "date_added": "2026-09-15",
       "scraped": "2026-09-15",
-      "last_seen": "2026-10-04",
+      "last_seen": "2026-10-18",
       "location_display": "Remote (RI)",
       "location_city": ""
     },
@@ -29586,7 +29600,7 @@
       "status": "active",
       "date_added": "2026-09-15",
       "scraped": "2026-09-15",
-      "last_seen": "2026-10-04",
+      "last_seen": "2026-10-18",
       "location_display": "Remote (RI)",
       "location_city": ""
     },
@@ -29758,7 +29772,7 @@
       "status": "active",
       "date_added": "2026-09-15",
       "scraped": "2026-09-15",
-      "last_seen": "2026-10-04",
+      "last_seen": "2026-10-18",
       "location_display": "Remote (RI)",
       "location_city": ""
     },
@@ -29785,7 +29799,7 @@
       "status": "active",
       "date_added": "2026-09-15",
       "scraped": "2026-09-15",
-      "last_seen": "2026-10-04",
+      "last_seen": "2026-10-18",
       "location_display": "Remote (RI)",
       "location_city": ""
     },
@@ -29841,7 +29855,7 @@
       "status": "active",
       "date_added": "2026-09-15",
       "scraped": "2026-09-15",
-      "last_seen": "2026-10-04",
+      "last_seen": "2026-10-18",
       "location_display": "Remote (RI)",
       "location_city": ""
     },
@@ -29897,7 +29911,7 @@
       "status": "active",
       "date_added": "2026-09-15",
       "scraped": "2026-09-15",
-      "last_seen": "2026-10-04",
+      "last_seen": "2026-10-18",
       "location_display": "Remote (RI)",
       "location_city": ""
     },
@@ -29953,7 +29967,7 @@
       "status": "active",
       "date_added": "2026-09-15",
       "scraped": "2026-09-15",
-      "last_seen": "2026-10-04",
+      "last_seen": "2026-10-18",
       "location_display": "Remote (RI)",
       "location_city": ""
     },
@@ -29977,12 +29991,14 @@
       "work_mode": "remote",
       "salary_type": "annual",
       "id": "senior-gtm-strategy--vanta-48987208",
-      "status": "active",
+      "status": "archived",
       "date_added": "2026-09-15",
       "scraped": "2026-09-15",
-      "last_seen": "2026-10-04",
+      "last_seen": "2026-10-18",
       "location_display": "Remote (RI)",
-      "location_city": ""
+      "location_city": "",
+      "archived_date": "2026-10-18",
+      "archived_reason": "deadlink_diff_v1"
     },
     {
       "role": "Senior Manager, AI Corporate Engineering",
@@ -30036,7 +30052,7 @@
       "status": "active",
       "date_added": "2026-09-15",
       "scraped": "2026-09-15",
-      "last_seen": "2026-10-04",
+      "last_seen": "2026-10-18",
       "location_display": "Remote (RI)",
       "location_city": ""
     },
@@ -30063,7 +30079,7 @@
       "status": "active",
       "date_added": "2026-09-15",
       "scraped": "2026-09-15",
-      "last_seen": "2026-10-04",
+      "last_seen": "2026-10-18",
       "location_display": "Remote (RI)",
       "location_city": ""
     },
@@ -30090,7 +30106,7 @@
       "status": "active",
       "date_added": "2026-09-15",
       "scraped": "2026-09-15",
-      "last_seen": "2026-10-04",
+      "last_seen": "2026-10-18",
       "location_display": "Remote (RI)",
       "location_city": ""
     },
@@ -30204,7 +30220,7 @@
       "status": "active",
       "date_added": "2026-09-15",
       "scraped": "2026-09-15",
-      "last_seen": "2026-10-04",
+      "last_seen": "2026-10-18",
       "location_display": "Remote (RI)",
       "location_city": ""
     },
@@ -30231,7 +30247,7 @@
       "status": "active",
       "date_added": "2026-09-15",
       "scraped": "2026-09-15",
-      "last_seen": "2026-10-04",
+      "last_seen": "2026-10-18",
       "location_display": "Remote (RI)",
       "location_city": ""
     },
@@ -30287,7 +30303,7 @@
       "status": "active",
       "date_added": "2026-09-15",
       "scraped": "2026-09-15",
-      "last_seen": "2026-10-04",
+      "last_seen": "2026-10-18",
       "location_display": "Remote (RI)",
       "location_city": ""
     },
@@ -30314,7 +30330,7 @@
       "status": "active",
       "date_added": "2026-09-15",
       "scraped": "2026-09-15",
-      "last_seen": "2026-10-04",
+      "last_seen": "2026-10-18",
       "location_display": "Remote (RI)",
       "location_city": ""
     },
@@ -30341,7 +30357,7 @@
       "status": "active",
       "date_added": "2026-09-15",
       "scraped": "2026-09-15",
-      "last_seen": "2026-10-04",
+      "last_seen": "2026-10-18",
       "location_display": "Remote (RI)",
       "location_city": ""
     },
@@ -30455,7 +30471,7 @@
       "status": "active",
       "date_added": "2026-09-15",
       "scraped": "2026-09-15",
-      "last_seen": "2026-10-04",
+      "last_seen": "2026-10-18",
       "location_display": "Remote (RI)",
       "location_city": ""
     },
@@ -30511,7 +30527,7 @@
       "status": "active",
       "date_added": "2026-09-15",
       "scraped": "2026-09-15",
-      "last_seen": "2026-10-04",
+      "last_seen": "2026-10-18",
       "location_display": "Remote (RI)",
       "location_city": ""
     },
@@ -30596,7 +30612,7 @@
       "status": "active",
       "date_added": "2026-09-15",
       "scraped": "2026-09-15",
-      "last_seen": "2026-10-04",
+      "last_seen": "2026-10-18",
       "location_display": "Remote (RI)",
       "location_city": ""
     },
@@ -30620,12 +30636,14 @@
       "work_mode": "remote",
       "salary_type": "annual",
       "id": "subject-matter-exper-vanta-48987208",
-      "status": "active",
+      "status": "archived",
       "date_added": "2026-09-15",
       "scraped": "2026-09-15",
-      "last_seen": "2026-10-04",
+      "last_seen": "2026-10-18",
       "location_display": "Remote (RI)",
-      "location_city": ""
+      "location_city": "",
+      "archived_date": "2026-10-18",
+      "archived_reason": "deadlink_diff_v1"
     },
     {
       "role": "Subject Matter Expert, GTM GRC - V4G",
@@ -30650,7 +30668,7 @@
       "status": "active",
       "date_added": "2026-09-15",
       "scraped": "2026-09-15",
-      "last_seen": "2026-10-04",
+      "last_seen": "2026-10-18",
       "location_display": "Remote (RI)",
       "location_city": ""
     },
@@ -30677,7 +30695,7 @@
       "status": "active",
       "date_added": "2026-09-15",
       "scraped": "2026-09-15",
-      "last_seen": "2026-10-04",
+      "last_seen": "2026-10-18",
       "location_display": "Remote (RI)",
       "location_city": ""
     },
@@ -30701,12 +30719,14 @@
       "work_mode": "remote",
       "salary_type": "annual",
       "id": "solution-consultant--benchling-48987208",
-      "status": "active",
+      "status": "archived",
       "date_added": "2026-09-15",
       "scraped": "2026-09-15",
-      "last_seen": "2026-10-04",
+      "last_seen": "2026-10-18",
       "location_display": "Remote (RI)",
-      "location_city": ""
+      "location_city": "",
+      "archived_date": "2026-10-18",
+      "archived_reason": "deadlink_diff_v1"
     },
     {
       "role": "Software Engineer, Network",
@@ -30760,7 +30780,7 @@
       "status": "active",
       "date_added": "2026-09-16",
       "scraped": "2026-09-16",
-      "last_seen": "2026-10-04",
+      "last_seen": "2026-10-18",
       "location_display": "Providence, RI",
       "location_city": "Providence"
     },
@@ -30786,7 +30806,7 @@
       "status": "active",
       "date_added": "2026-09-16",
       "scraped": "2026-09-16",
-      "last_seen": "2026-10-04",
+      "last_seen": "2026-10-18",
       "location_display": "Statewide (RI)",
       "location_city": ""
     },
@@ -30812,7 +30832,7 @@
       "status": "active",
       "date_added": "2026-09-16",
       "scraped": "2026-09-16",
-      "last_seen": "2026-10-04",
+      "last_seen": "2026-10-18",
       "location_display": "Statewide (RI)",
       "location_city": ""
     },
@@ -30864,7 +30884,7 @@
       "work_mode": "hybrid",
       "salary_type": "annual",
       "id": "senior-data-engineer-cvs-shared-serv-83635711",
-      "status": "active",
+      "status": "archived",
       "date_added": "2026-09-20",
       "scraped": "2026-09-20",
       "last_seen": "2026-10-04",
@@ -30949,7 +30969,7 @@
       "status": "active",
       "date_added": "2026-09-25",
       "scraped": "2026-09-25",
-      "last_seen": "2026-10-04",
+      "last_seen": "2026-10-18",
       "location_display": "Warwick, RI",
       "location_city": "Warwick"
     },
@@ -34410,7 +34430,7 @@
       "status": "active",
       "date_added": "2026-10-06",
       "scraped": "2026-10-06",
-      "last_seen": "2026-10-06",
+      "last_seen": "2026-10-18",
       "location_display": "Providence, RI",
       "location_city": "Providence"
     },
@@ -34436,7 +34456,7 @@
       "status": "active",
       "date_added": "2026-10-06",
       "scraped": "2026-10-06",
-      "last_seen": "2026-10-06",
+      "last_seen": "2026-10-18",
       "location_display": "Providence, RI",
       "location_city": "Providence"
     },
@@ -34462,7 +34482,7 @@
       "status": "active",
       "date_added": "2026-10-06",
       "scraped": "2026-10-06",
-      "last_seen": "2026-10-06",
+      "last_seen": "2026-10-18",
       "location_display": "Providence, RI",
       "location_city": "Providence"
     },
@@ -34488,7 +34508,7 @@
       "status": "active",
       "date_added": "2026-10-07",
       "scraped": "2026-10-07",
-      "last_seen": "2026-10-07",
+      "last_seen": "2026-10-18",
       "location_display": "Providence, RI",
       "location_city": "Providence"
     },
@@ -34514,7 +34534,7 @@
       "status": "active",
       "date_added": "2026-10-08",
       "scraped": "2026-10-08",
-      "last_seen": "2026-10-08",
+      "last_seen": "2026-10-18",
       "location_display": "Statewide (RI)",
       "location_city": ""
     },
@@ -34540,7 +34560,7 @@
       "status": "active",
       "date_added": "2026-10-08",
       "scraped": "2026-10-08",
-      "last_seen": "2026-10-08",
+      "last_seen": "2026-10-18",
       "location_display": "Statewide (RI)",
       "location_city": ""
     },
@@ -34566,7 +34586,7 @@
       "status": "active",
       "date_added": "2026-10-09",
       "scraped": "2026-10-09",
-      "last_seen": "2026-10-09",
+      "last_seen": "2026-10-18",
       "location_display": "Statewide (RI)",
       "location_city": ""
     },
@@ -34592,7 +34612,7 @@
       "status": "active",
       "date_added": "2026-10-09",
       "scraped": "2026-10-09",
-      "last_seen": "2026-10-09",
+      "last_seen": "2026-10-18",
       "location_display": "Providence, RI",
       "location_city": "Providence"
     },
@@ -34619,7 +34639,7 @@
       "status": "active",
       "date_added": "2026-10-09",
       "scraped": "2026-10-09",
-      "last_seen": "2026-10-09",
+      "last_seen": "2026-10-18",
       "location_display": "Statewide (RI)",
       "location_city": ""
     },
@@ -34646,7 +34666,7 @@
       "status": "active",
       "date_added": "2026-10-10",
       "scraped": "2026-10-10",
-      "last_seen": "2026-10-10",
+      "last_seen": "2026-10-18",
       "location_display": "Providence, RI",
       "location_city": "Providence"
     },
@@ -34673,7 +34693,7 @@
       "status": "active",
       "date_added": "2026-10-10",
       "scraped": "2026-10-10",
-      "last_seen": "2026-10-10",
+      "last_seen": "2026-10-18",
       "location_display": "Statewide (RI)",
       "location_city": ""
     },
@@ -34697,7 +34717,7 @@
       "work_mode": "onsite",
       "salary_type": "annual",
       "id": "vehicle-autonomy-int-havocai-13542550",
-      "status": "active",
+      "status": "archived",
       "date_added": "2026-10-10",
       "scraped": "2026-10-10",
       "last_seen": "2026-10-10",
