@@ -1,10 +1,10 @@
 {
   "meta": {
-    "count": 1153,
-    "active": 310,
-    "new_today": 4,
-    "links_newly_archived": 1,
-    "updated": "2026-10-30T06:25:08Z",
+    "count": 1154,
+    "active": 311,
+    "new_today": 2,
+    "links_newly_archived": 0,
+    "updated": "2026-10-31T06:17:16Z",
     "state": "Rhode Island",
     "law": "⚖️ RI S0270 (2023)",
     "currency": "USD",
@@ -35601,6 +35601,32 @@
       "last_seen": "2026-10-30",
       "location_display": "Statewide (RI)",
       "location_city": ""
+    },
+    {
+      "role": "Director, Privacy Officer",
+      "company": "Blue Cross & Blue Shield of Rhode Island",
+      "min": 133300,
+      "max": 213300,
+      "location": "Providence, RI",
+      "source_url": "https://bcbsri.wd1.myworkdayjobs.com/en-US/BCBSRICareers/job/Providence-RI/Director--Privacy-Officer_JR100484",
+      "posted": "2026-10-31",
+      "currency": "USD",
+      "region": "RI",
+      "_width": 80000,
+      "_compliant": true,
+      "_nonCompliant": false,
+      "_exempt": false,
+      "_federal": false,
+      "category": "Management",
+      "work_mode": "hybrid",
+      "salary_type": "annual",
+      "id": "director--privacy-of-blue-cross---bl-27436774",
+      "status": "active",
+      "date_added": "2026-10-31",
+      "scraped": "2026-10-31",
+      "last_seen": "2026-10-31",
+      "location_display": "Providence, RI",
+      "location_city": "Providence"
     }
   ]
 }
