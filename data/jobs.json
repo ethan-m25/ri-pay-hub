@@ -1,10 +1,10 @@
 {
   "meta": {
     "count": 1177,
-    "active": 321,
-    "new_today": 5,
+    "active": 318,
+    "new_today": 1,
     "links_newly_archived": 0,
-    "updated": "2026-11-08T07:36:58Z",
+    "updated": "2026-11-09T07:25:15Z",
     "state": "Rhode Island",
     "law": "⚖️ RI S0270 (2023)",
     "currency": "USD",
@@ -28885,12 +28885,14 @@
       "work_mode": "remote",
       "salary_type": "annual",
       "id": "senior-partner-consu-ramp-48987207",
-      "status": "active",
+      "status": "archived",
       "date_added": "2026-09-15",
       "scraped": "2026-09-15",
       "last_seen": "2026-10-25",
       "location_display": "Remote (RI)",
-      "location_city": ""
+      "location_city": "",
+      "archived_date": "2026-11-08",
+      "archived_reason": "deadlink_diff_v1"
     },
     {
       "role": "Solutions Consultant, Commercial",
@@ -29837,12 +29839,14 @@
       "work_mode": "remote",
       "salary_type": "annual",
       "id": "senior-data-scientis-vanta-48987208",
-      "status": "active",
+      "status": "archived",
       "date_added": "2026-09-15",
       "scraped": "2026-09-15",
       "last_seen": "2026-11-01",
       "location_display": "Remote (RI)",
-      "location_city": ""
+      "location_city": "",
+      "archived_date": "2026-11-08",
+      "archived_reason": "deadlink_diff_v1"
     },
     {
       "role": "Senior Financial Systems Engineer",
@@ -30316,12 +30320,14 @@
       "work_mode": "remote",
       "salary_type": "annual",
       "id": "senior-systems-desig-vanta-48987208",
-      "status": "active",
+      "status": "archived",
       "date_added": "2026-09-15",
       "scraped": "2026-09-15",
       "last_seen": "2026-11-01",
       "location_display": "Remote (RI)",
-      "location_city": ""
+      "location_city": "",
+      "archived_date": "2026-11-08",
+      "archived_reason": "deadlink_diff_v1"
     },
     {
       "role": "Software Engineer, Integrations Platform, Vanta For Government (V4G)",
