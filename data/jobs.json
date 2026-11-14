@@ -1,10 +1,10 @@
 {
   "meta": {
-    "count": 1188,
-    "active": 329,
-    "new_today": 3,
-    "links_newly_archived": 0,
-    "updated": "2026-11-13T07:18:46Z",
+    "count": 1191,
+    "active": 323,
+    "new_today": 4,
+    "links_newly_archived": 9,
+    "updated": "2026-11-14T05:57:29Z",
     "state": "Rhode Island",
     "law": "⚖️ RI S0270 (2023)",
     "currency": "USD",
@@ -12317,7 +12317,7 @@
       "work_mode": "onsite",
       "salary_type": "annual",
       "id": "executive-team-leade-target-corporat-68809819",
-      "status": "active",
+      "status": "archived",
       "date_added": "2026-05-28",
       "scraped": "2026-05-28",
       "last_seen": "2026-10-25",
@@ -12330,7 +12330,8 @@
       "category_provisional": false,
       "category_title": "Operations",
       "classifier_version": "gemma4:12b|codex-v1.0|p2",
-      "category_legacy": "Management"
+      "category_legacy": "Management",
+      "archived_date": "2026-11-14"
     },
     {
       "role": "Ad Tech Product – Senior Manager",
@@ -12386,7 +12387,7 @@
       "work_mode": "unknown",
       "salary_type": "annual",
       "id": "lead-senior-medical--cvs-shared-serv-68809819",
-      "status": "active",
+      "status": "archived",
       "date_added": "2026-05-28",
       "scraped": "2026-05-28",
       "last_seen": "2026-10-25",
@@ -12398,7 +12399,8 @@
       "category_provisional": false,
       "category_title": "Healthcare & Social Services",
       "classifier_version": "gemma4:12b|codex-v1.0|p2",
-      "category_legacy": "Management"
+      "category_legacy": "Management",
+      "archived_date": "2026-11-14"
     },
     {
       "role": "Senior Manager - Front Store Pricing",
@@ -12419,7 +12421,7 @@
       "work_mode": "remote",
       "salary_type": "annual",
       "id": "senior-manager---fro-cvs-pharmacy--i-68809819",
-      "status": "active",
+      "status": "archived",
       "date_added": "2026-05-28",
       "scraped": "2026-05-28",
       "last_seen": "2026-10-25",
@@ -12432,7 +12434,8 @@
       "category_provisional": false,
       "category_title": "Operations",
       "classifier_version": "gemma4:12b|codex-v1.0|p2",
-      "category_legacy": "Management"
+      "category_legacy": "Management",
+      "archived_date": "2026-11-14"
     },
     {
       "role": "Manager - Pharmacy Workflow Innovation",
@@ -12453,7 +12456,7 @@
       "work_mode": "remote",
       "salary_type": "annual",
       "id": "manager---pharmacy-w-cvs-pharmacy--i-68809819",
-      "status": "active",
+      "status": "archived",
       "date_added": "2026-05-28",
       "scraped": "2026-05-28",
       "last_seen": "2026-10-25",
@@ -12466,7 +12469,8 @@
       "category_provisional": false,
       "category_title": "Operations",
       "classifier_version": "gemma4:12b|codex-v1.0|p2",
-      "category_legacy": "Management"
+      "category_legacy": "Management",
+      "archived_date": "2026-11-14"
     },
     {
       "role": "Manager, Patient Fulfillment Journey",
@@ -12487,7 +12491,7 @@
       "work_mode": "unknown",
       "salary_type": "annual",
       "id": "manager--patient-ful-cvs-pharmacy--i-68809819",
-      "status": "active",
+      "status": "archived",
       "date_added": "2026-05-28",
       "scraped": "2026-05-28",
       "last_seen": "2026-10-25",
@@ -12499,7 +12503,8 @@
       "category_provisional": false,
       "category_title": "Operations",
       "classifier_version": "gemma4:12b|codex-v1.0|p2",
-      "category_legacy": "Management"
+      "category_legacy": "Management",
+      "archived_date": "2026-11-14"
     },
     {
       "role": "Senior Manager, Trade Contract Advisory (REMOTE)",
@@ -12520,7 +12525,7 @@
       "work_mode": "remote",
       "salary_type": "annual",
       "id": "senior-manager--trad-caremark--l-l-c-68809819",
-      "status": "active",
+      "status": "archived",
       "date_added": "2026-05-28",
       "scraped": "2026-05-28",
       "last_seen": "2026-10-25",
@@ -12533,7 +12538,8 @@
       "category_provisional": false,
       "category_title": "Legal & Compliance",
       "classifier_version": "haiku-4-5|codex-v1.0|adj",
-      "category_legacy": "Management"
+      "category_legacy": "Management",
+      "archived_date": "2026-11-14"
     },
     {
       "role": "Financial Solutions Advisor - Rhode Island Market",
@@ -12623,7 +12629,7 @@
       "work_mode": "onsite",
       "salary_type": "annual",
       "id": "gastroenterology-hea-pfizer-inc-68809819",
-      "status": "active",
+      "status": "archived",
       "date_added": "2026-05-28",
       "scraped": "2026-05-28",
       "last_seen": "2026-10-25",
@@ -12636,7 +12642,8 @@
       "category_provisional": false,
       "category_title": "Sales & Mktg",
       "classifier_version": "gemma4:12b|codex-v1.0|p2",
-      "category_legacy": "Sales"
+      "category_legacy": "Sales",
+      "archived_date": "2026-11-14"
     },
     {
       "role": "Senior Product Manager, Test Experience",
@@ -13266,7 +13273,7 @@
       "work_mode": "hybrid",
       "salary_type": "annual",
       "id": "senior-writer--cvs-p-cvs-pharmacy--i-54988429",
-      "status": "active",
+      "status": "archived",
       "date_added": "2026-05-29",
       "scraped": "2026-05-29",
       "last_seen": "2026-10-25",
@@ -13279,7 +13286,8 @@
       "category_provisional": false,
       "category_title": "Sales & Mktg",
       "classifier_version": "gemma4:12b|codex-v1.0|p2",
-      "category_legacy": "Other"
+      "category_legacy": "Other",
+      "archived_date": "2026-11-14"
     },
     {
       "role": "Engineering Manager, Core Platform",
@@ -14140,7 +14148,7 @@
       "work_mode": "hybrid",
       "salary_type": "annual",
       "id": "senior-manager---cus-cvs-pharmacy--i-82391253",
-      "status": "active",
+      "status": "archived",
       "date_added": "2026-06-03",
       "scraped": "2026-06-03",
       "last_seen": "2026-10-25",
@@ -14152,7 +14160,8 @@
       "category_provisional": false,
       "category_title": null,
       "classifier_version": "gemma4:12b|codex-v1.0|p2",
-      "category_legacy": "Management"
+      "category_legacy": "Management",
+      "archived_date": "2026-11-14"
     },
     {
       "role": "Cardiovascular Specialist, Health and Science Professional - Newport, RI",
@@ -36524,6 +36533,84 @@
       "date_added": "2026-11-13",
       "scraped": "2026-11-13",
       "last_seen": "2026-11-13",
+      "location_display": "Statewide (RI)",
+      "location_city": ""
+    },
+    {
+      "role": "Advanced Practice Provider/NP",
+      "company": "RIH Rhode Island Hospital",
+      "min": 127504,
+      "max": 161782,
+      "location": "Rhode Island, RI",
+      "source_url": "https://brownhealth.wd12.myworkdayjobs.com/en-US/External_Careers/job/Rhode-Island-Hospital/Advanced-Practice-Provider_JR-112472",
+      "posted": "2026-11-14",
+      "currency": "USD",
+      "region": "RI",
+      "_width": 34278,
+      "_compliant": true,
+      "_nonCompliant": false,
+      "_exempt": false,
+      "_federal": false,
+      "category": "Other",
+      "work_mode": "unknown",
+      "salary_type": "annual",
+      "id": "advanced-practice-pr-rih-rhode-islan-35849778",
+      "status": "active",
+      "date_added": "2026-11-14",
+      "scraped": "2026-11-14",
+      "last_seen": "2026-11-14",
+      "location_display": "Statewide (RI)",
+      "location_city": ""
+    },
+    {
+      "role": "Manager Case Management",
+      "company": "RIH Rhode Island Hospital",
+      "min": 97718,
+      "max": 195436,
+      "location": "Rhode Island, RI",
+      "source_url": "https://brownhealth.wd12.myworkdayjobs.com/en-US/External_Careers/job/Rhode-Island-Hospital/Manager-Case-Management_JR-116123",
+      "posted": "2026-11-14",
+      "currency": "USD",
+      "region": "RI",
+      "_width": 97718,
+      "_compliant": true,
+      "_nonCompliant": false,
+      "_exempt": false,
+      "_federal": false,
+      "category": "Management",
+      "work_mode": "unknown",
+      "salary_type": "annual",
+      "id": "manager-case-managem-rih-rhode-islan-35849778",
+      "status": "active",
+      "date_added": "2026-11-14",
+      "scraped": "2026-11-14",
+      "last_seen": "2026-11-14",
+      "location_display": "Statewide (RI)",
+      "location_city": ""
+    },
+    {
+      "role": "Physical Therapist - Inpatient, Adult Acute Care",
+      "company": "RIH Rhode Island Hospital",
+      "min": 74672,
+      "max": 123198,
+      "location": "Rhode Island, RI",
+      "source_url": "https://brownhealth.wd12.myworkdayjobs.com/en-US/External_Careers/job/Rhode-Island-Hospital/Physical-Therapist---Inpatient--Adult-Acute-Care_JR-116235",
+      "posted": "2026-11-14",
+      "currency": "USD",
+      "region": "RI",
+      "_width": 48526,
+      "_compliant": true,
+      "_nonCompliant": false,
+      "_exempt": false,
+      "_federal": false,
+      "category": "Other",
+      "work_mode": "unknown",
+      "salary_type": "annual",
+      "id": "physical-therapist---rih-rhode-islan-35849778",
+      "status": "active",
+      "date_added": "2026-11-14",
+      "scraped": "2026-11-14",
+      "last_seen": "2026-11-14",
       "location_display": "Statewide (RI)",
       "location_city": ""
     }
