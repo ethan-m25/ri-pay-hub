@@ -1,10 +1,10 @@
 {
   "meta": {
     "count": 1191,
-    "active": 323,
-    "new_today": 4,
-    "links_newly_archived": 9,
-    "updated": "2026-11-14T05:57:29Z",
+    "active": 322,
+    "new_today": 1,
+    "links_newly_archived": 1,
+    "updated": "2026-11-15T07:21:08Z",
     "state": "Rhode Island",
     "law": "⚖️ RI S0270 (2023)",
     "currency": "USD",
@@ -16395,7 +16395,7 @@
       "work_mode": "remote",
       "salary_type": "annual",
       "id": "enterprise-account-e-asana-10029269",
-      "status": "active",
+      "status": "archived",
       "date_added": "2026-06-18",
       "scraped": "2026-06-18",
       "last_seen": "2026-11-01",
@@ -16406,7 +16406,8 @@
       "category_confidence": "high",
       "category_provisional": false,
       "category_title": "Sales & Mktg",
-      "classifier_version": "gemma4:12b|codex-v1.0|p2"
+      "classifier_version": "gemma4:12b|codex-v1.0|p2",
+      "archived_date": "2026-11-15"
     },
     {
       "role": "Manager, Banking Operations",
