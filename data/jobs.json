@@ -1,10 +1,10 @@
 {
   "meta": {
     "count": 1191,
-    "active": 322,
+    "active": 316,
     "new_today": 1,
-    "links_newly_archived": 1,
-    "updated": "2026-11-15T07:21:08Z",
+    "links_newly_archived": 0,
+    "updated": "2026-11-16T07:17:39Z",
     "state": "Rhode Island",
     "law": "⚖️ RI S0270 (2023)",
     "currency": "USD",
@@ -1418,7 +1418,7 @@
       "status": "active",
       "date_added": "2026-05-20",
       "scraped": "2026-05-20",
-      "last_seen": "2026-10-25",
+      "last_seen": "2026-11-15",
       "description_text": "Backend Senior Software Engineer, Identity @ Vanta You need to enable JavaScript to run this app. Backend Senior Software Engineer, Identity Location Remote U.S. Employment Type Full time Location Type Remote Department Software Engineering Compensation Cash Range $195K – $229K • Offers Equity • This role is also eligible for medical benefits, 401(k) plan, and other company perk programs. Overview Application At Vanta, our mission is to help businesses earn and prove trust. We believe that security should be monitored and verified continuously, and we empower companies to practice better security and prove it with ease. Vanta has a kind and talented team, and while some have prior security experience, many have been successful at Vanta without it.&nbsp; Our Senior Software Engineers lead and mentor engineers, delivering high-value products for our customers and infrastructure that enables our business to scale. Vanta’s product monitors the security posture for thousands of companies, pulling tens of millions of API calls of data per day, pushing information from hundreds of thousands of laptop agents, and running tests against that data continuously to identify potential security threats. Our infrastructure and tooling need to stay ahead of exponential growth in our customer base. As a Senior Software Engineer at Vanta, you’ll be responsible for setting technical direction to provide a strong foundation for our infrastructure to scale with our business. You will also drive complex projects across our technical stack and mentor our talented engineering team. Your past experience will be leveraged to enable and accelerate Vanta’s growth. Visit our Vanta Engineering Blog to learn more about what our team is working on!&nbsp; What you’ll do as a Senior Software Engineer on the Identity team at Vanta: As Vanta expands its agentic capabilities across surfaces like MCP, CLI, and the Vanta Agent, the Identity team is at the center of a new set of problems: defining what it means for an agent to act as a user's proxy, enforcing consistent permission checks across every invocation surface, and building an attribution model that makes agent-assisted actions auditable and trustworthy. You'll help design the identity primitives that make autonomous agent behavior safe and governable at scale. You will also: Lead complex projects with multiple stakeholders and engineers to enable our business and team to scale Collaborate with Security to ensure Vanta's platform implements best practices for customer data Support design reviews, communicate constraints, and help engineers make the right trade-offs Act as a cultural beacon, setting an example for effective, collaborative engineering and helping mentor junior team members Make effective tradeoffs that consider business priorities, user experience, and a sustainable technical foundation Drive initiatives to increase operational posture and execution quality across the engineering organization How to be successful in this role: Have at least 8 years of industry experience with backend development Strong knowledge of authentication protocols (OIDC, SAML) and identity federation concepts (SSO), or authorization frameworks (RBAC, policy-based access control) Experience building platform services that scale across multiple teams Strong data modeling skills for systems with complex relationships Experience solving distributed systems challenges around performance and security Success with complex technical migrations that maintain system stability Security-focused mindset and understanding of enterprise security practices Have led technical projects spanning months Work well in environments that value decisive action and getting things done Experience mentoring and collaborating with other engineers Interest in contributing to Vanta's engineering culture as we grow Open to using AI to amplify their skills and strengthen their work - demonstrating curiosity, a willingness to learn, and sound judgment in applying AI responsibly to improve efficiency and impact What you can expect as a Vanta'n: Industry-competitive salary and equity Comprehensive medical, dental, and vision coverage, with 100% of employee-only benefit premiums covered for most medical plans 16 weeks paid Parental Leave for all new parents Health &amp; wellness stipend Remote workspace, internet, and cellphone stipend Commuter benefits for team members who report to the SF and NYC office Family planning benefits Matching 401(k) contribution with immediate vesting Flexible PTO policy, plus 80 hours of Sick Time 11 company-paid holidays Virtual team building activities, lunch and learns, and other company-wide events! Offices in SF, NYC, London, Dublin, Tel Aviv, and Sydney To provide greater transparency to candidates, we share base pay ranges for all US-based job postings regardless of state. We set standard base pay ranges for all roles based on function, level, and country location, benchmarked against similar-stage growth companies. Final offer amounts are determined by multiple factors and may vary based on candidate location, skills, depth of work experience, and relevant licenses/credentials. #LI-remote At Vanta, we are committed to hiring diverse talent of different backgrounds and as such, it is important to us to provide an inclusive work environment for all. We do not discriminate on the basis of race, gender identity, age, religion, sexual orientation, veteran or disability status, or any other protected class. As an equal opportunity employer, we encourage and welcome people of all backgrounds to apply. About Vanta We started in 2018, in the wake of several high-profile data breaches. Online security was only becoming more important, but we knew firsthand how hard it could be for fast-growing companies to invest the time and manpower it takes to build a solid security foundation.&nbsp;Vanta was inspired by a vision to restore trust in internet businesses by enabling companies to improve and prove their security. From our early days automating security monitoring for compliance standards like SOC 2, HIPAA and ISO 27001 to creating the world's leading Trust Management Platform, our vision remains unchanged.&nbsp; Now more than ever, making security continuous—not just a point-in-time check— is essential. Thousands of companies rely on Vanta to build, maintain and demonstrate their trust— all in a way that's real-time and transparent. Referral Instructions If you are being referred for the role, please contact that person to apply on your behalf. &nbsp; &nbsp; &nbsp; Compensation Range: $195K - $229K Apply for this Job Powered by&nbsp; Ashby Privacy Policy Security Vulnerability Disclosure",
       "location_display": "Remote (RI)",
       "location_city": "",
@@ -2560,7 +2560,7 @@
       "status": "active",
       "date_added": "2026-05-20",
       "scraped": "2026-05-20",
-      "last_seen": "2026-10-25",
+      "last_seen": "2026-11-15",
       "description_text": "Senior Fullstack Software Engineer, GRC @ Vanta You need to enable JavaScript to run this app. Senior Fullstack Software Engineer, GRC Location Remote U.S. Employment Type Full time Location Type Remote Department Software Engineering Compensation Cash Range $195K – $229K • Offers Equity • This role is also eligible for medical benefits, 401(k) plan, and other company perk programs. Overview Application At Vanta, our mission is to help businesses earn and prove trust. We believe that security should be monitored and verified continuously, and we empower companies to practice better security and prove it with ease. Vanta has a kind and talented team, and while some have prior security experience, many have been successful at Vanta without it.&nbsp; Our Senior Software Engineers lead and mentor engineers, delivering high-value products for our customers and infrastructure that enables our business to scale. Vanta’s team and technology surface are growing quickly, and it’s essential that we invest in the right abstractions and systems to enable us to scale with our business. As a Senior Software Engineer, you’ll be responsible for setting technical direction to enable our product and infrastructure to scale with our business, driving complex projects across our technical stack, and mentoring our talented engineering team. Your past experience will be leveraged to enable and accelerate Vanta’s growth. Our business has found incredible product-market fit and has monetized effectively since the day we signed our first customer. We’re growing at a blistering pace, which presents career-defining opportunities for engineers to accelerate their growth and to contribute to a rapidly-scaling company. Visit our Vanta Engineering Blog to learn more about what our team is working on! The GRC (Governance, Risk and Compliance) organization is the primary org responsible for developing and maintaining Vanta's core product offerings. These teams are at the heart of Vanta moving upmarket to support enterprise customers and build products that enable our customers’ existing security and compliance programs to integrate seamlessly with Vanta, giving them invaluable insights and recommendations to continue to operate, mature and evolve their programs. What you’ll do as a Senior Software Engineer at Vanta: Lead complex projects with multiple stakeholders and engineers to deliver significant impact to our business Set direction for critical technical surface areas, enabling us to stay ahead of continued rapid growth Design, develop, and own new product functionality and/or infrastructure leveraging modern frameworks and tooling (TypeScript, React, Node.js) Work with talented and kind engineers to make a significant impact on our customer base, enabling them to improve their security and prove it Contribute to building Vanta’s engineering culture as we grow How to be successful in this role: Have at least 5 years of industry experience Have played technical leadership roles for teams or complex projects Have previous startup experience, or worked in an environment that prioritizes a bias for action Have previous experience working on greenfield projects Have an interest in learning about security or prior experience in the space What you can expect as a US-based Vanta'n: Industry-competitive salary and equity Comprehensive medical, dental, and vision coverage, with 100% of employee-only benefit premiums covered for most medical plans 16 weeks paid Parental Leave for all new parents Health &amp; wellness stipend Remote workspace, internet, and cellphone stipend Commuter benefits for team members who report to the SF and NYC office Family planning benefits Matching 401(k) contribution with immediate vesting Flexible PTO policy, plus 80 hours of Sick Time 11 company-paid holidays Virtual team building activities, lunch and learns, and other company-wide events! Offices in SF, NYC, London, Dublin, Tel Aviv, and Sydney &nbsp; To provide greater transparency to candidates, we share base pay ranges for all US-based job postings regardless of state. We set standard base pay ranges for all roles based on function, level, and country location, benchmarked against similar-stage growth companies. Final offer amounts are determined by multiple factors and may vary based on candidate location, skills, depth of work experience, and relevant licenses/credentials. #LI-Remote At Vanta, we are committed to hiring diverse talent of different backgrounds and as such, it is important to us to provide an inclusive work environment for all. We do not discriminate on the basis of race, gender identity, age, religion, sexual orientation, veteran or disability status, or any other protected class. As an equal opportunity employer, we encourage and welcome people of all backgrounds to apply. About Vanta We started in 2018, in the wake of several high-profile data breaches. Online security was only becoming more important, but we knew firsthand how hard it could be for fast-growing companies to invest the time and manpower it takes to build a solid security foundation.&nbsp;Vanta was inspired by a vision to restore trust in internet businesses by enabling companies to improve and prove their security. From our early days automating security monitoring for compliance standards like SOC 2, HIPAA and ISO 27001 to creating the world's leading Trust Management Platform, our vision remains unchanged.&nbsp; Now more than ever, making security continuous—not just a point-in-time check— is essential. Thousands of companies rely on Vanta to build, maintain and demonstrate their trust— all in a way that's real-time and transparent. Referral Instructions If you are being referred for the role, please contact that person to apply on your behalf. &nbsp; &nbsp; &nbsp; Compensation Range: $195K - $229K Apply for this Job Powered by&nbsp; Ashby Privacy Policy Security Vulnerability Disclosure",
       "location_display": "Remote (RI)",
       "location_city": "",
@@ -2632,7 +2632,7 @@
       "status": "active",
       "date_added": "2026-05-20",
       "scraped": "2026-05-20",
-      "last_seen": "2026-10-25",
+      "last_seen": "2026-11-15",
       "description_text": "Senior II Fullstack Software Engineer, GRC @ Vanta You need to enable JavaScript to run this app. Senior II Fullstack Software Engineer, GRC Location Remote U.S. Employment Type Full time Location Type Remote Department Software Engineering Compensation Cash Range $224K – $263K • Offers Equity • This role is also eligible for medical benefits, 401(k) plan, and other company perk programs. Overview Application At Vanta, our mission is to help businesses earn and prove trust. We believe that security should be monitored and verified continuously, and we empower companies to practice better security and prove it with ease. Vanta has a kind and talented team, and while some have prior security experience, many have been successful at Vanta without it.&nbsp; Our Senior Software Engineers lead and mentor engineers, delivering high-value products for our customers and infrastructure that enables our business to scale. Vanta’s team and technology surface are growing quickly, and it’s essential that we invest in the right abstractions and systems to enable us to scale with our business. As a Senior Software Engineer, you’ll be responsible for setting technical direction to enable our product and infrastructure to scale with our business, driving complex projects across our technical stack, and mentoring our talented engineering team. Your past experience will be leveraged to enable and accelerate Vanta’s growth. Our business has found incredible product-market fit and has monetized effectively since the day we signed our first customer. We’re growing at a blistering pace, which presents career-defining opportunities for engineers to accelerate their growth and to contribute to a rapidly-scaling company. Visit our Vanta Engineering Blog to learn more about what our team is working on! The GRC (Governance, Risk and Compliance) organization is the primary org responsible for developing and maintaining Vanta's core product offerings. These teams are at the heart of Vanta moving upmarket to support enterprise customers and build products that enable our customers’ existing security and compliance programs to integrate seamlessly with Vanta, giving them invaluable insights and recommendations to continue to operate, mature and evolve their programs. What you’ll do as a Senior Software Engineer at Vanta: Lead complex projects with multiple stakeholders and engineers to deliver significant impact to our business Set direction for critical technical surface areas, enabling us to stay ahead of continued rapid growth Design, develop, and own new product functionality and/or infrastructure leveraging modern frameworks and tooling (TypeScript, React, Node.js) Work with talented and kind engineers to make a significant impact on our customer base, enabling them to improve their security and prove it Contribute to building Vanta’s engineering culture as we grow How to be successful in this role: Have at least 8 years of industry experience Have played technical leadership roles for teams or complex projects Have previous startup experience, or worked in an environment that prioritizes a bias for action Have previous experience working on greenfield projects Have an interest in learning about security or prior experience in the space What you can expect as a US-based Vanta'n: Industry-competitive salary and equity Comprehensive medical, dental, and vision coverage, with 100% of employee-only benefit premiums covered for most medical plans 16 weeks paid Parental Leave for all new parents Health &amp; wellness stipend Remote workspace, internet, and cellphone stipend Commuter benefits for team members who report to the SF and NYC office Family planning benefits Matching 401(k) contribution with immediate vesting Flexible PTO policy, plus 80 hours of Sick Time 11 company-paid holidays Virtual team building activities, lunch and learns, and other company-wide events! Offices in SF, NYC, London, Dublin, Tel Aviv, and Sydney &nbsp; To provide greater transparency to candidates, we share base pay ranges for all US-based job postings regardless of state. We set standard base pay ranges for all roles based on function, level, and country location, benchmarked against similar-stage growth companies. Final offer amounts are determined by multiple factors and may vary based on candidate location, skills, depth of work experience, and relevant licenses/credentials. #LI-Remote At Vanta, we are committed to hiring diverse talent of different backgrounds and as such, it is important to us to provide an inclusive work environment for all. We do not discriminate on the basis of race, gender identity, age, religion, sexual orientation, veteran or disability status, or any other protected class. As an equal opportunity employer, we encourage and welcome people of all backgrounds to apply. About Vanta We started in 2018, in the wake of several high-profile data breaches. Online security was only becoming more important, but we knew firsthand how hard it could be for fast-growing companies to invest the time and manpower it takes to build a solid security foundation.&nbsp;Vanta was inspired by a vision to restore trust in internet businesses by enabling companies to improve and prove their security. From our early days automating security monitoring for compliance standards like SOC 2, HIPAA and ISO 27001 to creating the world's leading Trust Management Platform, our vision remains unchanged.&nbsp; Now more than ever, making security continuous—not just a point-in-time check— is essential. Thousands of companies rely on Vanta to build, maintain and demonstrate their trust— all in a way that's real-time and transparent. Referral Instructions If you are being referred for the role, please contact that person to apply on your behalf. &nbsp; &nbsp; &nbsp; Compensation Range: $224K - $263K Apply for this Job Powered by&nbsp; Ashby Privacy Policy Security Vulnerability Disclosure",
       "location_display": "Remote (RI)",
       "location_city": "",
@@ -3290,7 +3290,7 @@
       "status": "active",
       "date_added": "2026-05-20",
       "scraped": "2026-05-20",
-      "last_seen": "2026-10-25",
+      "last_seen": "2026-11-15",
       "description_text": "Senior Software Engineer, AI Product @ Vanta You need to enable JavaScript to run this app. Senior Software Engineer, AI Product Location Remote U.S. Employment Type Full time Location Type Remote Department Software Engineering Compensation $215K – $260K • Offers Equity • This role is also eligible for medical benefits, 401(k) plan, and other company perk programs. Overview Application At Vanta, our mission is to help businesses earn and prove trust. We believe that security should be monitored and verified continuously, and we empower companies to practice better security and prove it with ease. Vanta has a kind and talented team, and while some have prior security experience, many have been successful at Vanta without it.&nbsp; As a Senior Applied AI Engineer at Vanta, you will play a crucial role in shaping Vanta’s AI offerings, setting technical strategy, and leading projects that leverage AI to deliver smarter, faster outcomes for our customers. You'll be part of a team integrating AI into the Vanta product, working alongside a multidisciplinary group of product engineers, machine learning engineers, product managers, designers, and security and compliance experts to implement, scale, and maintain AI-enabled product experiences. In this role, you’ll build products that enable Vanta’s customers to leverage AI to accelerate their journey towards compliance, managing risk, and earning trust. Visit our Vanta Engineering Blog to learn more about what our team is working on!&nbsp; What you’ll do as an engineer working on Applied AI at Vanta: Work cross-functionally to design and implement AI-powered features to deliver customer value and integrate LLMs with Vanta’s existing products and systems. You’ll work with other product engineers across Vanta to understand how AI systems can accelerate product adoption at Vanta Instrument evaluations, guardrails, and monitoring, and review customer usage to continually improve quality Collaborate with AI Platform engineers shaping foundational AI systems and tooling that accelerate product teams Make pragmatic tradeoffs that consider business priorities, user experience, and a sustainable technical foundation Mentor engineers, champion good technical and product instincts, and model a collaborative, high-ownership engineering culture How to be successful in this role: At least 7 years of industry experience as a software engineer You’ve shipped LLM-backed products and have experience with prompting, RAG, and/or agent frameworks You have experience designing, building, and scaling full-stack applications, including backend systems, APIs, and frontend interfaces. You have familiarity with TypeScript, React, and Node.js, or a willingness to learn! You have experience improving AI systems, creating eval sets, and driving quality hill-climbing You have experience mentoring other engineers and collaborating with product and design You have worked at rapidly scaling startups and large companies, especially with environments that prioritize a bias for action You are action-driven, willing to roll up your sleeves and engage directly with users. You aren’t afraid to put on your product hat. While you bring strong opinions, you prioritize building a platform that meets users where they are What you can expect as a Vanta'n: Industry-competitive salary and equity Comprehensive medical, dental, and vision coverage, with 100% of employee-only benefit premiums covered for most medical plans 16 weeks fully-paid Parental Leave for all new parents Health &amp; wellness stipend Remote workspace, internet, and cellphone stipend Commuter benefits for team members who report to the SF and NYC office Family planning benefits Matching 401(k) contribution with immediate vesting Flexible PTO policy, plus 80 hours of Sick Time 11 company-paid holidays Virtual team building activities, lunch and learns, and other company-wide events! Offices in SF, NYC, London, Dublin, Tel Aviv, and Sydney To provide greater transparency to candidates, we share base pay ranges for all US-based job postings regardless of state. We set standard base pay ranges for all roles based on function, level, and country location, benchmarked against similar-stage growth companies. Final offer amounts are determined by multiple factors and may vary based on candidate location, skills, depth of work experience, and relevant licenses/credentials. #LI-remote At Vanta, we are committed to hiring diverse talent of different backgrounds and as such, it is important to us to provide an inclusive work environment for all. We do not discriminate on the basis of race, gender identity, age, religion, sexual orientation, veteran or disability status, or any other protected class. As an equal opportunity employer, we encourage and welcome people of all backgrounds to apply. About Vanta We started in 2018, in the wake of several high-profile data breaches. Online security was only becoming more important, but we knew firsthand how hard it could be for fast-growing companies to invest the time and manpower it takes to build a solid security foundation.&nbsp;Vanta was inspired by a vision to restore trust in internet businesses by enabling companies to improve and prove their security. From our early days automating security monitoring for compliance standards like SOC 2, HIPAA and ISO 27001 to creating the world's leading Trust Management Platform, our vision remains unchanged.&nbsp; Now more than ever, making security continuous—not just a point-in-time check— is essential. Thousands of companies rely on Vanta to build, maintain and demonstrate their trust— all in a way that's real-time and transparent. Referral Instructions If you are being referred for the role, please contact that person to apply on your behalf. &nbsp; &nbsp; &nbsp; Compensation Range: $215K - $260K Apply for this Job Powered by&nbsp; Ashby Privacy Policy Security Vulnerability Disclosure",
       "location_display": "Remote (RI)",
       "location_city": "",
@@ -5315,7 +5315,7 @@
       "status": "active",
       "date_added": "2026-05-21",
       "scraped": "2026-05-21",
-      "last_seen": "2026-10-25",
+      "last_seen": "2026-11-15",
       "description_text": "VP, Professional Services @ Vanta You need to enable JavaScript to run this app. VP, Professional Services Location Remote U.S. Employment Type Full time Location Type Remote Department Revenue Compensation Cash Range $303K – $351K • Offers Equity • This role is also eligible for medical benefits, 401(k) plan, and other company perk programs. Overview Application At Vanta, our mission is to help businesses earn and prove trust. We believe that security should be monitored and verified continuously, and we empower companies to practice better security and prove it with ease. Vanta has a kind and talented team, and while some have prior security experience, many have been successful at Vanta without it.&nbsp; As the Vice President, Professional Services at Vanta, you will build our Professional Services function from the ground up. You will define the delivery model, team, service offerings, and standards that accelerate customer time-to-value across every segment we serve. We help companies automate compliance, security, and risk management so they can move fast without sacrificing trust. Our GTM organization is at the center of that mission, bringing Vanta's agentic trust platform to companies at every stage of growth, from early-stage startups to global enterprises. Professional Services is a strategic, high-leverage function within Vanta's GTM org. This VP will own the end-to-end delivery of implementation and consultative engagements that drive measurable outcomes for our customers. This function will be a key driver of services revenue, onboarding quality, and long-term retention. You will own the Professional Services P&amp;L, including revenue targets, margin, and services bookings.\" Working in close partnership with our Channel &amp; Alliances team, you will also help equip and enable Vanta's partner ecosystem, acting as a bridge between Vanta's delivery standards and partner-led engagements to drive mutual customer success. What you’ll do as a VP, Professional Services at Vanta: Establish the Practice Define and build Vanta's Professional Services function from the ground up, establishing delivery methodology, service offerings, pricing model, and team structure. Develop scalable service packages across all customer segments, with differentiated approaches for high-touch enterprise customers and scalable delivery for mid market. Create a repeatable, measurable service motion that supports onboarding, implementation, and enablement across the customer lifecycle. Design and launch new, innovative service offerings that are tightly aligned with Vanta's product roadmap, ensuring customers can fully unlock the value of our platform at every stage of their compliance and trust journey. Lead the Team Hire, develop, and lead a high-performing team. Build career frameworks, onboarding programs, and ongoing enablement to develop a world class services team. Serve as the executive escalation point for complex or strategic customer engagements. Own Revenue and Delivery Own and grow a new Professional Services revenue line, including scoping, SOW negotiation, and services bookings across all customer segments. Implement the tools, dashboards, and QA processes to track and continuously improve core professional services metrics. Partner Cross-Functionally Collaborate closely with Sales, Customer Success, Solutions, and Channel &amp; Alliances to ensure seamless presales-to-post-sales handoffs and aligned customer outcomes across both direct and partner-led motions. Build and lead a partner services program that acts as a strategic bridge between Vanta's Professional Services function and our broader ecosystem of resellers, service partners, distributors, and auditors. Develop partner-aligned service offerings and enablement resources that help Vanta's ecosystem partners grow their own practices, deepen their Vanta expertise, and deliver consistent, high quality customer outcomes at scale. Design structured handoff processes that transition customers into longer-term engagements best suited to our partners' capabilities. How to be successful in this role: 10+ years in SaaS Professional Services or consulting, with 5+ years in a senior leadership role at a high-growth software and/or AI company. Proven builder: you've hired, structured, and developed PS organizations from scratch and know what great looks like at every level. Track record of owning services revenue, with experience scoping, pricing, and selling professional services engagements including SOWs, change orders, and renewals. AI-forward mindset: you actively use AI tools to drive team productivity and delivery quality, and you've experimented with (or built) AI-enabled workflows in a services or customer-facing context. Strong operator: you build processes, implement tools, and use data to drive decisions. Executive presence with the ability to navigate complex enterprise customer relationships and serve as a credible partner to C-suite stakeholders. Familiarity with compliance and security frameworks (SOC 2, ISO 27001, HIPAA, etc.) and the ability to translate them into customer-facing delivery strategies. Familiarity with key platforms in the compliance and security ecosystem (AWS, Okta, Azure/EntraID, GCP, Jira, etc.). Must be authorized to work in the U.S. without the need for current or future employer sponsorship. Responsible for protecting Vanta and customer data in how your team operates and delivers results. Open to using AI to amplify their skills and strengthen their work - demonstrating curiosity, a willingness to learn, and sound judgment in applying AI responsibly to improve efficiency and impact. What you can expect as a Vanta’n: Industry-competitive salary and equity Comprehensive medical, dental, and vision coverage, with 100% of employee-only benefit premiums covered for most medical plans 16 weeks paid Parental Leave for all new parents Health &amp; wellness stipend Remote workspace, internet, and cellphone stipend Commuter benefits for team members who report to the SF and NYC office Family planning benefits Matching 401(k) contribution with immediate vesting Flexible PTO policy, plus 80 hours of Sick Time 11 company-paid holidays Virtual team building activities, lunch and learns, and other company-wide events! Offices in SF, NYC, London, Dublin, Tel Aviv, and Sydney To provide greater transparency to candidates, we share base pay ranges for all US-based job postings regardless of state. We set standard base pay ranges for all roles based on function, level, and country location, benchmarked against similar-stage growth companies. Final offer amounts are determined by multiple factors and may vary based on candidate location, skills, depth of work experience, and relevant licenses/credentials. #LI-remote At Vanta, we are committed to hiring diverse talent of different backgrounds and as such, it is important to us to provide an inclusive work environment for all. We do not discriminate on the basis of race, gender identity, age, religion, sexual orientation, veteran or disability status, or any other protected class. As an equal opportunity employer, we encourage and welcome people of all backgrounds to apply. About Vanta We started in 2018, in the wake of several high-profile data breaches. Online security was only becoming more important, but we knew firsthand how hard it could be for fast-growing companies to invest the time and manpower it takes to build a solid security foundation.&nbsp;Vanta was inspired by a vision to restore trust in internet businesses by enabling companies to improve and prove their security. From our early days automating security monitoring for compliance standards like SOC 2, HIPAA and ISO 27001 to creating the world's leading Trust Management Platform, our vision remains unchanged.&nbsp; Now more than ever, making security continuous—not just a point-in-time check— is essential. Thousands of companies rely on Vanta to build, maintain and demonstrate their trust— all in a way that's real-time and transparent. Referral Instructions If you are being referred for the role, please contact that person to apply on your behalf. &nbsp; &nbsp; &nbsp; Compensation Range: $303K - $351K Apply for this Job Powered by&nbsp; Ashby Privacy Policy Security Vulnerability Disclosure",
       "location_display": "Remote (RI)",
       "location_city": "",
@@ -5804,7 +5804,7 @@
       "status": "active",
       "date_added": "2026-05-28",
       "scraped": "2026-05-28",
-      "last_seen": "2026-10-25",
+      "last_seen": "2026-11-15",
       "description_text": "Lyft Business Operations Manager You need to enable JavaScript to run this app. Business Operations Manager Nashville, TN ID: 110800 Apply At Lyft, our purpose is to serve and connect. We aim to achieve this by cultivating a work environment where all team members belong and have the opportunity to thrive.&nbsp; Flexdrive is a subsidiary of Lyft that works together with Lyft teams to realize our shared mission.&nbsp; Flexdrive is a member of the Lyft family of companies, although it operates as its own separate and distinct entity within that family of companies. Flexdrive is a fleet management company that manages roughly 15,000 vehicles and is building the future of AV fleet management with operations in the US and Europe.&nbsp; We are looking for an experienced business operations professional who is passionate about developing Flexdrive’s systems, processes, and operations. This role owns the financial modeling and analytics that drive fleet management strategy, including forecasting short- and long-term outcomes, monitoring market conditions, supporting expansion into autonomous vehicles, and translating data into actionable recommendations. You will serve as a subject matter expert across multiple business verticals, reviewing actual spend against forecast, building predictive financial models, identifying anomalies in complex invoice workflows, and supporting month-end close deliverables. This role supports both the rental business and AVs, meaning you will operate across the full spectrum of Flexdrive’s portfolio as we scale. The ideal candidate brings deep analytical rigor, a strong finance foundation, and the ability to operate across business operations, financial operations, and accounting functions while partnering with cross-functional teams to drive efficiency and profitability. Responsibilities: Financial Modeling &amp; Analytics Develop a deep understanding of the key operational and financial flows across our business — spanning fleet management, rental operations, vehicle remarketing, and our expansion into autonomous vehicles — to build and maintain complex financial models that forecast P&amp;L impacts with accuracy. Analyze performance trends across business lines, identifying patterns and drivers that inform strategic decisions around cost optimization, revenue enhancement, and operational efficiency. Monitor industry conditions, market dynamics, and competitive landscape to proactively surface risks and opportunities; translate external insights into actionable recommendations for leadership. Produce and present regular performance reporting with clear attribution of forecast to actual variances, emerging trends, and areas of opportunity to improve margins and reduce cost. Business Operations &amp; Process Ownership Own and optimize core business processes across fleet operations, vendor management, and financial operations Review actual spend against forecast on a recurring basis, identifying variances and driving root-cause analysis Identify anomalies in complex invoice workflows (e.g., OEM parts, depot services, insurance, maintenance) and resolve discrepancies cross-functionally Build and maintain dashboards, reports, and tracking mechanisms that give leadership real-time visibility into fleet health and financial performance Drive and support automation of manual processes. Develop business processes&nbsp; to achieve financial goals. Work on ad hoc strategic and operational projects as needed. Month-End Close &amp; Financial Operations Support month-end close deliverables including fleet/operational reporting, accruals, reconciliations, and variance analysis Partner with FP&amp;A, Treasury, and Accounting to ensure accurate and timely financial reporting Develop and document standard operating procedures for recurring financial and operational workflows AV Fleet Operations Support Support the financial and operational buildout of Flexdrive’s AV fleet management infrastructure as we scale deployments with partners Develop cost-per-mile models, depot cost analyses, and unit economics frameworks for AV operations Collaborate with Strategy, Infrastructure, and Fleet Ops teams to translate AV deployment plans into financial projections Cross-Functional Partnership Serve as the connective tissue between Business Operations, Finance, Fleet Operations, and external partners Partner with cross-functional stakeholders to drive operational efficiency, cost optimization, and process improvement Communicate financial insights and recommendations clearly to both technical and non-technical audiences Experience: Bachelor’s degree in Finance, Business, Economics, Accounting, or a related field 5+ years of experience in business operations, financial planning &amp; analysis, or a related analytical role—ideally in the automotive industry with exposure to autonomous vehicles Advanced proficiency in Excel/Google Sheets including complex financial modeling, scenario analysis, and data manipulation Strong foundation in accounting principles, financial reporting, and variance analysis Experience with month-end close processes, accruals, and reconciliation workflows Demonstrated ability to build and maintain financial models from scratch in a fast-paced, evolving environment Excellent communication skills with the ability to present complex analyses to senior leadership Comfort operating in ambiguity and building processes where none exist Excellent written and verbal communication skills, with the ability to distill complex analyses into clear, executive-ready insights Exceptional attention to detail and a track record of producing accurate, reliable analytical work Ability to manage multiple high priority demands simultaneously; ability to achieve success in situations with high degrees of variation and complexity Bonus Points Experience in fleet management, rideshare, rental, or autonomous vehicles Familiarity with vehicle remarketing, wholesale markets, or fleet lifecycle economics Experience with BI tools (Tableau, Looker, Mode) or SQL for ad-hoc data analysis Proficient in Salesforce generating and customizing reports and dashboards Background working in a high-growth or startup environment where you built systems from zero Background working on cross-functional initiatives that required aligning operational, financial, and strategic objectives MBA or CPA Benefits: Great medical, dental, and vision insurance options with additional programs available when enrolled Mental health benefits Family building benefits Child care and pet benefits 401(k) plan with company match to help save for your future In addition to 12 observed holidays, salaried team members have discretionary paid time off, hourly team members have 15 days paid time off 18 weeks of paid parental leave. Biological, adoptive, and foster parents are all eligible Subsidized commuter benefits Monthly Lyft credits and complimentary Lyft Pink membership Note : For this role, candidates must reside in states registered for Flexdrive Services LLC. Flexdrive highly values having employees working in-office to foster a collaborative work environment and company culture. This role will be in-office on a hybrid schedule following the establishment of a Lyft Flexdrive hub or office in Nashville — Team Members will be expected to work in the office 3 days per week on Mondays, Wednesdays, and Thursdays. Flexdrive considers working in the office at least 3 days per week to be an essential function of this hybrid role. Additionally, hybrid roles have the flexibility to work from anywhere for up to 4 weeks per year. #Hybrid The expected base pay range for this position in the Nashville area is $88,560 - $110,700, not inclusive of potential equity offering, bonus or benefits. Salary ranges are dependent on a variety of factors, including qualifications, experience and geographic location. Your recruiter can share more information about the salary range specific to your working location and other factors during the hiring process. Flexdrive is an Equal Opportunity Employer committed to an inclusive workplace that fosters belonging. All qualified applicants will receive consideration for employment without regards to race, color, religion, sex, sexual orientation, gender identity, national origin, disability status, protected veteran status, age, genetic information, or any other basis prohibited by law. Flexdrive also strives for a healthy and safe workplace and strictly prohibits harassment of any kind. Flexdrive will also consider employment for qualified applicants with criminal histories consistent with applicable federal, state and local law. See more jobs at Lyft Read our Privacy Policy Accessibility Statement +1 Michelle, Technical Communications Manager 6.6k plays What drew you to Lyft? 00:40 What is special about Lyft's culture? 00:40 Which of Lyft's values resonates with you? 00:20 What drew you to Lyft? 00:40 What is special about Lyft's culture? 00:40 Which of Lyft's values resonates with you? 00:20 Lightning Round 00:56 What drew you to Lyft? 00:40 What is special about Lyft's culture? 00:40 Which of Lyft's values resonates with you? 00:20 Lightning Round 00:56 See more jobs at Lyft Embed clip +1 Michelle, Technical Communications Manager 6.6k plays What drew you to Lyft? 00:40 What is special about Lyft's culture? 00:40 Which of Lyft's values resonates with you? 00:20 What drew you to Lyft? 00:40 What is special about Lyft's culture? 00:40 Which of Lyft's values resonates with you? 00:20 Lightning Round 00:56 What drew you to Lyft? 00:40 What is special about Lyft's culture? 00:40 Which of Lyft's values resonates with you? 00:20 Lightning Round 00:56 By embedding a player on your site, you are agreeing to Puck's Terms and Privacy &lt;div data-puck-audio-id=\"lyft-michelle-chow\"&gt;&lt;/div&gt;&lt;script&gt;function loadPuckEmbed(e){if(window.Puck){window.Puck.loadPlayers();return}{let t=!1,l=document.getElementsByTagName(\"script\");for(let c=0;c&lt;l.length;c++)l[c].getAttribute(\"src\")===e&amp;&amp;(t=!0);if(!t){let a=document.createElement(\"script\");a.onload=()=&gt;window.Puck.loadPlayers(),a.src=e,a.async=!0,document.head.appendChild(a)}}}loadPuckEmbed(\"https://embed.careerpuck.com/player.js\");&lt;/script&gt; Copy",
       "location_display": "Providence, RI",
       "location_city": "Providence",
@@ -5839,7 +5839,7 @@
       "status": "active",
       "date_added": "2026-05-28",
       "scraped": "2026-05-28",
-      "last_seen": "2026-10-25",
+      "last_seen": "2026-11-15",
       "description_text": "Lyft Head of Claims You need to enable JavaScript to run this app. Head of Claims U.S. Anywhere ID: 110792 Apply At Lyft, our purpose is to serve and connect. We aim to achieve this by cultivating a work environment where all team members belong and have the opportunity to thrive. We are seeking a visionary and operational leader to act as the \"General Manager\" for our Claims function. Navigating the complex, high-volume environment of modern mobility platforms requires a world-class risk management organization. This is a dynamic leadership position at the intersection of risk operations, public policy, and corporate strategy, responsible for managing substantial auto liability and casualty exposures. In this role, you will oversee our Third-Party Administrator (TPA) and carrier landscape, drive aggressive cost-mitigation strategies, and position the Claims organization as the company’s \"Early Warning System\" for risk. You will be a vital cross-functional partner, translating complex front-line claims data into actionable intelligence for Actuarial, Legal, and Legislative teams to protect our long-term cost of risk. The ideal candidate is an expert problem-solver and tech-forward thinker who balances deep operational expertise with high empathy, capable of leading a resilient team through structural change and navigating ambiguity at scale. Key Responsibilities Claims Strategy &amp; Execution: Define and drive the comprehensive claims strategy for our rideshare operations and associated corporate programs. Ensure end-to-end claim management execution perfectly aligns with the company’s broader financial objectives and risk tolerance. Complex Partner &amp; TPA Landscape Management: Architect and oversee the claims provider landscape. Lead the vetting, selection, and integration of claims providers. Set stringent Service Level Agreements (SLAs), conduct rigorous audits, and drive strict accountability to ensure external partners deliver on operational excellence. Severe Casualty &amp; Litigation Management: Provide direct oversight and strategic consultation on high-exposure, complex, and high-profile casualty claims. Work hand-in-hand with internal Legal counsel to craft winning litigation strategies, guide appropriate reserving practices, and drive optimal resolutions. Predictive Analytics &amp; \"Early Warning\" Identification: Move the Claims function from reactive management to predictive intelligence. Utilize massive data ecosystems and our Risk Management Information System (RMIS) to spot loss trends, detect fraud vectors early, and provide decision-ready insights to Actuarial and executive leadership before they impact reserves. Cross-Functional &amp; Policy Advocacy: Step beyond traditional operational boundaries to serve as a critical liaison between Claims, Product, Engineering, Safety, Legal, and Actuarial. Translate operational data into compelling policy narratives, supporting legislative initiatives and structural reforms that lower the company's long-term cost of risk. Team Leadership &amp; Legacy Building: Lead, mentor, and scale a multifaceted Claims organization spanning First Notice of Loss (FNOL), Customer Care, Quality Assurance, and Advocacy. Cultivate a highly engaged culture of continuous improvement, psychological safety, and operational excellence, building a resilient leadership bench. &nbsp; Qualifications Experience: 15+ years of progressive leadership within Claims Operations, Risk Management, or Insurance Strategy, with heavy emphasis on commercial auto and general liability within the transportation, logistics, or gig-economy sectors. Technical Claims Expertise: Deep proficiency in complex casualty litigation, reserving methodologies, and actuarial concepts. Proven track record of driving operational excellence, continuous improvement initiatives, and technological transformation in a fast-paced environment. Carrier &amp; TPA Oversight: Extensive experience managing, auditing, and optimizing large-scale external carrier and TPA relationships, ensuring strict compliance with SLAs and aggressive cost-containment goals. Tech-Forward Mindset: A proactive innovator experienced in collaborating with Product and Engineering teams to build, enhance, or integrate claims technologies, AI solutions, and automated workflows. Executive Communication: Exceptional executive presence with the unparalleled business judgment needed to distill granular operational metrics into compelling strategic narratives for the C-suite, Legal partners, and legislative audiences. Empathetic Leadership: 5+ years of senior management experience leading large, distributed operations. A highly collaborative leader fosters a supportive, inclusive environment, seamlessly blending a people-centric approach with strong accountability and performance standards.. Education: Bachelor’s degree required; JD, MBA, or advanced insurance designations (e.g., CPCU, ARM) are highly preferred. &nbsp; Benefits: &nbsp; Great medical, dental, and vision insurance options with additional programs available when enrolled Mental health benefits Family building benefits Child care and pet benefits 401(k) plan with company match to help save for your future In addition to 12 observed holidays, salaried team members have discretionary paid time off, hourly team members have 15 days paid time off 18 weeks of paid parental leave. Biological, adoptive, and foster parents are all eligible Subsidized commuter benefits Monthly Lyft credits and complimentary Lyft Pink membership &nbsp; Lyft is an equal opportunity employer committed to an inclusive workplace that fosters belonging. All qualified applicants will receive consideration for employment without regards to race, color, religion, sex, sexual orientation, gender identity, national origin, disability status, protected veteran status, age, genetic information, or any other basis prohibited by law. We also consider qualified applicants with criminal histories consistent with applicable federal, state and local law. &nbsp; Total compensation is dependent on a variety of factors, including qualifications, experience, and geographic location. As a remote role, the expected base pay range for this position depends largely on geographic location and is $190,240 - $290,000. In addition to the base pay, this role is eligible for competitive equity awards, bonuses, and benefits. Your recruiter can share more information about the salary range specific to your working location and other factors during the hiring process. You can read more about Lyft’s employee benefits here . [https://www.lyft.com/careers/life-at-lyft] &nbsp; See more jobs at Lyft Read our Privacy Policy Accessibility Statement",
       "location_display": "Providence, RI",
       "location_city": "Providence",
@@ -5874,7 +5874,7 @@
       "status": "active",
       "date_added": "2026-05-28",
       "scraped": "2026-05-28",
-      "last_seen": "2026-10-25",
+      "last_seen": "2026-11-15",
       "description_text": "Lyft Manager, Global Investigations You need to enable JavaScript to run this app. Manager, Global Investigations Nashville, TN ID: 110773 Apply At Lyft, our purpose is to serve and connect. We aim to achieve this by cultivating a work environment where all team members belong and have the opportunity to thrive. Reporting into the Head of Global Security, the Manager of Global Investigations will support all lines of business related to investigations (e.g. Platform Fraud, Community Safety, Law Enforcement Liaison &amp; Partnerships, Insurance Fraud and Executive Protection &amp; Risk Assessment). This role will manage the Global Investigations Team. The Manager of Global Investigations will efficiently and effectively build strong and meaningful relationships with internal business partners, law enforcement agencies, and other third parties to bring successful case resolution. This role regularly interacts with State/County/Local Law Enforcement in developing comprehensive and detailed cases pertaining to organized offenders and provides expertise to and gains buy-in from Law Enforcement Agencies to assist in the safe apprehension of these offenders. Responsibilities: Work in close partnership with the Head of Global Security to set strategic objectives, drive accountability, and ensure successful delivery of key performance metrics Lead and manager Global Investigations Team Design, build and lead a global law enforcement outreach program, in order to regularly liaise and develop strategic relationships with law enforcement agencies Proactively maintain effective working relationships with law enforcement and government authorities&nbsp; Collaborate and build strong relationships with internal cross-functional partners, including Privacy/Identity/Integrity (PII), Risk, Community Safety, Legal, Public Policy, and other Operations teams and leaders across Lyft Plan and execute educational programs for law enforcement authorities on our business and challenges with external theft and loss Learn and develop a deep understanding of the businesses and activities related to Platform Fraud, Community Safety, Law Enforcement, Liaison &amp; Partnerships, Insurance Fraud and Executive Protection &amp; Risk Assessment Conduct and lead complex theft investigations related to organized crime and advise internal leaders and business partners&nbsp; Support different theft and loss initiatives being driven across the bikes and scooters line of business&nbsp; Act as a true thought leader by understanding trends in organized theft, and proactively driving continuous improvement across the company Contribute to the development and maintenance of Lyft's policies and practices in close partnership with internal cross-functional partners, including Privacy/Identity/Integrity (PII), Risk, Community Safety, Legal, Public Policy, and other Operations teams and leaders Assist with threat and risk assessments, investigations, mitigation, and protection efforts for Executive Protection Assist other business lines at Lyft with community outreach activities and initiatives as needed Ability to travel up to 50%&nbsp; Experience: Extensive experience working with law enforcement authorities (bonus points for interfacing with international law enforcement agencies) Significant experience in organized retail crime (ORC) detection and law enforcement partnerships Ability to gain buy in from Law Enforcement to resolve ORC investigations and knowledge and expertise in preparing for and testifying in Local/State/Federal Court Investigative experience identifying, resolving, conducting root cause analysis, and recommending deterrent enhancements Ability to participate, conduct, lead surveillance with law enforcement as it relates to large and complex external cases Must be able to gain buy in and support of multiple partners to ensure successful investigations Outstanding written, verbal, electronic communication and presentation skills Proven ability to track, prioritize and drive multiple concurrent projects Strong problem-solver with ability to thrive in a fast-paced startup environment Highest level of integrity and management of confidential information Bachelor’s degree or some higher education (preferred) Benefits: Great medical, dental, and vision insurance options with additional programs available when enrolled Mental health benefits Family building benefits Child care and pet benefits 401(k) plan with company match to help save for your future In addition to 12 observed holidays, salaried team members have discretionary paid time off, hourly team members have 15 days paid time off 18 weeks of paid parental leave. Biological, adoptive, and foster parents are all eligible Subsidized commuter benefits Monthly Lyft credits and complimentary Lyft Pink membership Lyft is an equal opportunity employer committed to an inclusive workplace that fosters belonging. All qualified applicants will receive consideration for employment without regards to race, color, religion, sex, sexual orientation, gender identity, national origin, disability status, protected veteran status, age, genetic information, or any other basis prohibited by law. We also consider qualified applicants with criminal histories consistent with applicable federal, state and local law. Lyft highly values having employees working in-office to foster a collaborative work environment and company culture. This role will be in-office on a hybrid schedule following the establishment of a Lyft office in Nashville — Team Members will be expected to work in the office 3 days per week on Mondays, Wednesdays, and Thursdays. Lyft considers working in the office at least 3 days per week to be an essential function of this hybrid role. Additionally, hybrid roles have the flexibility to work from anywhere for up to 4 weeks per year. #Hybrid The expected base pay range for this position in the Nashville area is $108,240 - $135,300, not inclusive of potential equity offering, bonus or benefits. Salary ranges are dependent on a variety of factors, including qualifications, experience and geographic location. Your recruiter can share more information about the salary range specific to your working location and other factors during the hiring process. See more jobs at Lyft Read our Privacy Policy Accessibility Statement +1 Michelle, Technical Communications Manager 6.6k plays What drew you to Lyft? 00:40 What is special about Lyft's culture? 00:40 Which of Lyft's values resonates with you? 00:20 What drew you to Lyft? 00:40 What is special about Lyft's culture? 00:40 Which of Lyft's values resonates with you? 00:20 Lightning Round 00:56 What drew you to Lyft? 00:40 What is special about Lyft's culture? 00:40 Which of Lyft's values resonates with you? 00:20 Lightning Round 00:56 See more jobs at Lyft Embed clip +1 Michelle, Technical Communications Manager 6.6k plays What drew you to Lyft? 00:40 What is special about Lyft's culture? 00:40 Which of Lyft's values resonates with you? 00:20 What drew you to Lyft? 00:40 What is special about Lyft's culture? 00:40 Which of Lyft's values resonates with you? 00:20 Lightning Round 00:56 What drew you to Lyft? 00:40 What is special about Lyft's culture? 00:40 Which of Lyft's values resonates with you? 00:20 Lightning Round 00:56 By embedding a player on your site, you are agreeing to Puck's Terms and Privacy &lt;div data-puck-audio-id=\"lyft-michelle-chow\"&gt;&lt;/div&gt;&lt;script&gt;function loadPuckEmbed(e){if(window.Puck){window.Puck.loadPlayers();return}{let t=!1,l=document.getElementsByTagName(\"script\");for(let c=0;c&lt;l.length;c++)l[c].getAttribute(\"src\")===e&amp;&amp;(t=!0);if(!t){let a=document.createElement(\"script\");a.onload=()=&gt;window.Puck.loadPlayers(),a.src=e,a.async=!0,document.head.appendChild(a)}}}loadPuckEmbed(\"https://embed.careerpuck.com/player.js\");&lt;/script&gt; Copy",
       "location_display": "Providence, RI",
       "location_city": "Providence",
@@ -6016,7 +6016,7 @@
       "status": "active",
       "date_added": "2026-05-28",
       "scraped": "2026-05-28",
-      "last_seen": "2026-10-25",
+      "last_seen": "2026-11-15",
       "description_text": "Careers at Lattice: We&#x27;re hiring! Only {days} days to Lattiverse 2026. Seats are going fast | Register now Skip to content Platform Platform overview Explore Our Platform High-performing teams are built here Habits Make high performance a habit Analytics Turn people data into action Product Roadmap Discover new Lattice products Products Performance Build a high-performing team Performance Reviews Talent Reviews PIPs Succession Planning 1:1s Updates Feedback Engagement Survey smarter with AI insights Goals &amp; OKRs Set goals, track progress Grow Make career progression clear Compensation Strategic pay that aligns to your budget Lattice AI AI Overview From reactive to proactive HR AI Agent New Your always-on HR partner Take a tour of Lattice Check out our free interactive tours Watch a demo of Lattice Discover Lattice in video Why Lattice The Lattice advantage Why Lattice See why HR teams love Lattice How Lattice Compares The industry leader in HR software Integrations Get the most out of your tech stack ROI Estimator See how Lattice will deliver for you Company About Lattice Our mission, values, and leadership Newsroom Read about Lattice in the news CPO Council Leaders defining the future of HR Community Connect with peers and experts Partner Ecosystem Go beyond just a platform Featured customer story How BARK Scaled Alignment Across Teams and Workflows Customers Resources Overview Lattice Library Your one-stop shop to learn all things HR Articles The latest thinking on people strategy Ebooks Downloadable resources to help you thrive Templates Easy templates for busy HR teams Events &amp; Webinars Watch live with peers or on demand support Help Center Get support while using Lattice Lattice University Learn Lattice with interactive courses Contact Support Get in touch with us Featured HR Report Read the 2026 State of People Strategy Report Pricing Log in Request a demo Platform overview Explore Our Platform Habits Analytics Product Roadmap Interactive Tours Request a Demo Products Performance Engagement Goals &amp; OKRs Grow Compensation Lattice AI AI Overview AI Agent New Solutions Agencies Banks Credit Unions Fintech Insurance Life Sciences Manufacturing Professional Services Retail &amp; Ecommerce Sports Technology Small Businesses Midsize Businesses Enterprise Chief Executive Officers HR Leaders People Managers Individual Contributors The Lattice Advantage Why Lattice Customer Stories How Lattice Compares Integrations ROI Estimator Resources Lattice Library Articles Ebooks Templates Events &amp; Webinars Lattiverse State of People Strategy Support Help Center Lattice University Contact Support Company About Lattice Careers Hiring Pricing Newsroom CPO Council Community Partner Ecosystem Log in Privacy &amp; security Privacy Policy Privacy Request Cookie Preferences Do Not Sell My Personal Information Lattice Status Security Trust Center Lattice © 202# — All Rights Reserved. Privacy Policy Cookie Preferences",
       "location_display": "Remote (RI)",
       "location_city": "",
@@ -6051,7 +6051,7 @@
       "status": "active",
       "date_added": "2026-05-28",
       "scraped": "2026-05-28",
-      "last_seen": "2026-10-25",
+      "last_seen": "2026-11-15",
       "description_text": "Careers at Lattice: We&#x27;re hiring! Only {days} days to Lattiverse 2026. Seats are going fast | Register now Skip to content Platform Platform overview Explore Our Platform High-performing teams are built here Habits Make high performance a habit Analytics Turn people data into action Product Roadmap Discover new Lattice products Products Performance Build a high-performing team Performance Reviews Talent Reviews PIPs Succession Planning 1:1s Updates Feedback Engagement Survey smarter with AI insights Goals &amp; OKRs Set goals, track progress Grow Make career progression clear Compensation Strategic pay that aligns to your budget Lattice AI AI Overview From reactive to proactive HR AI Agent New Your always-on HR partner Take a tour of Lattice Check out our free interactive tours Watch a demo of Lattice Discover Lattice in video Why Lattice The Lattice advantage Why Lattice See why HR teams love Lattice How Lattice Compares The industry leader in HR software Integrations Get the most out of your tech stack ROI Estimator See how Lattice will deliver for you Company About Lattice Our mission, values, and leadership Newsroom Read about Lattice in the news CPO Council Leaders defining the future of HR Community Connect with peers and experts Partner Ecosystem Go beyond just a platform Featured customer story How BARK Scaled Alignment Across Teams and Workflows Customers Resources Overview Lattice Library Your one-stop shop to learn all things HR Articles The latest thinking on people strategy Ebooks Downloadable resources to help you thrive Templates Easy templates for busy HR teams Events &amp; Webinars Watch live with peers or on demand support Help Center Get support while using Lattice Lattice University Learn Lattice with interactive courses Contact Support Get in touch with us Featured HR Report Read the 2026 State of People Strategy Report Pricing Log in Request a demo Platform overview Explore Our Platform Habits Analytics Product Roadmap Interactive Tours Request a Demo Products Performance Engagement Goals &amp; OKRs Grow Compensation Lattice AI AI Overview AI Agent New Solutions Agencies Banks Credit Unions Fintech Insurance Life Sciences Manufacturing Professional Services Retail &amp; Ecommerce Sports Technology Small Businesses Midsize Businesses Enterprise Chief Executive Officers HR Leaders People Managers Individual Contributors The Lattice Advantage Why Lattice Customer Stories How Lattice Compares Integrations ROI Estimator Resources Lattice Library Articles Ebooks Templates Events &amp; Webinars Lattiverse State of People Strategy Support Help Center Lattice University Contact Support Company About Lattice Careers Hiring Pricing Newsroom CPO Council Community Partner Ecosystem Log in Privacy &amp; security Privacy Policy Privacy Request Cookie Preferences Do Not Sell My Personal Information Lattice Status Security Trust Center Lattice © 202# — All Rights Reserved. Privacy Policy Cookie Preferences",
       "location_display": "Remote (RI)",
       "location_city": "",
@@ -6086,7 +6086,7 @@
       "status": "active",
       "date_added": "2026-05-28",
       "scraped": "2026-05-28",
-      "last_seen": "2026-10-25",
+      "last_seen": "2026-11-15",
       "description_text": "Careers at Lattice: We&#x27;re hiring! Only {days} days to Lattiverse 2026. Seats are going fast | Register now Skip to content Platform Platform overview Explore Our Platform High-performing teams are built here Habits Make high performance a habit Analytics Turn people data into action Product Roadmap Discover new Lattice products Products Performance Build a high-performing team Performance Reviews Talent Reviews PIPs Succession Planning 1:1s Updates Feedback Engagement Survey smarter with AI insights Goals &amp; OKRs Set goals, track progress Grow Make career progression clear Compensation Strategic pay that aligns to your budget Lattice AI AI Overview From reactive to proactive HR AI Agent New Your always-on HR partner Take a tour of Lattice Check out our free interactive tours Watch a demo of Lattice Discover Lattice in video Why Lattice The Lattice advantage Why Lattice See why HR teams love Lattice How Lattice Compares The industry leader in HR software Integrations Get the most out of your tech stack ROI Estimator See how Lattice will deliver for you Company About Lattice Our mission, values, and leadership Newsroom Read about Lattice in the news CPO Council Leaders defining the future of HR Community Connect with peers and experts Partner Ecosystem Go beyond just a platform Featured customer story How BARK Scaled Alignment Across Teams and Workflows Customers Resources Overview Lattice Library Your one-stop shop to learn all things HR Articles The latest thinking on people strategy Ebooks Downloadable resources to help you thrive Templates Easy templates for busy HR teams Events &amp; Webinars Watch live with peers or on demand support Help Center Get support while using Lattice Lattice University Learn Lattice with interactive courses Contact Support Get in touch with us Featured HR Report Read the 2026 State of People Strategy Report Pricing Log in Request a demo Platform overview Explore Our Platform Habits Analytics Product Roadmap Interactive Tours Request a Demo Products Performance Engagement Goals &amp; OKRs Grow Compensation Lattice AI AI Overview AI Agent New Solutions Agencies Banks Credit Unions Fintech Insurance Life Sciences Manufacturing Professional Services Retail &amp; Ecommerce Sports Technology Small Businesses Midsize Businesses Enterprise Chief Executive Officers HR Leaders People Managers Individual Contributors The Lattice Advantage Why Lattice Customer Stories How Lattice Compares Integrations ROI Estimator Resources Lattice Library Articles Ebooks Templates Events &amp; Webinars Lattiverse State of People Strategy Support Help Center Lattice University Contact Support Company About Lattice Careers Hiring Pricing Newsroom CPO Council Community Partner Ecosystem Log in Privacy &amp; security Privacy Policy Privacy Request Cookie Preferences Do Not Sell My Personal Information Lattice Status Security Trust Center Lattice © 202# — All Rights Reserved. Privacy Policy Cookie Preferences",
       "location_display": "Remote (RI)",
       "location_city": "",
@@ -6121,7 +6121,7 @@
       "status": "active",
       "date_added": "2026-05-28",
       "scraped": "2026-05-28",
-      "last_seen": "2026-10-25",
+      "last_seen": "2026-11-15",
       "description_text": "Careers at Lattice: We&#x27;re hiring! Only {days} days to Lattiverse 2026. Seats are going fast | Register now Skip to content Platform Platform overview Explore Our Platform High-performing teams are built here Habits Make high performance a habit Analytics Turn people data into action Product Roadmap Discover new Lattice products Products Performance Build a high-performing team Performance Reviews Talent Reviews PIPs Succession Planning 1:1s Updates Feedback Engagement Survey smarter with AI insights Goals &amp; OKRs Set goals, track progress Grow Make career progression clear Compensation Strategic pay that aligns to your budget Lattice AI AI Overview From reactive to proactive HR AI Agent New Your always-on HR partner Take a tour of Lattice Check out our free interactive tours Watch a demo of Lattice Discover Lattice in video Why Lattice The Lattice advantage Why Lattice See why HR teams love Lattice How Lattice Compares The industry leader in HR software Integrations Get the most out of your tech stack ROI Estimator See how Lattice will deliver for you Company About Lattice Our mission, values, and leadership Newsroom Read about Lattice in the news CPO Council Leaders defining the future of HR Community Connect with peers and experts Partner Ecosystem Go beyond just a platform Featured customer story How BARK Scaled Alignment Across Teams and Workflows Customers Resources Overview Lattice Library Your one-stop shop to learn all things HR Articles The latest thinking on people strategy Ebooks Downloadable resources to help you thrive Templates Easy templates for busy HR teams Events &amp; Webinars Watch live with peers or on demand support Help Center Get support while using Lattice Lattice University Learn Lattice with interactive courses Contact Support Get in touch with us Featured HR Report Read the 2026 State of People Strategy Report Pricing Log in Request a demo Platform overview Explore Our Platform Habits Analytics Product Roadmap Interactive Tours Request a Demo Products Performance Engagement Goals &amp; OKRs Grow Compensation Lattice AI AI Overview AI Agent New Solutions Agencies Banks Credit Unions Fintech Insurance Life Sciences Manufacturing Professional Services Retail &amp; Ecommerce Sports Technology Small Businesses Midsize Businesses Enterprise Chief Executive Officers HR Leaders People Managers Individual Contributors The Lattice Advantage Why Lattice Customer Stories How Lattice Compares Integrations ROI Estimator Resources Lattice Library Articles Ebooks Templates Events &amp; Webinars Lattiverse State of People Strategy Support Help Center Lattice University Contact Support Company About Lattice Careers Hiring Pricing Newsroom CPO Council Community Partner Ecosystem Log in Privacy &amp; security Privacy Policy Privacy Request Cookie Preferences Do Not Sell My Personal Information Lattice Status Security Trust Center Lattice © 202# — All Rights Reserved. Privacy Policy Cookie Preferences",
       "location_display": "Remote (RI)",
       "location_city": "",
@@ -6156,7 +6156,7 @@
       "status": "active",
       "date_added": "2026-05-28",
       "scraped": "2026-05-28",
-      "last_seen": "2026-10-25",
+      "last_seen": "2026-11-15",
       "description_text": "Careers at Lattice: We&#x27;re hiring! Only {days} days to Lattiverse 2026. Seats are going fast | Register now Skip to content Platform Platform overview Explore Our Platform High-performing teams are built here Habits Make high performance a habit Analytics Turn people data into action Product Roadmap Discover new Lattice products Products Performance Build a high-performing team Performance Reviews Talent Reviews PIPs Succession Planning 1:1s Updates Feedback Engagement Survey smarter with AI insights Goals &amp; OKRs Set goals, track progress Grow Make career progression clear Compensation Strategic pay that aligns to your budget Lattice AI AI Overview From reactive to proactive HR AI Agent New Your always-on HR partner Take a tour of Lattice Check out our free interactive tours Watch a demo of Lattice Discover Lattice in video Why Lattice The Lattice advantage Why Lattice See why HR teams love Lattice How Lattice Compares The industry leader in HR software Integrations Get the most out of your tech stack ROI Estimator See how Lattice will deliver for you Company About Lattice Our mission, values, and leadership Newsroom Read about Lattice in the news CPO Council Leaders defining the future of HR Community Connect with peers and experts Partner Ecosystem Go beyond just a platform Featured customer story How BARK Scaled Alignment Across Teams and Workflows Customers Resources Overview Lattice Library Your one-stop shop to learn all things HR Articles The latest thinking on people strategy Ebooks Downloadable resources to help you thrive Templates Easy templates for busy HR teams Events &amp; Webinars Watch live with peers or on demand support Help Center Get support while using Lattice Lattice University Learn Lattice with interactive courses Contact Support Get in touch with us Featured HR Report Read the 2026 State of People Strategy Report Pricing Log in Request a demo Platform overview Explore Our Platform Habits Analytics Product Roadmap Interactive Tours Request a Demo Products Performance Engagement Goals &amp; OKRs Grow Compensation Lattice AI AI Overview AI Agent New Solutions Agencies Banks Credit Unions Fintech Insurance Life Sciences Manufacturing Professional Services Retail &amp; Ecommerce Sports Technology Small Businesses Midsize Businesses Enterprise Chief Executive Officers HR Leaders People Managers Individual Contributors The Lattice Advantage Why Lattice Customer Stories How Lattice Compares Integrations ROI Estimator Resources Lattice Library Articles Ebooks Templates Events &amp; Webinars Lattiverse State of People Strategy Support Help Center Lattice University Contact Support Company About Lattice Careers Hiring Pricing Newsroom CPO Council Community Partner Ecosystem Log in Privacy &amp; security Privacy Policy Privacy Request Cookie Preferences Do Not Sell My Personal Information Lattice Status Security Trust Center Lattice © 202# — All Rights Reserved. Privacy Policy Cookie Preferences",
       "location_display": "Remote (RI)",
       "location_city": "",
@@ -10205,7 +10205,7 @@
       "status": "active",
       "date_added": "2026-05-28",
       "scraped": "2026-05-28",
-      "last_seen": "2026-10-25",
+      "last_seen": "2026-11-15",
       "description_text": "Corporate Account Executive in Chicago • Asana Jobs Asana acquires StackAI — now every human-agent workflow runs in one place. Learn more x icon Asana Home Product chevron-down icon Solutions chevron-down icon Learning &amp; support chevron-down icon Pricing Choose your preferred language Bahasa Indonesia Deutsch English Español Français Italiano 日本語 한국어 Nederlands Polski Português Русский Svenska 繁體中文 Contact sales Log in Get started Launch Asana Upgrade Contact sales chevron-down icon settings icon My tasks Inbox My organization Help Center Language plus icon Add another account Log out Product chevron-down icon PLATFORM Product overview All features App integrations Latest feature release CAPABILITIES Project management Workflows and automation Goals and reporting Resource management Admin and security ASANA AI Asana AI AI Studio AI Teammates PLANS Personal Starter Advanced Solutions chevron-down icon Company Type Enterprise Small business Nonprofit Startup Agencies Teams Operations Marketing IT Leaders Industries Government Healthcare Retail Financial services Education Manufacturing Use Cases Goal management Organizational planning Project intake Resource planning Product launches View all use cases Learning &amp; support chevron-down icon LEARN Resource center Events and webinars Customer stories Asana Academy Certifications Trainings SUPPORT Help Center Community Templates Developers SERVICES Customer Success Find a partner Become a partner Pricing Get started Get started Log in Launch Asana Contact sales View demo Download app PLATFORM Product overview All features App integrations Latest feature release CAPABILITIES Project management Workflows and automation Goals and reporting Resource management Admin and security ASANA AI Asana AI AI Studio AI Teammates PLANS Personal Starter Advanced Company Type Enterprise Small business Nonprofit Startup Agencies Teams Operations Marketing IT Leaders Industries Government Healthcare Retail Financial services Education Manufacturing Use Cases Goal management Organizational planning Project intake Resource planning Product launches View all use cases LEARN Resource center Events and webinars Customer stories Asana Academy Certifications Trainings SUPPORT Help Center Community Templates Developers SERVICES Customer Success Find a partner Become a partner Contact sales View demo Download app Careers Careers chevron-down icon All open positions arrow-right-circle icon Offices chevron-down icon Chicago Dublin Japan London Munich New York City Paris Reykjavik San Francisco (HQ) Sydney Singapore Vancouver, BC Warsaw Teams chevron-down icon Business &amp; Marketing Engineering &amp; Data General &amp; Administrative Product &amp; Design Teams Emerging Talent Programs Culture &amp; Belonging All open positions arrow-right-circle icon ... Careers chevron-right icon All chevron-right icon Corporate Account Executive chevron-right icon Corporate Account Executive Chicago Apply We&#x27;re seeking a Corporate Account Executive who will fuel Asana&#x27;s expansion into established books of business, uncovering hidden potential and driving exponential growth. You’ll play a crucial role in acquiring new customers and cultivating passionate advocates. You&#x27;ll tackle complex deals, and your insatiable curiosity will position you as a thought leader, consistently propelling you to the top of the performance charts. We welcome those who challenge conventional wisdom and refuse to settle for the ordinary! Join Asana&#x27;s sales team and become a seasoned explorer and a strategic partner for potential clients. Your contribution will be instrumental in our company&#x27;s growth, while you embark on your own journey of personal and professional development. If you&#x27;re eager to make a significant impact and refine your sales expertise, we&#x27;re excited to connect with you! This role is based in our Chicago office with an office-centric hybrid schedule. The standard in-office days are Monday, Tuesday, and Thursday. Most Asanas have the option to work from home on Wednesdays. Working from home on Fridays depends on the type of work you do and the teams with which you partner. If you&#x27;re interviewing for this role, your recruiter will share more about the in-office requirements. What You’ll Achieve Lead full-cycle sales process for new and existing Asana customers, both through outbound and inbound opportunities in the Corporate Segment (100-1000 EE). Craft account strategies to build relationships and find opportunities with critical Asana clients Leverage customer data and industry insights to identify expansion opportunities Identify and champion high-impact use cases within different departments, driving adoption beyond initial deployment Track and measure key metrics, continuously refining your approach to maximize engagement and value realization About You 4+ years of B2B sales experience, demonstrating a proven track record of acquiring new corporate accounts A customer-centric approach with a passion for understanding and solving customer problems Exceptional communication and presentation skills A strategic mindset coupled with a data-driven approach to sales The ability to thrive in a fast-paced, results-oriented environment through exceptional organization and operational skills Proficient with sales tech stack including Salesforce, Clari, Outreach, LinkedIn Sales Nav, ZoomInfo preferred. Demonstrated curiosity about AI tools and emerging technologies, with a willingness to learn and leverage them to enhance productivity, collaboration, or decision-making. At Asana, we&#x27;re committed to building teams that include a variety of backgrounds, perspectives, and skills, as this is critical to helping us achieve our mission. If you&#x27;re interested in this role and don&#x27;t meet every listed requirement, we still encourage you to apply. What we&#x27;ll offer Our comprehensive compensation package plays a big part in how we recognize you for the impact you have on our path to achieving our mission. We believe that compensation should be reflective of the value you create relative to the market value of your role. To ensure pay is fair and not impacted by biases, we&#x27;re committed to looking at market value which is why we check ourselves and conduct a yearly pay equity audit. For this role, the On-Target Earnings (OTE) range is $162,000- $185,000. The total OTE includes a base salary range of $81,450-$92,500 and performance-based sales incentive pay (based on the terms of the Sales Incentive Plan). These ranges are a guideline; actual base salary and OTE may vary based on various factors, including market and individual qualifications objectively assessed during the interview process, and the ranges for this role may be modified. We strive to provide equitable and competitive benefits packages that support our employees worldwide and include: Mental health, wellness &amp; fitness benefits Career coaching &amp; support Inclusive family building benefits Long-term savings or retirement plans In-office culinary options to cater to your dietary preferences These are just some of the benefits we offer, and benefits may vary based on role, country, and local regulations. If you&#x27;re interviewing for this role, speak with your Talent Acquisition Partner to learn more about the total compensation and benefits for this role. #LI-Hybrid About us Asana is a leading platform for human + AI collaboration. Millions of teams around the world rely on Asana to achieve their most important goals, faster. Asana has been named to Fortune&#x27;s Best Workplaces for 7+ years and recognized by Fast Company, Forbes, and Gartner for excellence in workplace culture and innovation. We offer an exceptional office-centric culture while adopting the best elements of hybrid models to ensure that every one of our global team members can work together effortlessly. With 13+ offices all over the world, we are always looking for individuals who care about building technology that drives positive change in the world and a culture where everyone feels that they belong. Join Asana’s Talent Network to stay up to date on job opportunities and life at Asana. By clicking &quot;Submit Application,&quot; you acknowledge and agree to Asana&#x27;s Global Job Applicant Privacy Notice . Why Asana? Asana is a leading work management platform for human + AI collaboration. Over 170,000 customers like Accenture, Amazon, Anthropic, and Suzuki rely on Asana to align teams and accelerate organizational impact. Whether it’s managing strategic initiatives, cross-functional programs, or company-wide goals, Asana helps organizations bring clarity to complexity—turning plans into action with AI working alongside teams every step of the way. We believe investing in our culture and our employees is what fuels our individual and collective growth, allowing us to achieve our mission. Asana is an equal opportunity employer, and building a diverse, equitable, and inclusive company is core to our mission. Join us to make a big impact—on our mission, our customers’ missions, and your career. Can’t find the right role at Asana today? Join Asana’s Talent Network to stay up to date on job openings. Asana Home New to Asana? Product overview All features Latest feature release Pricing Starter plan Advanced plan Enterprise App integrations AI work management Project management Resource management Use cases Campaign management Content calendar Creative production Goal management New hire onboarding Organizational planning Product launches Resource planning Strategic planning Project intake All use cases Solutions Small business Marketing Operations IT Product Sales Healthcare Retail Government Education Manufacturing Nonprofits Startups Agencies All teams Resources Help Center Get support Asana Academy Certifications Forum Resource center Events and webinars Project templates Customer Success Developers and API Partners Sitemap Company About us Leadership Customers Careers Inside Asana Culture Press Investor relations Trust and security Privacy Supplier responsibility Sustainability and ESG © 2026 Asana, Inc. Language Bahasa Indonesia Deutsch English Español Français Italiano 日本語 한국어 Nederlands Polski Português Русский Svenska 繁體中文 X Linkedin Instagram Facebook Youtube Terms Terms &amp; Privacy Privacy Download the Asana iOS app Download the Asana Android app",
       "location_display": "Providence, RI",
       "location_city": "Providence",
@@ -12251,7 +12251,7 @@
       "status": "active",
       "date_added": "2026-05-28",
       "scraped": "2026-05-28",
-      "last_seen": "2026-10-25",
+      "last_seen": "2026-11-15",
       "description_text": "Woodard &amp; Curran - Industrial Water Technical Manager Industrial Water Technical Manager Virtual Water – Clean Water / Wastewater / Full-time / Remote apply for this job Woodard &amp; Curran is a national engineering, science and operations firm with a simple vision for clean water, a safe environment, healthy communities and happy people. As an employee-owned company, we strive to cultivate teams that encourage collaboration in an inclusive culture. We seek talented individuals from all backgrounds to help us address a broad range of water and environmental issues. We prioritize our people, offering opportunities for professional growth, ownership and flexibility. This commitment enables us to make a meaningful impact on our clients, communities and the planet.&nbsp; What’s in it for you: Woodard &amp; Curran is a privately held firm whose values begin with putting Employees first, a Flexible work environment, and competitive benefits. We are currently seeking a dynamic, detail-oriented, and client-focused Professional Engineer to join our Water Team as a Technical Manager in our Industrial Water Practice. In this role, you will collaborate with our team to develop, design, and deliver various industrial water/wastewater projects across the U.S. &nbsp; Who are we looking for: In response to our need for growth, Woodard &amp; Curran offers a unique opportunity to support technical delivery and leadership in our Industrial Water Practice, which provides high-quality engineering and design services to industrial and commercial clients throughout the U.S. The selected candidate will have technical experience to lead water and wastewater system designs while providing mentorship to a talented team of engineers. Woodard &amp; Curran is seeking a motivated professional with an entrepreneurial spirit, a demonstrated focus on industrial clients and safe practices, and a passion for innovation and technical excellence in the industrial water/wastewater field. The position requires a strong communicator with the demonstrated ability to develop, lead, and mentor project teams. &nbsp; Location: Nationwide search Office Preference: Remote/Virtual Travel: Up to 25% within the continental US Just to name a few, projects may include: Capacity assessments, alternatives evaluations, basis of design development Bench and pilot-scale testing Water/wastewater treatment system upgrades New water/wastewater treatment system designs On-site commissioning and start-up Water Reuse What You Will Be Doing at Woodard &amp; Curran: The ability to grow and succeed as a firm is a direct function of the technical expertise we develop within the firm. As such, our success is directly related to our technical experts’ abilities to innovate and differentiate the firm in the marketplace based on expertise. A Technical Manager is responsible for staying at the forefront of technical approaches in their field of expertise and contributing both innovation and project delivery within the areas where the expertise applies. Specific areas of focus include: Provide technical leadership to staff in the Industrial Water/Wastewater Business, with specific focus on the Industrial Water/Wastewater Practice. Experience in the Pharmaceutical/Chemical, Food &amp; Beverage, and/or Data Center markets is preferred but not essential. Develop and maintain client-advisor relationships that lead to business and repeat business for the firm. Assist and or lead on proposal preparation and pursuit of new client and project opportunities. Contribute to new and existing Large Account development and management. Make national and regional-level technical publications &amp; presentations and serve in professional technical leadership positions in outside organizations. Conduct research and innovate within project opportunities to implement new and improved methods to execute solutions for our work. Develop and lead the development of tools to assist in demonstrating Woodard &amp; Curran’s technical leadership. Ensure the technical quality of the work product delivered. Mentor staff in technical skill areas. What You Will Need To Succeed: M.S. (P.E. or other certification/advanced degree preferred) in Engineering. 10 - 15 years of professional experience with an engineering consulting firm. Demonstrated experience serving industrial clients. Strong appreciation of and commitment to safe work practices is mandatory Background in biological wastewater treatment and design. Industrial client engineering and/or design-build expertise, preferably in the food and beverage, pharmaceutical/chemical, data center, life sciences, and/or consumer products markets. Strong written and verbal skills and demonstrated track record of publishing technical work $110,000 - $175,000 a year This role has the option for remote work, and the anticipated pay range is flexible, depending on factors such as the employee's primary work location, skills, experience, and education. The following examples illustrate how the pay range for the same role can vary based on different locations.&nbsp; &nbsp; Group A (MT, ME, FL) = $110,000 - $130,000 Group B (PA, Northampton, MA, MO, GA, RI) = $120,000 - $145,000 Group C (CO, CT, NJ, MA, CA, NY) = $135,000 - $175,000 &nbsp; This position’s anticipated pay range is provided; the final exempt salary or non-exempt hourly pay will depend on experience level and consider a percentage-based geographic differential based on where the final candidate will be working. Geographic differentials recognize and reflect the cost of labor differences between geographic markets. &nbsp; #LI-TB1 Mutual Dispute Resolution (MDR) &nbsp; As part of our commitment to a fair and respectful workplace, Woodard &amp; Curran uses a&nbsp; Mutual Dispute Resolution (MDR) &nbsp;to help resolve most employment-related concerns efficiently and consistently. What this means: MDR applies to both you and the Company Most workplace-related disputes are resolved through&nbsp; binding arbitration , rather than court proceedings Certain exceptions are outlined in the full agreement &nbsp; AS PART OF THE APPLICATION PROCESS, YOU’LL BE REQUIRED TO REVIEW AND ACKNOWLEDGE THE MDR. 🔗 &nbsp; Review the full agreement here: &nbsp; Mutual Dispute Resolution Agreement &nbsp; &nbsp; Employee Support &amp; Benefits &nbsp; Retirement Savings: 401(k) Pre-tax or Roth Contributions: The company matches 100% of the first 3% of salary contributed &nbsp; Time away from work: Observed holidays: Choose up to 8 holidays to observe annually Vacation: Accrued based on years of experience and calculated on hours worked Sick time: Paid sick time for non-work-related illness or injury. Parental leave : Up to 80 hours of Paid Parental Leave for child bonding &nbsp; Coverage and support for your needs and well-being: Disability: Paid short- and long-term disability Health : Medical plan options; plus dental and vision plans. Life : Basic employee group life insurance and AD&amp;D benefits; additional voluntary life insurance for employees and families is available through Sun Life. Wellbeing: DarioMind assistance program combined with personalized mental health and wellbeing resources. &nbsp; Workplace Information &nbsp; E-Verify Participation Woodard &amp; Curran participates in the U.S. Department of Homeland Security’s E-Verify program to confirm the employment eligibility of all newly hired employees. As part of this process, we display the required Notice of E-Verify Participation and Right to Work posters.&nbsp; 🔗 View required Right to Work and E-Verify posters here. &nbsp; Equal Employment Opportunity &amp; Accessibility Woodard &amp; Curran is an Equal Opportunity Employer. We are committed to non-discrimination and make employment decisions based on job-related factors. Individuals with disabilities and protected veterans are encouraged to apply. If you require a reasonable accommodation during the application process, please contact Beth Sweitzer . 🔗 View our Equal Employment Opportunity Policy 🔗 View the \"Workplace Discrimination is Illegal\" poster&nbsp; &nbsp; Inclusion &amp; Belonging We welcome individuals from all backgrounds and believe diverse perspectives strengthen our ability to serve clients and communities. As an employee-owned company, we are committed to fostering a respectful and inclusive environment where employees can grow, contribute fully, and deliver meaningful impact. &nbsp; Recruitment Agency Policy We do not accept unsolicited resumes from recruitment agencies. Submissions without a signed agreement in place will be considered unsolicited and not eligible for referral fees. &nbsp; Text Message Communication Notice: To support an efficient hiring process, we may send brief SMS updates or reminders. You may opt out at any time by replying “STOP.” &nbsp; Terms, Privacy &amp; Use of AI in Hiring&nbsp; 🔗 Woodard &amp; Curran Terms of Use 🔗 Woodard &amp; Curran Privacy Statement &nbsp; We may use artificial intelligence (AI) tools to support aspects of the hiring process (e.g., application review or resume screening). These tools assist our team but do not replace human decision-making. All final hiring decisions are made by people. We may use artificial intelligence (AI) tools to support parts of the hiring process, such as reviewing applications, analyzing resumes, or assessing responses. These tools assist our recruitment team but do not replace human judgment. Final hiring decisions are ultimately made by humans. If you would like more information about how your data is processed, please contact us. apply for this job Woodard &amp; Curran Home Page Jobs powered by",
       "location_display": "Providence, RI",
       "location_city": "Providence",
@@ -12705,7 +12705,7 @@
       "status": "active",
       "date_added": "2026-05-28",
       "scraped": "2026-05-28",
-      "last_seen": "2026-10-25",
+      "last_seen": "2026-11-15",
       "description_text": "Senior Software Engineer, GTM Engineering @ Vanta You need to enable JavaScript to run this app. Senior Software Engineer, GTM Engineering Location Remote U.S. Employment Type Full time Location Type Remote Department Revenue Compensation Cash Range $156K – $184K • Offers Equity • This role is also eligible for medical benefits, 401(k) plan, and other company perk programs. Overview Application At Vanta, our mission is to help businesses earn and prove trust. We believe that security should be monitored and verified continuously, and we empower companies to practice better security and prove it with ease. Vanta has a kind and talented team, and while some have prior security experience, many have been successful at Vanta without it.&nbsp; As a Software Engineer on Vanta's GTM Engineering team, you will design and ship internal tools that transform how our go-to-market teams operate. You'll embed with Sales, Customer Success, and Revenue Operations to build novel applications and platforms that accelerate pipeline generation, improve win rates, and scale how Vanta engages customers. Vanta's GTM Engineering team operates as an internal incubator: applying our technology at scale to revolutionize customer engagement. We build high-impact tools that reshape conversations, learn from every customer interaction, and demonstrate the value of our platform in real-world scenarios. This team sits at the intersection of product engineering and GTM strategy, shipping solutions that range from rapid prototypes to production-grade systems. As a senior engineer on this team, you will own end-to-end outcomes, move quickly from concept to production, and directly shape how customers experience Vanta in the field. This role is ideal for builders who want to be close to users, solve complex business problems with elegant technical solutions, and define entirely new categories of enterprise software. Visit our Vanta Engineering Blog to learn more about what our team is working on!&nbsp; What you’ll do as a Software Engineer at Vanta: Build and ship applications that accelerate Vanta's GTM efforts: from AI-powered workflows that automate prospecting and account research to internal tools that improve rep productivity and pipeline velocity Own the full product lifecycle: prototype, iterate, ship, and maintain solutions that solve real-world customer and internal workflow problems Partner closely with Sales, Technical Success, and Revenue Operations to identify high-leverage opportunities, understand user needs, and build for them Apply AI and modern technologies in novel ways to systematize and automate GTM workflows (e.g., pipeline generation, deal preparation, renewal velocity, scoring and routing) Design, develop, and maintain internal-facing web applications and AI-driven agents using a mix of frameworks, APIs, and code (Python, TypeScript, SQL) Ship reliable, maintainable systems with technical documentation, monitoring, and testing frameworks to ensure adoption and observability Translate learnings from customer-facing work into feedback for product and research teams to inform broader product development Evaluate and implement new technologies, orchestration tools, and AI platforms with a clear \"build vs. buy\" perspective How to be successful in this role: 7+ years of software engineering experience with a strong focus on building and shipping full-stack applications Former founder or early engineer at a startup (0–50 employees): you've built products from the ground up, navigated ambiguity, and owned outcomes in a fast-paced, resource-constrained environment Deep technical skill set: proficiency in modern programming languages (Python, TypeScript/JavaScript), experience with web frameworks (React, Node.js), and strong SQL skills Understanding of how AI and automation can be applied to business workflows: experience with LLM APIs, prompt engineering, or workflow automation tools is a strong plus Experience working closely with non-technical stakeholders (Sales, Operations, Customer Success) to translate business needs into technical requirements and ship impactful solutions Product mindset: you care about user experience, business impact, and building systems that people love to use, not just technical elegance Demonstrated ability to move quickly from prototype to production, make effective tradeoffs, and ship incrementally Excellent communication skills and the ability to explain technical decisions to business stakeholders and executive leadership Experience with GTM systems (Salesforce, HubSpot, Gong, workflow automation tools like Workato or n8n) or modern data stack tools (Snowflake, dbt) is a plus Must be authorized to work in the U.S. without the need for current or future employer sponsorship Open to using AI to amplify their skills and strengthen their work - demonstrating curiosity, a willingness to learn, and sound judgment in applying AI responsibly to improve efficiency and impact What you can expect as a Vanta’n: Industry-competitive salary and equity Comprehensive medical, dental, and vision coverage, with 100% of employee-only benefit premiums covered for most medical plans 16 weeks Parental Leave for all new parents Health &amp; wellness stipend Remote workspace, internet, and cellphone stipend Commuter benefits for team members who report to the SF and NYC office Family planning benefits Matching 401(k) contribution with immediate vesting Flexible PTO policy, plus 80 hours of Sick Time 11 company-paid holidays Virtual team building activities, lunch and learns, and other company-wide events! Offices in SF, NYC, London, Dublin, Tel Aviv, and Sydney To provide greater transparency to candidates, we share base pay ranges for all US-based job postings regardless of state. We set standard base pay ranges for all roles based on function, level, and country location, benchmarked against similar-stage growth companies. Final offer amounts are determined by multiple factors and may vary based on candidate location, skills, depth of work experience, and relevant licenses/credentials. #LI-remote At Vanta, we are committed to hiring diverse talent of different backgrounds and as such, it is important to us to provide an inclusive work environment for all. We do not discriminate on the basis of race, gender identity, age, religion, sexual orientation, veteran or disability status, or any other protected class. As an equal opportunity employer, we encourage and welcome people of all backgrounds to apply. About Vanta We started in 2018, in the wake of several high-profile data breaches. Online security was only becoming more important, but we knew firsthand how hard it could be for fast-growing companies to invest the time and manpower it takes to build a solid security foundation.&nbsp;Vanta was inspired by a vision to restore trust in internet businesses by enabling companies to improve and prove their security. From our early days automating security monitoring for compliance standards like SOC 2, HIPAA and ISO 27001 to creating the world's leading Trust Management Platform, our vision remains unchanged.&nbsp; Now more than ever, making security continuous—not just a point-in-time check— is essential. Thousands of companies rely on Vanta to build, maintain and demonstrate their trust— all in a way that's real-time and transparent. Referral Instructions If you are being referred for the role, please contact that person to apply on your behalf. &nbsp; &nbsp; &nbsp; Compensation Range: $156K - $184K Apply for this Job Powered by&nbsp; Ashby Privacy Policy Security Vulnerability Disclosure",
       "location_display": "Remote (RI)",
       "location_city": "",
@@ -12814,7 +12814,7 @@
       "status": "active",
       "date_added": "2026-05-28",
       "scraped": "2026-05-28",
-      "last_seen": "2026-10-25",
+      "last_seen": "2026-11-15",
       "description_text": "Mid-Market Account Executive @ Brisk Teaching You need to enable JavaScript to run this app. Mid-Market Account Executive Location Remote Employment Type Full time Location Type Remote Department Sales Compensation $85K – $105K • Offers Equity • $55K – $70K Commission • 60:40 base to variable split. Variable subject to change yearly. Overview Application ABOUT US: Brisk Teaching is the leading AI platform for K-12 educators, empowering teachers to deliver personalized, curriculum-aligned instruction at scale. Our Classroom Intelligence tools connect teachers, students, and curriculum—making meaningful learning happen in classrooms every day. We believe the best technology is cutting-edge, respects teachers’ time, integrates into real classrooms, and helps educators focus on what matters most. Since launching, Brisk has experienced rapid growth. Over 2 million teachers use our platform, and we partner with districts and schools nationwide to transform how educators teach and how students learn. We're backed by leading venture and edtech investors including Bessemer Venture Partners (Shopify, LinkedIn, Anthropic, Perplexity) and Owl Ventures (Newsela, Quizlet, MasterClass), with a team spanning top AI companies and real classroom experience. We're a fast-moving, collaborative team driven by a shared commitment to educator impact and product excellence. Our values—urgency, ownership, and focus—shape how we build and who we are. THE OPPORTUNITY: We’re looking for a dynamic and results-driven Mid-Market Account Executive to join our team. In this role, you’ll be responsible for identifying, engaging, and closing new school and district partnerships. You’ll play a critical part in expanding Brisk’s footprint, working closely with potential clients to understand their needs and demonstrate how Brisk’s solutions can enhance their teaching and learning outcomes. YOU WILL: Lead Generation &amp; Outreach: Identify and prospect new school and district accounts through targeted outreach, leveraging existing networks, and participating in educational events. Sales Process Management: Guide prospective clients through the sales journey, from initial contact to closing, ensuring clear communication and a tailored approach. Relationship Building: Develop strong relationships with education leaders, understanding their challenges and goals, and positioning Brisk’s offerings as valuable solutions. Travel: Travel approximately 25-30% of the time to meet with prospective schools and districts, attend educational conferences in the territory, and represent Brisk at industry events. Collaboration: Work closely with the Customer Success, Product, and Marketing teams to ensure a smooth onboarding process and a seamless transition from prospect to customer. Market Insights: Gather insights from potential customers to share with our product and leadership teams, helping shape future product developments and strategies. YOU HAVE: BA or BS in any field . Sales Experience: Proven quota achievement record in B2B sales, with at least 2+ years of experience selling into EdTech specifically. Tools Experience: Prior familiarity, and ideally work experience, with Salesforce, Gong, and Outreach. Location: a WFH location in CA or a CT, MT, or PT time zone. Communication Skills: Excellent written and verbal communication skills with the ability to connect with diverse stakeholders. Customer-Focused: Passionate about understanding and solving customer challenges, with a genuine interest in K-12 education. Self-Motivated: Ability to work independently and thrive in a fast-paced, evolving environment. Team-Oriented: Comfortable collaborating with cross-functional teams to ensure the best outcomes for our clients and company. BONUS: Classroom teaching experience. MEDDPICC certification. Equal Employment Opportunity &amp; Diversity At Brisk, we believe that diverse perspectives make better teams and stronger products. We are an equal opportunity employer and are committed to creating an inclusive environment for all employees. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity or expression, age, national origin, veteran status, disability, or any other legally protected status. Compensation Range: $85K - $105K Apply for this Job Powered by&nbsp; Ashby Privacy Policy Security Vulnerability Disclosure",
       "location_display": "Remote (RI)",
       "location_city": "",
@@ -12960,7 +12960,7 @@
       "status": "active",
       "date_added": "2026-05-28",
       "scraped": "2026-05-28",
-      "last_seen": "2026-10-25",
+      "last_seen": "2026-11-15",
       "description_text": "Video Editor - Snowball @ Snowball You need to enable JavaScript to run this app. Video Editor - Snowball Location United States (remote) Employment Type Full time Location Type Remote Department Snowball Overview Application Video Editor — Snowball Full-Time | $80,000–$100,000/year | US Remote We're building the best YouTube agency in the world. We've assembled a crazy-talented group of YouTube strategists who've collectively generated over 110 billion views and shaped how YouTube works today. Our founder, Ryan Hashemi, built Jubilee to 14 million subscribers, has 4 Emmy nominations, and even trained the person who now is the CEO of MrBeast's studio. Our team comes from iconic names like WIRED, Vogue, Mini Katana (18M+ subs), and other influential YouTube brands. (Learn more about Ryan’s journey here: https://www.linkedin.com/feed/update/urn:li:activity:7262864813221888000/ ) Now we're helping the world's biggest brands crack the code on YouTube and make content that people actually want to watch at scale. We lead YouTube creative and content programming as a strategic channel. We staff and train in-house YouTube teams for clients, hiring video producers, editors, and strategists, and build long-form storytelling systems designed to compound over time. The result: evergreen content that earns millions of views, builds loyal audiences, and drives conversions. Why This Is Exciting After stepping down from Jubilee, Ryan is betting everything on Snowball, and that bet is already paying off. The world’s biggest brands know YouTube is the next frontier, they just need the right partner to help them win. That’s where you come in. Your Role: Video Editor As a founding Video Editor at Snowball, you will play a key role in shaping YouTube content for some of the biggest brands in the world.. You’ll be crafting stories designed to hold attention, drive retention, and help channels scale through repeatable, high-performing formats. You’ll work closely with our world-class producers, strategists, and channel leads to bring ideas to life, refine pacing, and elevate the creative standard across every video. This role is ideal for an editor who understands that editing is storytelling and who is excited to push beyond technical execution into creative problem solving. You’ll be part of a team that treats YouTube as a strategic channel, building long-form content systems designed to grow audiences and deliver measurable results over time. What You’ll Do Edit high-performing long-form YouTube content for our clients across established and emerging channels Assemble rough cuts and refine them into polished, final edits Execute pacing decisions that prioritize clarity, retention, and storytelling Collaborate with producers and strategists to interpret creative briefs and bring concepts to life Implement notes quickly and accurately across multiple feedback rounds Manage multiple projects and clients at once while meeting deadlines Maintain consistency across episodes, formats, and recurring content series Ensure assets, timelines, and exports follow consistent internal standards Support the development of repeatable editing systems that enable channel scale Streamline editing processes and workflows to ensure projects stay on track and deadlines are met What We’re Looking For 3–5+ years of professional editing experience with a strong portfolio demonstrating storytelling craft (required). YouTube experience preferred. Deep proficiency in Adobe Premiere Pro, After Effects, or comparable editing software. Strong understanding of YouTube pacing, structure, retention tactics, and platform best practices. Experience editing educational, narrative, branded, or documentary-style content. Experience editing long-form content (YouTube experience strongly preferred) Understanding of pacing, retention, and storytelling structure Comfort working in fast-paced environments with competing client priorities and tight timelines Collaborative mindset and ability to communicate clearly with producers and teams Strong attention to detail and file organization skills Ability to take feedback constructively and iterate quickly Passion for YouTube and curiosity about what makes content perform What We Offer Annual salary range: $80,000 - $100,000 Health &amp; vision benefits 401(k) Remote-Hybrid flexible Direct mentorship from the co-founders Ground-floor opportunity at a fast-growing company Our Values Work hard, learn harder Be effectively proactive Overdeliver for clients Be kind by being clear A+ players only Ready To Apply? Resumes are great and all, but we'd love to see something creative that shows who you are and why you're excited about this role. We want to see the real you, what makes you unique, passionate, and ready to help us build the future of content marketing. Apply for this Job Powered by&nbsp; Ashby Privacy Policy Security Vulnerability Disclosure",
       "location_display": "Remote (RI)",
       "location_city": "",
@@ -14732,7 +14732,7 @@
       "status": "active",
       "date_added": "2026-06-11",
       "scraped": "2026-06-11",
-      "last_seen": "2026-10-25",
+      "last_seen": "2026-11-15",
       "location_display": "Statewide (RI)",
       "location_city": "",
       "category_codex": "Healthcare & Social Services",
@@ -14802,7 +14802,7 @@
       "status": "active",
       "date_added": "2026-06-11",
       "scraped": "2026-06-11",
-      "last_seen": "2026-10-25",
+      "last_seen": "2026-11-15",
       "location_display": "Statewide (RI)",
       "location_city": "",
       "category_codex": "Healthcare & Social Services",
@@ -14836,7 +14836,7 @@
       "status": "active",
       "date_added": "2026-06-11",
       "scraped": "2026-06-11",
-      "last_seen": "2026-10-25",
+      "last_seen": "2026-11-15",
       "location_display": "Statewide (RI)",
       "location_city": "",
       "category_codex": "Healthcare & Social Services",
@@ -14870,7 +14870,7 @@
       "status": "active",
       "date_added": "2026-06-11",
       "scraped": "2026-06-11",
-      "last_seen": "2026-10-25",
+      "last_seen": "2026-11-15",
       "location_display": "Statewide (RI)",
       "location_city": "",
       "category_codex": "Healthcare & Social Services",
@@ -14904,7 +14904,7 @@
       "status": "active",
       "date_added": "2026-06-11",
       "scraped": "2026-06-11",
-      "last_seen": "2026-10-25",
+      "last_seen": "2026-11-15",
       "location_display": "Statewide (RI)",
       "location_city": "",
       "category_codex": "Healthcare & Social Services",
@@ -14938,7 +14938,7 @@
       "status": "active",
       "date_added": "2026-06-11",
       "scraped": "2026-06-11",
-      "last_seen": "2026-10-25",
+      "last_seen": "2026-11-15",
       "location_display": "Statewide (RI)",
       "location_city": "",
       "category_codex": "Engineering",
@@ -15274,7 +15274,7 @@
       "status": "active",
       "date_added": "2026-06-18",
       "scraped": "2026-06-18",
-      "last_seen": "2026-11-01",
+      "last_seen": "2026-11-15",
       "location_display": "Remote (RI)",
       "location_city": "",
       "category_codex": "Engineering",
@@ -15307,7 +15307,7 @@
       "status": "active",
       "date_added": "2026-06-18",
       "scraped": "2026-06-18",
-      "last_seen": "2026-11-01",
+      "last_seen": "2026-11-15",
       "location_display": "Remote (RI)",
       "location_city": "",
       "category_codex": "Operations",
@@ -15340,7 +15340,7 @@
       "status": "active",
       "date_added": "2026-06-18",
       "scraped": "2026-06-18",
-      "last_seen": "2026-11-01",
+      "last_seen": "2026-11-15",
       "location_display": "Remote (RI)",
       "location_city": "",
       "category_codex": "Sales & Mktg",
@@ -15373,7 +15373,7 @@
       "status": "active",
       "date_added": "2026-06-18",
       "scraped": "2026-06-18",
-      "last_seen": "2026-11-01",
+      "last_seen": "2026-11-15",
       "location_display": "Remote (RI)",
       "location_city": "",
       "category_codex": "Operations",
@@ -19001,7 +19001,7 @@
       "status": "active",
       "date_added": "2026-06-18",
       "scraped": "2026-06-18",
-      "last_seen": "2026-11-01",
+      "last_seen": "2026-11-15",
       "location_display": "Providence, RI",
       "location_city": "Providence",
       "category_codex": "Healthcare & Social Services",
@@ -19668,7 +19668,7 @@
       "status": "active",
       "date_added": "2026-06-25",
       "scraped": "2026-06-25",
-      "last_seen": "2026-10-25",
+      "last_seen": "2026-11-15",
       "location_display": "Statewide (RI)",
       "location_city": "",
       "category_codex": "Product & Project",
@@ -19735,7 +19735,7 @@
       "status": "active",
       "date_added": "2026-06-30",
       "scraped": "2026-06-30",
-      "last_seen": "2026-11-01",
+      "last_seen": "2026-11-15",
       "location_display": "Statewide (RI)",
       "location_city": "",
       "category_codex": "Sales & Mktg",
@@ -20153,7 +20153,7 @@
       "status": "active",
       "date_added": "2026-07-01",
       "scraped": "2026-07-01",
-      "last_seen": "2026-11-01",
+      "last_seen": "2026-11-15",
       "location_display": "Remote (RI)",
       "location_city": "",
       "category_codex": "Sales & Mktg",
@@ -20221,7 +20221,7 @@
       "status": "active",
       "date_added": "2026-07-01",
       "scraped": "2026-07-01",
-      "last_seen": "2026-11-01",
+      "last_seen": "2026-11-15",
       "location_display": "Statewide (RI)",
       "location_city": "",
       "category_codex": "Healthcare & Social Services",
@@ -20254,7 +20254,7 @@
       "status": "active",
       "date_added": "2026-07-01",
       "scraped": "2026-07-01",
-      "last_seen": "2026-11-01",
+      "last_seen": "2026-11-15",
       "location_display": "Statewide (RI)",
       "location_city": "",
       "category_codex": "Healthcare & Social Services",
@@ -20320,7 +20320,7 @@
       "status": "active",
       "date_added": "2026-07-06",
       "scraped": "2026-07-06",
-      "last_seen": "2026-10-25",
+      "last_seen": "2026-11-15",
       "location_display": "Remote (RI)",
       "location_city": ""
     },
@@ -20375,7 +20375,7 @@
       "status": "active",
       "date_added": "2026-07-07",
       "scraped": "2026-07-07",
-      "last_seen": "2026-10-25",
+      "last_seen": "2026-11-15",
       "location_display": "Statewide (RI)",
       "location_city": ""
     },
@@ -20401,7 +20401,7 @@
       "status": "active",
       "date_added": "2026-07-07",
       "scraped": "2026-07-07",
-      "last_seen": "2026-10-25",
+      "last_seen": "2026-11-15",
       "location_display": "Providence, RI",
       "location_city": "Providence"
     },
@@ -20569,7 +20569,7 @@
       "status": "active",
       "date_added": "2026-07-15",
       "scraped": "2026-07-15",
-      "last_seen": "2026-11-01",
+      "last_seen": "2026-11-15",
       "location_display": "Providence, RI",
       "location_city": "Providence"
     },
@@ -20622,7 +20622,7 @@
       "status": "active",
       "date_added": "2026-07-16",
       "scraped": "2026-07-16",
-      "last_seen": "2026-11-01",
+      "last_seen": "2026-11-15",
       "location_display": "Statewide (RI)",
       "location_city": ""
     },
@@ -20649,7 +20649,7 @@
       "status": "active",
       "date_added": "2026-07-17",
       "scraped": "2026-07-17",
-      "last_seen": "2026-11-01",
+      "last_seen": "2026-11-15",
       "location_display": "Statewide (RI)",
       "location_city": ""
     },
@@ -20675,7 +20675,7 @@
       "status": "active",
       "date_added": "2026-07-17",
       "scraped": "2026-07-17",
-      "last_seen": "2026-11-01",
+      "last_seen": "2026-11-15",
       "location_display": "Woonsocket, RI",
       "location_city": "Woonsocket"
     },
@@ -20729,7 +20729,7 @@
       "status": "active",
       "date_added": "2026-07-21",
       "scraped": "2026-07-21",
-      "last_seen": "2026-10-25",
+      "last_seen": "2026-11-15",
       "location_display": "Remote (RI)",
       "location_city": ""
     },
@@ -20839,7 +20839,7 @@
       "status": "active",
       "date_added": "2026-07-25",
       "scraped": "2026-07-25",
-      "last_seen": "2026-10-25",
+      "last_seen": "2026-11-15",
       "location_display": "Providence, RI",
       "location_city": "Providence"
     },
@@ -20894,7 +20894,7 @@
       "status": "active",
       "date_added": "2026-07-28",
       "scraped": "2026-07-28",
-      "last_seen": "2026-11-01",
+      "last_seen": "2026-11-15",
       "location_display": "Statewide (RI)",
       "location_city": ""
     },
@@ -21223,7 +21223,7 @@
       "status": "active",
       "date_added": "2026-08-02",
       "scraped": "2026-08-02",
-      "last_seen": "2026-10-25",
+      "last_seen": "2026-11-15",
       "location_display": "Remote (RI)",
       "location_city": ""
     },
@@ -21335,7 +21335,7 @@
       "status": "active",
       "date_added": "2026-08-02",
       "scraped": "2026-08-02",
-      "last_seen": "2026-10-25",
+      "last_seen": "2026-11-15",
       "location_display": "Remote (RI)",
       "location_city": ""
     },
@@ -21449,7 +21449,7 @@
       "status": "active",
       "date_added": "2026-08-02",
       "scraped": "2026-08-02",
-      "last_seen": "2026-10-25",
+      "last_seen": "2026-11-15",
       "location_display": "Statewide (RI)",
       "location_city": ""
     },
@@ -21505,7 +21505,7 @@
       "status": "active",
       "date_added": "2026-08-02",
       "scraped": "2026-08-02",
-      "last_seen": "2026-10-25",
+      "last_seen": "2026-11-15",
       "location_display": "Remote (RI)",
       "location_city": ""
     },
@@ -21619,7 +21619,7 @@
       "status": "active",
       "date_added": "2026-08-02",
       "scraped": "2026-08-02",
-      "last_seen": "2026-10-25",
+      "last_seen": "2026-11-15",
       "location_display": "Remote (RI)",
       "location_city": ""
     },
@@ -21646,7 +21646,7 @@
       "status": "active",
       "date_added": "2026-08-02",
       "scraped": "2026-08-02",
-      "last_seen": "2026-10-25",
+      "last_seen": "2026-11-15",
       "location_display": "Remote (RI)",
       "location_city": ""
     },
@@ -21673,7 +21673,7 @@
       "status": "active",
       "date_added": "2026-08-02",
       "scraped": "2026-08-02",
-      "last_seen": "2026-10-25",
+      "last_seen": "2026-11-15",
       "location_display": "Warwick, RI",
       "location_city": "Warwick"
     },
@@ -21700,7 +21700,7 @@
       "status": "active",
       "date_added": "2026-08-02",
       "scraped": "2026-08-02",
-      "last_seen": "2026-10-25",
+      "last_seen": "2026-11-15",
       "location_display": "Lincoln, RI",
       "location_city": "Lincoln"
     },
@@ -21726,7 +21726,7 @@
       "status": "active",
       "date_added": "2026-08-04",
       "scraped": "2026-08-04",
-      "last_seen": "2026-10-25",
+      "last_seen": "2026-11-15",
       "location_display": "Statewide (RI)",
       "location_city": ""
     },
@@ -21779,7 +21779,7 @@
       "status": "active",
       "date_added": "2026-08-05",
       "scraped": "2026-08-05",
-      "last_seen": "2026-10-25",
+      "last_seen": "2026-11-15",
       "location_display": "Statewide (RI)",
       "location_city": ""
     },
@@ -21949,7 +21949,7 @@
       "status": "active",
       "date_added": "2026-08-07",
       "scraped": "2026-08-07",
-      "last_seen": "2026-10-25",
+      "last_seen": "2026-11-15",
       "location_display": "Providence, RI",
       "location_city": "Providence"
     },
@@ -21976,7 +21976,7 @@
       "status": "active",
       "date_added": "2026-08-07",
       "scraped": "2026-08-07",
-      "last_seen": "2026-10-25",
+      "last_seen": "2026-11-15",
       "location_display": "Providence, RI",
       "location_city": "Providence"
     },
@@ -22003,7 +22003,7 @@
       "status": "active",
       "date_added": "2026-08-07",
       "scraped": "2026-08-07",
-      "last_seen": "2026-10-25",
+      "last_seen": "2026-11-15",
       "location_display": "Providence, RI",
       "location_city": "Providence"
     },
@@ -22030,7 +22030,7 @@
       "status": "active",
       "date_added": "2026-08-08",
       "scraped": "2026-08-08",
-      "last_seen": "2026-10-25",
+      "last_seen": "2026-11-15",
       "location_display": "Providence, RI",
       "location_city": "Providence"
     },
@@ -22057,7 +22057,7 @@
       "status": "active",
       "date_added": "2026-08-08",
       "scraped": "2026-08-08",
-      "last_seen": "2026-10-25",
+      "last_seen": "2026-11-15",
       "location_display": "Providence, RI",
       "location_city": "Providence"
     },
@@ -22083,7 +22083,7 @@
       "status": "active",
       "date_added": "2026-08-08",
       "scraped": "2026-08-08",
-      "last_seen": "2026-10-25",
+      "last_seen": "2026-11-15",
       "location_display": "Providence, RI",
       "location_city": "Providence"
     },
@@ -22109,7 +22109,7 @@
       "status": "active",
       "date_added": "2026-08-22",
       "scraped": "2026-08-22",
-      "last_seen": "2026-10-25",
+      "last_seen": "2026-11-15",
       "location_display": "Providence, RI",
       "location_city": "Providence"
     },
@@ -22190,7 +22190,7 @@
       "status": "active",
       "date_added": "2026-08-22",
       "scraped": "2026-08-22",
-      "last_seen": "2026-10-25",
+      "last_seen": "2026-11-15",
       "location_display": "Remote (RI)",
       "location_city": ""
     },
@@ -22243,7 +22243,7 @@
       "status": "active",
       "date_added": "2026-09-02",
       "scraped": "2026-09-02",
-      "last_seen": "2026-10-25",
+      "last_seen": "2026-11-15",
       "location_display": "Statewide (RI)",
       "location_city": ""
     },
@@ -22269,7 +22269,7 @@
       "status": "active",
       "date_added": "2026-09-02",
       "scraped": "2026-09-02",
-      "last_seen": "2026-10-25",
+      "last_seen": "2026-11-15",
       "location_display": "Statewide (RI)",
       "location_city": ""
     },
@@ -22296,7 +22296,7 @@
       "status": "active",
       "date_added": "2026-09-03",
       "scraped": "2026-09-03",
-      "last_seen": "2026-10-25",
+      "last_seen": "2026-11-15",
       "location_display": "Providence, RI",
       "location_city": "Providence"
     },
@@ -22408,7 +22408,7 @@
       "status": "active",
       "date_added": "2026-09-03",
       "scraped": "2026-09-03",
-      "last_seen": "2026-10-25",
+      "last_seen": "2026-11-15",
       "location_display": "Remote (RI)",
       "location_city": ""
     },
@@ -22435,7 +22435,7 @@
       "status": "active",
       "date_added": "2026-09-03",
       "scraped": "2026-09-03",
-      "last_seen": "2026-10-25",
+      "last_seen": "2026-11-15",
       "location_display": "Remote (RI)",
       "location_city": ""
     },
@@ -22462,7 +22462,7 @@
       "status": "active",
       "date_added": "2026-09-03",
       "scraped": "2026-09-03",
-      "last_seen": "2026-10-25",
+      "last_seen": "2026-11-15",
       "location_display": "Remote (RI)",
       "location_city": ""
     },
@@ -22489,7 +22489,7 @@
       "status": "active",
       "date_added": "2026-09-03",
       "scraped": "2026-09-03",
-      "last_seen": "2026-10-25",
+      "last_seen": "2026-11-15",
       "location_display": "Remote (RI)",
       "location_city": ""
     },
@@ -22515,7 +22515,7 @@
       "status": "active",
       "date_added": "2026-09-03",
       "scraped": "2026-09-03",
-      "last_seen": "2026-10-25",
+      "last_seen": "2026-11-15",
       "location_display": "Statewide (RI)",
       "location_city": ""
     },
@@ -22596,7 +22596,7 @@
       "status": "active",
       "date_added": "2026-09-05",
       "scraped": "2026-09-05",
-      "last_seen": "2026-10-25",
+      "last_seen": "2026-11-15",
       "location_display": "Statewide (RI)",
       "location_city": ""
     },
@@ -22762,7 +22762,7 @@
       "status": "active",
       "date_added": "2026-09-10",
       "scraped": "2026-09-10",
-      "last_seen": "2026-11-01",
+      "last_seen": "2026-11-15",
       "location_display": "Providence, RI",
       "location_city": "Providence"
     },
@@ -22788,7 +22788,7 @@
       "status": "active",
       "date_added": "2026-09-10",
       "scraped": "2026-09-10",
-      "last_seen": "2026-11-01",
+      "last_seen": "2026-11-15",
       "location_display": "Statewide (RI)",
       "location_city": ""
     },
@@ -22898,7 +22898,7 @@
       "status": "active",
       "date_added": "2026-09-15",
       "scraped": "2026-09-15",
-      "last_seen": "2026-10-25",
+      "last_seen": "2026-11-15",
       "location_display": "Providence, RI",
       "location_city": "Providence"
     },
@@ -22925,7 +22925,7 @@
       "status": "active",
       "date_added": "2026-09-15",
       "scraped": "2026-09-15",
-      "last_seen": "2026-10-25",
+      "last_seen": "2026-11-15",
       "location_display": "Providence, RI",
       "location_city": "Providence"
     },
@@ -23008,7 +23008,7 @@
       "status": "active",
       "date_added": "2026-09-15",
       "scraped": "2026-09-15",
-      "last_seen": "2026-10-25",
+      "last_seen": "2026-11-15",
       "location_display": "Remote (RI)",
       "location_city": ""
     },
@@ -23035,7 +23035,7 @@
       "status": "active",
       "date_added": "2026-09-15",
       "scraped": "2026-09-15",
-      "last_seen": "2026-10-25",
+      "last_seen": "2026-11-15",
       "location_display": "Remote (RI)",
       "location_city": ""
     },
@@ -23062,7 +23062,7 @@
       "status": "active",
       "date_added": "2026-09-15",
       "scraped": "2026-09-15",
-      "last_seen": "2026-10-25",
+      "last_seen": "2026-11-15",
       "location_display": "Remote (RI)",
       "location_city": ""
     },
@@ -25248,7 +25248,7 @@
       "status": "active",
       "date_added": "2026-09-15",
       "scraped": "2026-09-15",
-      "last_seen": "2026-10-25",
+      "last_seen": "2026-11-15",
       "location_display": "Providence, RI",
       "location_city": "Providence"
     },
@@ -25329,7 +25329,7 @@
       "status": "active",
       "date_added": "2026-09-15",
       "scraped": "2026-09-15",
-      "last_seen": "2026-10-25",
+      "last_seen": "2026-11-15",
       "location_display": "Providence, RI",
       "location_city": "Providence"
     },
@@ -25356,7 +25356,7 @@
       "status": "active",
       "date_added": "2026-09-15",
       "scraped": "2026-09-15",
-      "last_seen": "2026-10-25",
+      "last_seen": "2026-11-15",
       "location_display": "Providence, RI",
       "location_city": "Providence"
     },
@@ -25383,7 +25383,7 @@
       "status": "active",
       "date_added": "2026-09-15",
       "scraped": "2026-09-15",
-      "last_seen": "2026-10-25",
+      "last_seen": "2026-11-15",
       "location_display": "Providence, RI",
       "location_city": "Providence"
     },
@@ -25410,7 +25410,7 @@
       "status": "active",
       "date_added": "2026-09-15",
       "scraped": "2026-09-15",
-      "last_seen": "2026-10-25",
+      "last_seen": "2026-11-15",
       "location_display": "Providence, RI",
       "location_city": "Providence"
     },
@@ -26508,7 +26508,7 @@
       "status": "active",
       "date_added": "2026-09-15",
       "scraped": "2026-09-15",
-      "last_seen": "2026-10-25",
+      "last_seen": "2026-11-15",
       "location_display": "Remote (RI)",
       "location_city": ""
     },
@@ -27776,7 +27776,7 @@
       "status": "active",
       "date_added": "2026-09-15",
       "scraped": "2026-09-15",
-      "last_seen": "2026-10-25",
+      "last_seen": "2026-11-15",
       "location_display": "Remote (RI)",
       "location_city": ""
     },
@@ -28735,7 +28735,7 @@
       "status": "active",
       "date_added": "2026-09-15",
       "scraped": "2026-09-15",
-      "last_seen": "2026-10-25",
+      "last_seen": "2026-11-15",
       "location_display": "Remote (RI)",
       "location_city": ""
     },
@@ -28759,7 +28759,7 @@
       "work_mode": "remote",
       "salary_type": "annual",
       "id": "senior-technical-pro-collibra-48987207",
-      "status": "active",
+      "status": "archived",
       "date_added": "2026-09-15",
       "scraped": "2026-09-15",
       "last_seen": "2026-10-25",
@@ -28818,7 +28818,7 @@
       "status": "active",
       "date_added": "2026-09-15",
       "scraped": "2026-09-15",
-      "last_seen": "2026-10-25",
+      "last_seen": "2026-11-15",
       "location_display": "Remote (RI)",
       "location_city": ""
     },
@@ -28871,7 +28871,7 @@
       "status": "active",
       "date_added": "2026-09-15",
       "scraped": "2026-09-15",
-      "last_seen": "2026-10-25",
+      "last_seen": "2026-11-15",
       "location_display": "Woonsocket, RI",
       "location_city": "Woonsocket"
     },
@@ -29043,7 +29043,7 @@
       "status": "active",
       "date_added": "2026-09-15",
       "scraped": "2026-09-15",
-      "last_seen": "2026-10-25",
+      "last_seen": "2026-11-15",
       "location_display": "Remote (RI)",
       "location_city": ""
     },
@@ -29070,7 +29070,7 @@
       "status": "active",
       "date_added": "2026-09-15",
       "scraped": "2026-09-15",
-      "last_seen": "2026-10-25",
+      "last_seen": "2026-11-15",
       "location_display": "Remote (RI)",
       "location_city": ""
     },
@@ -29097,7 +29097,7 @@
       "status": "active",
       "date_added": "2026-09-15",
       "scraped": "2026-09-15",
-      "last_seen": "2026-10-25",
+      "last_seen": "2026-11-15",
       "location_display": "Remote (RI)",
       "location_city": ""
     },
@@ -29124,7 +29124,7 @@
       "status": "active",
       "date_added": "2026-09-15",
       "scraped": "2026-09-15",
-      "last_seen": "2026-10-25",
+      "last_seen": "2026-11-15",
       "location_display": "Remote (RI)",
       "location_city": ""
     },
@@ -29148,7 +29148,7 @@
       "work_mode": "remote",
       "salary_type": "annual",
       "id": "technical-consultant-ramp-48987207",
-      "status": "active",
+      "status": "archived",
       "date_added": "2026-09-15",
       "scraped": "2026-09-15",
       "last_seen": "2026-10-25",
@@ -29178,7 +29178,7 @@
       "status": "active",
       "date_added": "2026-09-15",
       "scraped": "2026-09-15",
-      "last_seen": "2026-10-25",
+      "last_seen": "2026-11-15",
       "location_display": "Remote (RI)",
       "location_city": ""
     },
@@ -29205,7 +29205,7 @@
       "status": "active",
       "date_added": "2026-09-15",
       "scraped": "2026-09-15",
-      "last_seen": "2026-10-25",
+      "last_seen": "2026-11-15",
       "location_display": "Remote (RI)",
       "location_city": ""
     },
@@ -29232,7 +29232,7 @@
       "status": "active",
       "date_added": "2026-09-15",
       "scraped": "2026-09-15",
-      "last_seen": "2026-10-25",
+      "last_seen": "2026-11-15",
       "location_display": "Remote (RI)",
       "location_city": ""
     },
@@ -29346,7 +29346,7 @@
       "status": "active",
       "date_added": "2026-09-15",
       "scraped": "2026-09-15",
-      "last_seen": "2026-11-01",
+      "last_seen": "2026-11-15",
       "location_display": "Remote (RI)",
       "location_city": ""
     },
@@ -29373,7 +29373,7 @@
       "status": "active",
       "date_added": "2026-09-15",
       "scraped": "2026-09-15",
-      "last_seen": "2026-11-01",
+      "last_seen": "2026-11-15",
       "location_display": "Remote (RI)",
       "location_city": ""
     },
@@ -29400,7 +29400,7 @@
       "status": "active",
       "date_added": "2026-09-15",
       "scraped": "2026-09-15",
-      "last_seen": "2026-11-01",
+      "last_seen": "2026-11-15",
       "location_display": "Remote (RI)",
       "location_city": ""
     },
@@ -29541,7 +29541,7 @@
       "status": "active",
       "date_added": "2026-09-15",
       "scraped": "2026-09-15",
-      "last_seen": "2026-11-01",
+      "last_seen": "2026-11-15",
       "location_display": "Remote (RI)",
       "location_city": ""
     },
@@ -29568,7 +29568,7 @@
       "status": "active",
       "date_added": "2026-09-15",
       "scraped": "2026-09-15",
-      "last_seen": "2026-11-01",
+      "last_seen": "2026-11-15",
       "location_display": "Remote (RI)",
       "location_city": ""
     },
@@ -29796,7 +29796,7 @@
       "status": "active",
       "date_added": "2026-09-15",
       "scraped": "2026-09-15",
-      "last_seen": "2026-11-01",
+      "last_seen": "2026-11-15",
       "location_display": "Remote (RI)",
       "location_city": ""
     },
@@ -29910,7 +29910,7 @@
       "status": "active",
       "date_added": "2026-09-15",
       "scraped": "2026-09-15",
-      "last_seen": "2026-11-01",
+      "last_seen": "2026-11-15",
       "location_display": "Remote (RI)",
       "location_city": ""
     },
@@ -30223,7 +30223,7 @@
       "status": "active",
       "date_added": "2026-09-15",
       "scraped": "2026-09-15",
-      "last_seen": "2026-11-01",
+      "last_seen": "2026-11-15",
       "location_display": "Remote (RI)",
       "location_city": ""
     },
@@ -30250,7 +30250,7 @@
       "status": "active",
       "date_added": "2026-09-15",
       "scraped": "2026-09-15",
-      "last_seen": "2026-11-01",
+      "last_seen": "2026-11-15",
       "location_display": "Remote (RI)",
       "location_city": ""
     },
@@ -30306,7 +30306,7 @@
       "status": "active",
       "date_added": "2026-09-15",
       "scraped": "2026-09-15",
-      "last_seen": "2026-11-01",
+      "last_seen": "2026-11-15",
       "location_display": "Remote (RI)",
       "location_city": ""
     },
@@ -30362,7 +30362,7 @@
       "status": "active",
       "date_added": "2026-09-15",
       "scraped": "2026-09-15",
-      "last_seen": "2026-11-01",
+      "last_seen": "2026-11-15",
       "location_display": "Remote (RI)",
       "location_city": ""
     },
@@ -30674,7 +30674,7 @@
       "work_mode": "remote",
       "salary_type": "annual",
       "id": "subject-matter-exper-vanta-48987208",
-      "status": "active",
+      "status": "archived",
       "date_added": "2026-09-15",
       "scraped": "2026-09-15",
       "last_seen": "2026-11-01",
@@ -30701,12 +30701,14 @@
       "work_mode": "remote",
       "salary_type": "annual",
       "id": "global-program-manag-benchling-48987208",
-      "status": "active",
+      "status": "archived",
       "date_added": "2026-09-15",
       "scraped": "2026-09-15",
-      "last_seen": "2026-11-01",
+      "last_seen": "2026-11-15",
       "location_display": "Remote (RI)",
-      "location_city": ""
+      "location_city": "",
+      "archived_date": "2026-11-15",
+      "archived_reason": "deadlink_diff_v1"
     },
     {
       "role": "Solution Consultant - Business Value",
@@ -30786,7 +30788,7 @@
       "work_mode": "hybrid",
       "salary_type": "annual",
       "id": "erm-compliance-lead-brex-59279756",
-      "status": "active",
+      "status": "archived",
       "date_added": "2026-09-16",
       "scraped": "2026-09-16",
       "last_seen": "2026-11-01",
@@ -30815,7 +30817,7 @@
       "status": "active",
       "date_added": "2026-09-16",
       "scraped": "2026-09-16",
-      "last_seen": "2026-11-01",
+      "last_seen": "2026-11-15",
       "location_display": "Statewide (RI)",
       "location_city": ""
     },
@@ -30841,7 +30843,7 @@
       "status": "active",
       "date_added": "2026-09-16",
       "scraped": "2026-09-16",
-      "last_seen": "2026-11-01",
+      "last_seen": "2026-11-15",
       "location_display": "Statewide (RI)",
       "location_city": ""
     },
@@ -30978,7 +30980,7 @@
       "status": "active",
       "date_added": "2026-09-25",
       "scraped": "2026-09-25",
-      "last_seen": "2026-11-01",
+      "last_seen": "2026-11-15",
       "location_display": "Warwick, RI",
       "location_city": "Warwick"
     },
@@ -31060,7 +31062,7 @@
       "status": "active",
       "date_added": "2026-10-02",
       "scraped": "2026-10-02",
-      "last_seen": "2026-10-25",
+      "last_seen": "2026-11-15",
       "location_display": "Statewide (RI)",
       "location_city": ""
     },
@@ -31087,7 +31089,7 @@
       "status": "active",
       "date_added": "2026-10-03",
       "scraped": "2026-10-03",
-      "last_seen": "2026-10-25",
+      "last_seen": "2026-11-15",
       "location_display": "North Kingstown, RI",
       "location_city": "North Kingstown"
     },
@@ -31114,7 +31116,7 @@
       "status": "active",
       "date_added": "2026-10-03",
       "scraped": "2026-10-03",
-      "last_seen": "2026-10-25",
+      "last_seen": "2026-11-15",
       "location_display": "Providence, RI",
       "location_city": "Providence"
     },
@@ -31141,7 +31143,7 @@
       "status": "active",
       "date_added": "2026-10-03",
       "scraped": "2026-10-03",
-      "last_seen": "2026-10-25",
+      "last_seen": "2026-11-15",
       "location_display": "North Kingstown, RI",
       "location_city": "North Kingstown"
     },
@@ -31168,7 +31170,7 @@
       "status": "active",
       "date_added": "2026-10-03",
       "scraped": "2026-10-03",
-      "last_seen": "2026-10-25",
+      "last_seen": "2026-11-15",
       "location_display": "Providence, RI",
       "location_city": "Providence"
     },
@@ -31195,7 +31197,7 @@
       "status": "active",
       "date_added": "2026-10-03",
       "scraped": "2026-10-03",
-      "last_seen": "2026-10-25",
+      "last_seen": "2026-11-15",
       "location_display": "North Kingstown, RI",
       "location_city": "North Kingstown"
     },
@@ -31222,7 +31224,7 @@
       "status": "active",
       "date_added": "2026-10-03",
       "scraped": "2026-10-03",
-      "last_seen": "2026-10-25",
+      "last_seen": "2026-11-15",
       "location_display": "Providence, RI",
       "location_city": "Providence"
     },
@@ -31249,7 +31251,7 @@
       "status": "active",
       "date_added": "2026-10-03",
       "scraped": "2026-10-03",
-      "last_seen": "2026-10-25",
+      "last_seen": "2026-11-15",
       "location_display": "North Kingstown, RI",
       "location_city": "North Kingstown"
     },
@@ -31276,7 +31278,7 @@
       "status": "active",
       "date_added": "2026-10-03",
       "scraped": "2026-10-03",
-      "last_seen": "2026-10-25",
+      "last_seen": "2026-11-15",
       "location_display": "Providence, RI",
       "location_city": "Providence"
     },
@@ -31303,7 +31305,7 @@
       "status": "active",
       "date_added": "2026-10-03",
       "scraped": "2026-10-03",
-      "last_seen": "2026-10-25",
+      "last_seen": "2026-11-15",
       "location_display": "North Kingstown, RI",
       "location_city": "North Kingstown"
     },
@@ -31330,7 +31332,7 @@
       "status": "active",
       "date_added": "2026-10-03",
       "scraped": "2026-10-03",
-      "last_seen": "2026-10-25",
+      "last_seen": "2026-11-15",
       "location_display": "Providence, RI",
       "location_city": "Providence"
     },
@@ -31357,7 +31359,7 @@
       "status": "active",
       "date_added": "2026-10-03",
       "scraped": "2026-10-03",
-      "last_seen": "2026-10-25",
+      "last_seen": "2026-11-15",
       "location_display": "North Kingstown, RI",
       "location_city": "North Kingstown"
     },
@@ -31384,7 +31386,7 @@
       "status": "active",
       "date_added": "2026-10-03",
       "scraped": "2026-10-03",
-      "last_seen": "2026-10-25",
+      "last_seen": "2026-11-15",
       "location_display": "Providence, RI",
       "location_city": "Providence"
     },
@@ -31411,7 +31413,7 @@
       "status": "active",
       "date_added": "2026-10-03",
       "scraped": "2026-10-03",
-      "last_seen": "2026-10-25",
+      "last_seen": "2026-11-15",
       "location_display": "North Kingstown, RI",
       "location_city": "North Kingstown"
     },
@@ -31438,7 +31440,7 @@
       "status": "active",
       "date_added": "2026-10-03",
       "scraped": "2026-10-03",
-      "last_seen": "2026-10-25",
+      "last_seen": "2026-11-15",
       "location_display": "Providence, RI",
       "location_city": "Providence"
     },
@@ -31465,7 +31467,7 @@
       "status": "active",
       "date_added": "2026-10-03",
       "scraped": "2026-10-03",
-      "last_seen": "2026-10-25",
+      "last_seen": "2026-11-15",
       "location_display": "North Kingstown, RI",
       "location_city": "North Kingstown"
     },
@@ -31492,7 +31494,7 @@
       "status": "active",
       "date_added": "2026-10-03",
       "scraped": "2026-10-03",
-      "last_seen": "2026-10-25",
+      "last_seen": "2026-11-15",
       "location_display": "Providence, RI",
       "location_city": "Providence"
     },
@@ -31519,7 +31521,7 @@
       "status": "active",
       "date_added": "2026-10-03",
       "scraped": "2026-10-03",
-      "last_seen": "2026-10-25",
+      "last_seen": "2026-11-15",
       "location_display": "North Kingstown, RI",
       "location_city": "North Kingstown"
     },
@@ -31546,7 +31548,7 @@
       "status": "active",
       "date_added": "2026-10-03",
       "scraped": "2026-10-03",
-      "last_seen": "2026-10-25",
+      "last_seen": "2026-11-15",
       "location_display": "Providence, RI",
       "location_city": "Providence"
     },
@@ -31573,7 +31575,7 @@
       "status": "active",
       "date_added": "2026-10-03",
       "scraped": "2026-10-03",
-      "last_seen": "2026-10-25",
+      "last_seen": "2026-11-15",
       "location_display": "North Kingstown, RI",
       "location_city": "North Kingstown"
     },
@@ -31600,7 +31602,7 @@
       "status": "active",
       "date_added": "2026-10-03",
       "scraped": "2026-10-03",
-      "last_seen": "2026-10-25",
+      "last_seen": "2026-11-15",
       "location_display": "Providence, RI",
       "location_city": "Providence"
     },
@@ -31654,7 +31656,7 @@
       "status": "active",
       "date_added": "2026-10-03",
       "scraped": "2026-10-03",
-      "last_seen": "2026-10-25",
+      "last_seen": "2026-11-15",
       "location_display": "Providence, RI",
       "location_city": "Providence"
     },
@@ -31681,7 +31683,7 @@
       "status": "active",
       "date_added": "2026-10-03",
       "scraped": "2026-10-03",
-      "last_seen": "2026-10-25",
+      "last_seen": "2026-11-15",
       "location_display": "North Kingstown, RI",
       "location_city": "North Kingstown"
     },
@@ -31708,7 +31710,7 @@
       "status": "active",
       "date_added": "2026-10-03",
       "scraped": "2026-10-03",
-      "last_seen": "2026-10-25",
+      "last_seen": "2026-11-15",
       "location_display": "Providence, RI",
       "location_city": "Providence"
     },
@@ -31735,7 +31737,7 @@
       "status": "active",
       "date_added": "2026-10-03",
       "scraped": "2026-10-03",
-      "last_seen": "2026-10-25",
+      "last_seen": "2026-11-15",
       "location_display": "North Kingstown, RI",
       "location_city": "North Kingstown"
     },
@@ -31762,7 +31764,7 @@
       "status": "active",
       "date_added": "2026-10-03",
       "scraped": "2026-10-03",
-      "last_seen": "2026-10-25",
+      "last_seen": "2026-11-15",
       "location_display": "Providence, RI",
       "location_city": "Providence"
     },
@@ -31788,7 +31790,7 @@
       "status": "active",
       "date_added": "2026-10-03",
       "scraped": "2026-10-03",
-      "last_seen": "2026-10-25",
+      "last_seen": "2026-11-15",
       "location_display": "Providence, RI",
       "location_city": "Providence"
     },
@@ -31814,7 +31816,7 @@
       "status": "active",
       "date_added": "2026-10-03",
       "scraped": "2026-10-03",
-      "last_seen": "2026-10-25",
+      "last_seen": "2026-11-15",
       "location_display": "Providence, RI",
       "location_city": "Providence"
     },
@@ -31840,7 +31842,7 @@
       "status": "active",
       "date_added": "2026-10-03",
       "scraped": "2026-10-03",
-      "last_seen": "2026-10-25",
+      "last_seen": "2026-11-15",
       "location_display": "Providence, RI",
       "location_city": "Providence"
     },
@@ -31866,7 +31868,7 @@
       "status": "active",
       "date_added": "2026-10-03",
       "scraped": "2026-10-03",
-      "last_seen": "2026-10-25",
+      "last_seen": "2026-11-15",
       "location_display": "Providence, RI",
       "location_city": "Providence"
     },
@@ -31892,7 +31894,7 @@
       "status": "active",
       "date_added": "2026-10-03",
       "scraped": "2026-10-03",
-      "last_seen": "2026-10-25",
+      "last_seen": "2026-11-15",
       "location_display": "Providence, RI",
       "location_city": "Providence"
     },
@@ -31918,7 +31920,7 @@
       "status": "active",
       "date_added": "2026-10-03",
       "scraped": "2026-10-03",
-      "last_seen": "2026-10-25",
+      "last_seen": "2026-11-15",
       "location_display": "Providence, RI",
       "location_city": "Providence"
     },
@@ -31944,7 +31946,7 @@
       "status": "active",
       "date_added": "2026-10-03",
       "scraped": "2026-10-03",
-      "last_seen": "2026-10-25",
+      "last_seen": "2026-11-15",
       "location_display": "Providence, RI",
       "location_city": "Providence"
     },
@@ -31970,7 +31972,7 @@
       "status": "active",
       "date_added": "2026-10-03",
       "scraped": "2026-10-03",
-      "last_seen": "2026-10-25",
+      "last_seen": "2026-11-15",
       "location_display": "Statewide (RI)",
       "location_city": ""
     },
@@ -31996,7 +31998,7 @@
       "status": "active",
       "date_added": "2026-10-03",
       "scraped": "2026-10-03",
-      "last_seen": "2026-10-25",
+      "last_seen": "2026-11-15",
       "location_display": "Statewide (RI)",
       "location_city": ""
     },
@@ -32022,7 +32024,7 @@
       "status": "active",
       "date_added": "2026-10-03",
       "scraped": "2026-10-03",
-      "last_seen": "2026-10-25",
+      "last_seen": "2026-11-15",
       "location_display": "Statewide (RI)",
       "location_city": ""
     },
@@ -32048,7 +32050,7 @@
       "status": "active",
       "date_added": "2026-10-03",
       "scraped": "2026-10-03",
-      "last_seen": "2026-10-25",
+      "last_seen": "2026-11-15",
       "location_display": "Statewide (RI)",
       "location_city": ""
     },
@@ -32074,7 +32076,7 @@
       "status": "active",
       "date_added": "2026-10-03",
       "scraped": "2026-10-03",
-      "last_seen": "2026-10-25",
+      "last_seen": "2026-11-15",
       "location_display": "Statewide (RI)",
       "location_city": ""
     },
@@ -32100,7 +32102,7 @@
       "status": "active",
       "date_added": "2026-10-03",
       "scraped": "2026-10-03",
-      "last_seen": "2026-10-25",
+      "last_seen": "2026-11-15",
       "location_display": "Statewide (RI)",
       "location_city": ""
     },
@@ -32126,7 +32128,7 @@
       "status": "active",
       "date_added": "2026-10-03",
       "scraped": "2026-10-03",
-      "last_seen": "2026-10-25",
+      "last_seen": "2026-11-15",
       "location_display": "Statewide (RI)",
       "location_city": ""
     },
@@ -32152,7 +32154,7 @@
       "status": "active",
       "date_added": "2026-10-03",
       "scraped": "2026-10-03",
-      "last_seen": "2026-10-25",
+      "last_seen": "2026-11-15",
       "location_display": "Statewide (RI)",
       "location_city": ""
     },
@@ -32178,7 +32180,7 @@
       "status": "active",
       "date_added": "2026-10-03",
       "scraped": "2026-10-03",
-      "last_seen": "2026-10-25",
+      "last_seen": "2026-11-15",
       "location_display": "Statewide (RI)",
       "location_city": ""
     },
@@ -32204,7 +32206,7 @@
       "status": "active",
       "date_added": "2026-10-03",
       "scraped": "2026-10-03",
-      "last_seen": "2026-10-25",
+      "last_seen": "2026-11-15",
       "location_display": "Statewide (RI)",
       "location_city": ""
     },
@@ -32230,7 +32232,7 @@
       "status": "active",
       "date_added": "2026-10-03",
       "scraped": "2026-10-03",
-      "last_seen": "2026-10-25",
+      "last_seen": "2026-11-15",
       "location_display": "Statewide (RI)",
       "location_city": ""
     },
@@ -32256,7 +32258,7 @@
       "status": "active",
       "date_added": "2026-10-03",
       "scraped": "2026-10-03",
-      "last_seen": "2026-10-25",
+      "last_seen": "2026-11-15",
       "location_display": "Statewide (RI)",
       "location_city": ""
     },
@@ -32282,7 +32284,7 @@
       "status": "active",
       "date_added": "2026-10-03",
       "scraped": "2026-10-03",
-      "last_seen": "2026-10-25",
+      "last_seen": "2026-11-15",
       "location_display": "Statewide (RI)",
       "location_city": ""
     },
@@ -32308,7 +32310,7 @@
       "status": "active",
       "date_added": "2026-10-03",
       "scraped": "2026-10-03",
-      "last_seen": "2026-10-25",
+      "last_seen": "2026-11-15",
       "location_display": "Statewide (RI)",
       "location_city": ""
     },
@@ -32334,7 +32336,7 @@
       "status": "active",
       "date_added": "2026-10-03",
       "scraped": "2026-10-03",
-      "last_seen": "2026-10-25",
+      "last_seen": "2026-11-15",
       "location_display": "Statewide (RI)",
       "location_city": ""
     },
@@ -32360,7 +32362,7 @@
       "status": "active",
       "date_added": "2026-10-03",
       "scraped": "2026-10-03",
-      "last_seen": "2026-10-25",
+      "last_seen": "2026-11-15",
       "location_display": "Statewide (RI)",
       "location_city": ""
     },
@@ -32386,7 +32388,7 @@
       "status": "active",
       "date_added": "2026-10-03",
       "scraped": "2026-10-03",
-      "last_seen": "2026-10-25",
+      "last_seen": "2026-11-15",
       "location_display": "Statewide (RI)",
       "location_city": ""
     },
@@ -32412,7 +32414,7 @@
       "status": "active",
       "date_added": "2026-10-03",
       "scraped": "2026-10-03",
-      "last_seen": "2026-10-25",
+      "last_seen": "2026-11-15",
       "location_display": "Statewide (RI)",
       "location_city": ""
     },
@@ -32438,7 +32440,7 @@
       "status": "active",
       "date_added": "2026-10-03",
       "scraped": "2026-10-03",
-      "last_seen": "2026-10-25",
+      "last_seen": "2026-11-15",
       "location_display": "Statewide (RI)",
       "location_city": ""
     },
@@ -32464,7 +32466,7 @@
       "status": "active",
       "date_added": "2026-10-03",
       "scraped": "2026-10-03",
-      "last_seen": "2026-10-25",
+      "last_seen": "2026-11-15",
       "location_display": "Statewide (RI)",
       "location_city": ""
     },
@@ -32490,7 +32492,7 @@
       "status": "active",
       "date_added": "2026-10-03",
       "scraped": "2026-10-03",
-      "last_seen": "2026-10-25",
+      "last_seen": "2026-11-15",
       "location_display": "Statewide (RI)",
       "location_city": ""
     },
@@ -32516,7 +32518,7 @@
       "status": "active",
       "date_added": "2026-10-03",
       "scraped": "2026-10-03",
-      "last_seen": "2026-10-25",
+      "last_seen": "2026-11-15",
       "location_display": "Statewide (RI)",
       "location_city": ""
     },
@@ -32542,7 +32544,7 @@
       "status": "active",
       "date_added": "2026-10-03",
       "scraped": "2026-10-03",
-      "last_seen": "2026-10-25",
+      "last_seen": "2026-11-15",
       "location_display": "Statewide (RI)",
       "location_city": ""
     },
@@ -32568,7 +32570,7 @@
       "status": "active",
       "date_added": "2026-10-03",
       "scraped": "2026-10-03",
-      "last_seen": "2026-10-25",
+      "last_seen": "2026-11-15",
       "location_display": "Statewide (RI)",
       "location_city": ""
     },
@@ -32594,7 +32596,7 @@
       "status": "active",
       "date_added": "2026-10-03",
       "scraped": "2026-10-03",
-      "last_seen": "2026-10-25",
+      "last_seen": "2026-11-15",
       "location_display": "Statewide (RI)",
       "location_city": ""
     },
@@ -32620,7 +32622,7 @@
       "status": "active",
       "date_added": "2026-10-03",
       "scraped": "2026-10-03",
-      "last_seen": "2026-10-25",
+      "last_seen": "2026-11-15",
       "location_display": "Statewide (RI)",
       "location_city": ""
     },
@@ -32646,7 +32648,7 @@
       "status": "active",
       "date_added": "2026-10-03",
       "scraped": "2026-10-03",
-      "last_seen": "2026-10-25",
+      "last_seen": "2026-11-15",
       "location_display": "Statewide (RI)",
       "location_city": ""
     },
@@ -32672,7 +32674,7 @@
       "status": "active",
       "date_added": "2026-10-03",
       "scraped": "2026-10-03",
-      "last_seen": "2026-10-25",
+      "last_seen": "2026-11-15",
       "location_display": "Statewide (RI)",
       "location_city": ""
     },
@@ -32698,7 +32700,7 @@
       "status": "active",
       "date_added": "2026-10-03",
       "scraped": "2026-10-03",
-      "last_seen": "2026-10-25",
+      "last_seen": "2026-11-15",
       "location_display": "Statewide (RI)",
       "location_city": ""
     },
@@ -32724,7 +32726,7 @@
       "status": "active",
       "date_added": "2026-10-03",
       "scraped": "2026-10-03",
-      "last_seen": "2026-10-25",
+      "last_seen": "2026-11-15",
       "location_display": "Statewide (RI)",
       "location_city": ""
     },
@@ -32750,7 +32752,7 @@
       "status": "active",
       "date_added": "2026-10-03",
       "scraped": "2026-10-03",
-      "last_seen": "2026-10-25",
+      "last_seen": "2026-11-15",
       "location_display": "Statewide (RI)",
       "location_city": ""
     },
@@ -32776,7 +32778,7 @@
       "status": "active",
       "date_added": "2026-10-03",
       "scraped": "2026-10-03",
-      "last_seen": "2026-10-25",
+      "last_seen": "2026-11-15",
       "location_display": "Statewide (RI)",
       "location_city": ""
     },
@@ -32802,7 +32804,7 @@
       "status": "active",
       "date_added": "2026-10-03",
       "scraped": "2026-10-03",
-      "last_seen": "2026-10-25",
+      "last_seen": "2026-11-15",
       "location_display": "Statewide (RI)",
       "location_city": ""
     },
@@ -32828,7 +32830,7 @@
       "status": "active",
       "date_added": "2026-10-03",
       "scraped": "2026-10-03",
-      "last_seen": "2026-10-25",
+      "last_seen": "2026-11-15",
       "location_display": "Statewide (RI)",
       "location_city": ""
     },
@@ -32854,7 +32856,7 @@
       "status": "active",
       "date_added": "2026-10-03",
       "scraped": "2026-10-03",
-      "last_seen": "2026-10-25",
+      "last_seen": "2026-11-15",
       "location_display": "Statewide (RI)",
       "location_city": ""
     },
@@ -32880,7 +32882,7 @@
       "status": "active",
       "date_added": "2026-10-03",
       "scraped": "2026-10-03",
-      "last_seen": "2026-10-25",
+      "last_seen": "2026-11-15",
       "location_display": "Statewide (RI)",
       "location_city": ""
     },
@@ -32906,7 +32908,7 @@
       "status": "active",
       "date_added": "2026-10-03",
       "scraped": "2026-10-03",
-      "last_seen": "2026-10-25",
+      "last_seen": "2026-11-15",
       "location_display": "Statewide (RI)",
       "location_city": ""
     },
@@ -32932,7 +32934,7 @@
       "status": "active",
       "date_added": "2026-10-03",
       "scraped": "2026-10-03",
-      "last_seen": "2026-10-25",
+      "last_seen": "2026-11-15",
       "location_display": "Statewide (RI)",
       "location_city": ""
     },
@@ -32958,7 +32960,7 @@
       "status": "active",
       "date_added": "2026-10-03",
       "scraped": "2026-10-03",
-      "last_seen": "2026-10-25",
+      "last_seen": "2026-11-15",
       "location_display": "Statewide (RI)",
       "location_city": ""
     },
@@ -32984,7 +32986,7 @@
       "status": "active",
       "date_added": "2026-10-03",
       "scraped": "2026-10-03",
-      "last_seen": "2026-10-25",
+      "last_seen": "2026-11-15",
       "location_display": "Statewide (RI)",
       "location_city": ""
     },
@@ -33010,7 +33012,7 @@
       "status": "active",
       "date_added": "2026-10-03",
       "scraped": "2026-10-03",
-      "last_seen": "2026-10-25",
+      "last_seen": "2026-11-15",
       "location_display": "Statewide (RI)",
       "location_city": ""
     },
@@ -33036,7 +33038,7 @@
       "status": "active",
       "date_added": "2026-10-03",
       "scraped": "2026-10-03",
-      "last_seen": "2026-10-25",
+      "last_seen": "2026-11-15",
       "location_display": "Statewide (RI)",
       "location_city": ""
     },
@@ -33062,7 +33064,7 @@
       "status": "active",
       "date_added": "2026-10-03",
       "scraped": "2026-10-03",
-      "last_seen": "2026-10-25",
+      "last_seen": "2026-11-15",
       "location_display": "Statewide (RI)",
       "location_city": ""
     },
@@ -33088,7 +33090,7 @@
       "status": "active",
       "date_added": "2026-10-03",
       "scraped": "2026-10-03",
-      "last_seen": "2026-10-25",
+      "last_seen": "2026-11-15",
       "location_display": "Statewide (RI)",
       "location_city": ""
     },
@@ -33114,7 +33116,7 @@
       "status": "active",
       "date_added": "2026-10-03",
       "scraped": "2026-10-03",
-      "last_seen": "2026-10-25",
+      "last_seen": "2026-11-15",
       "location_display": "Statewide (RI)",
       "location_city": ""
     },
@@ -33140,7 +33142,7 @@
       "status": "active",
       "date_added": "2026-10-03",
       "scraped": "2026-10-03",
-      "last_seen": "2026-10-25",
+      "last_seen": "2026-11-15",
       "location_display": "Statewide (RI)",
       "location_city": ""
     },
@@ -33166,7 +33168,7 @@
       "status": "active",
       "date_added": "2026-10-03",
       "scraped": "2026-10-03",
-      "last_seen": "2026-10-25",
+      "last_seen": "2026-11-15",
       "location_display": "Statewide (RI)",
       "location_city": ""
     },
@@ -33192,7 +33194,7 @@
       "status": "active",
       "date_added": "2026-10-03",
       "scraped": "2026-10-03",
-      "last_seen": "2026-10-25",
+      "last_seen": "2026-11-15",
       "location_display": "Statewide (RI)",
       "location_city": ""
     },
@@ -33218,7 +33220,7 @@
       "status": "active",
       "date_added": "2026-10-03",
       "scraped": "2026-10-03",
-      "last_seen": "2026-10-25",
+      "last_seen": "2026-11-15",
       "location_display": "Statewide (RI)",
       "location_city": ""
     },
@@ -33244,7 +33246,7 @@
       "status": "active",
       "date_added": "2026-10-03",
       "scraped": "2026-10-03",
-      "last_seen": "2026-10-25",
+      "last_seen": "2026-11-15",
       "location_display": "Statewide (RI)",
       "location_city": ""
     },
@@ -33270,7 +33272,7 @@
       "status": "active",
       "date_added": "2026-10-03",
       "scraped": "2026-10-03",
-      "last_seen": "2026-10-25",
+      "last_seen": "2026-11-15",
       "location_display": "Statewide (RI)",
       "location_city": ""
     },
@@ -33296,7 +33298,7 @@
       "status": "active",
       "date_added": "2026-10-03",
       "scraped": "2026-10-03",
-      "last_seen": "2026-10-25",
+      "last_seen": "2026-11-15",
       "location_display": "Statewide (RI)",
       "location_city": ""
     },
@@ -33322,7 +33324,7 @@
       "status": "active",
       "date_added": "2026-10-03",
       "scraped": "2026-10-03",
-      "last_seen": "2026-10-25",
+      "last_seen": "2026-11-15",
       "location_display": "Statewide (RI)",
       "location_city": ""
     },
@@ -33348,7 +33350,7 @@
       "status": "active",
       "date_added": "2026-10-03",
       "scraped": "2026-10-03",
-      "last_seen": "2026-10-25",
+      "last_seen": "2026-11-15",
       "location_display": "Statewide (RI)",
       "location_city": ""
     },
@@ -33374,7 +33376,7 @@
       "status": "active",
       "date_added": "2026-10-03",
       "scraped": "2026-10-03",
-      "last_seen": "2026-10-25",
+      "last_seen": "2026-11-15",
       "location_display": "Statewide (RI)",
       "location_city": ""
     },
@@ -33400,7 +33402,7 @@
       "status": "active",
       "date_added": "2026-10-03",
       "scraped": "2026-10-03",
-      "last_seen": "2026-10-25",
+      "last_seen": "2026-11-15",
       "location_display": "Statewide (RI)",
       "location_city": ""
     },
@@ -33426,7 +33428,7 @@
       "status": "active",
       "date_added": "2026-10-03",
       "scraped": "2026-10-03",
-      "last_seen": "2026-10-25",
+      "last_seen": "2026-11-15",
       "location_display": "Statewide (RI)",
       "location_city": ""
     },
@@ -33452,7 +33454,7 @@
       "status": "active",
       "date_added": "2026-10-03",
       "scraped": "2026-10-03",
-      "last_seen": "2026-10-25",
+      "last_seen": "2026-11-15",
       "location_display": "Statewide (RI)",
       "location_city": ""
     },
@@ -33478,7 +33480,7 @@
       "status": "active",
       "date_added": "2026-10-03",
       "scraped": "2026-10-03",
-      "last_seen": "2026-10-25",
+      "last_seen": "2026-11-15",
       "location_display": "Statewide (RI)",
       "location_city": ""
     },
@@ -33504,7 +33506,7 @@
       "status": "active",
       "date_added": "2026-10-03",
       "scraped": "2026-10-03",
-      "last_seen": "2026-10-25",
+      "last_seen": "2026-11-15",
       "location_display": "Statewide (RI)",
       "location_city": ""
     },
@@ -33530,7 +33532,7 @@
       "status": "active",
       "date_added": "2026-10-03",
       "scraped": "2026-10-03",
-      "last_seen": "2026-10-25",
+      "last_seen": "2026-11-15",
       "location_display": "Statewide (RI)",
       "location_city": ""
     },
@@ -33556,7 +33558,7 @@
       "status": "active",
       "date_added": "2026-10-03",
       "scraped": "2026-10-03",
-      "last_seen": "2026-10-25",
+      "last_seen": "2026-11-15",
       "location_display": "Statewide (RI)",
       "location_city": ""
     },
@@ -33582,7 +33584,7 @@
       "status": "active",
       "date_added": "2026-10-03",
       "scraped": "2026-10-03",
-      "last_seen": "2026-10-25",
+      "last_seen": "2026-11-15",
       "location_display": "Statewide (RI)",
       "location_city": ""
     },
@@ -33608,7 +33610,7 @@
       "status": "active",
       "date_added": "2026-10-03",
       "scraped": "2026-10-03",
-      "last_seen": "2026-10-25",
+      "last_seen": "2026-11-15",
       "location_display": "Statewide (RI)",
       "location_city": ""
     },
@@ -33634,7 +33636,7 @@
       "status": "active",
       "date_added": "2026-10-03",
       "scraped": "2026-10-03",
-      "last_seen": "2026-10-25",
+      "last_seen": "2026-11-15",
       "location_display": "Statewide (RI)",
       "location_city": ""
     },
@@ -33660,7 +33662,7 @@
       "status": "active",
       "date_added": "2026-10-03",
       "scraped": "2026-10-03",
-      "last_seen": "2026-10-25",
+      "last_seen": "2026-11-15",
       "location_display": "Statewide (RI)",
       "location_city": ""
     },
@@ -33712,7 +33714,7 @@
       "status": "active",
       "date_added": "2026-10-03",
       "scraped": "2026-10-03",
-      "last_seen": "2026-10-25",
+      "last_seen": "2026-11-15",
       "location_display": "Statewide (RI)",
       "location_city": ""
     },
@@ -33738,7 +33740,7 @@
       "status": "active",
       "date_added": "2026-10-03",
       "scraped": "2026-10-03",
-      "last_seen": "2026-10-25",
+      "last_seen": "2026-11-15",
       "location_display": "Statewide (RI)",
       "location_city": ""
     },
@@ -33764,7 +33766,7 @@
       "status": "active",
       "date_added": "2026-10-03",
       "scraped": "2026-10-03",
-      "last_seen": "2026-10-25",
+      "last_seen": "2026-11-15",
       "location_display": "Statewide (RI)",
       "location_city": ""
     },
@@ -33790,7 +33792,7 @@
       "status": "active",
       "date_added": "2026-10-03",
       "scraped": "2026-10-03",
-      "last_seen": "2026-10-25",
+      "last_seen": "2026-11-15",
       "location_display": "Statewide (RI)",
       "location_city": ""
     },
@@ -33816,7 +33818,7 @@
       "status": "active",
       "date_added": "2026-10-03",
       "scraped": "2026-10-03",
-      "last_seen": "2026-10-25",
+      "last_seen": "2026-11-15",
       "location_display": "Statewide (RI)",
       "location_city": ""
     },
@@ -33842,7 +33844,7 @@
       "status": "active",
       "date_added": "2026-10-03",
       "scraped": "2026-10-03",
-      "last_seen": "2026-10-25",
+      "last_seen": "2026-11-15",
       "location_display": "Statewide (RI)",
       "location_city": ""
     },
@@ -33868,7 +33870,7 @@
       "status": "active",
       "date_added": "2026-10-03",
       "scraped": "2026-10-03",
-      "last_seen": "2026-10-25",
+      "last_seen": "2026-11-15",
       "location_display": "Statewide (RI)",
       "location_city": ""
     },
@@ -33894,7 +33896,7 @@
       "status": "active",
       "date_added": "2026-10-03",
       "scraped": "2026-10-03",
-      "last_seen": "2026-10-25",
+      "last_seen": "2026-11-15",
       "location_display": "Statewide (RI)",
       "location_city": ""
     },
@@ -33920,7 +33922,7 @@
       "status": "active",
       "date_added": "2026-10-03",
       "scraped": "2026-10-03",
-      "last_seen": "2026-10-25",
+      "last_seen": "2026-11-15",
       "location_display": "Statewide (RI)",
       "location_city": ""
     },
@@ -33946,7 +33948,7 @@
       "status": "active",
       "date_added": "2026-10-03",
       "scraped": "2026-10-03",
-      "last_seen": "2026-10-25",
+      "last_seen": "2026-11-15",
       "location_display": "Pawtucket, RI",
       "location_city": "Pawtucket"
     },
@@ -33972,7 +33974,7 @@
       "status": "active",
       "date_added": "2026-10-03",
       "scraped": "2026-10-03",
-      "last_seen": "2026-10-25",
+      "last_seen": "2026-11-15",
       "location_display": "Warwick, RI",
       "location_city": "Warwick"
     },
@@ -33998,7 +34000,7 @@
       "status": "active",
       "date_added": "2026-10-03",
       "scraped": "2026-10-03",
-      "last_seen": "2026-10-25",
+      "last_seen": "2026-11-15",
       "location_display": "Warwick, RI",
       "location_city": "Warwick"
     },
@@ -34050,7 +34052,7 @@
       "status": "active",
       "date_added": "2026-10-03",
       "scraped": "2026-10-03",
-      "last_seen": "2026-10-25",
+      "last_seen": "2026-11-15",
       "location_display": "Statewide (RI)",
       "location_city": ""
     },
@@ -34076,7 +34078,7 @@
       "status": "active",
       "date_added": "2026-10-03",
       "scraped": "2026-10-03",
-      "last_seen": "2026-10-25",
+      "last_seen": "2026-11-15",
       "location_display": "Providence, RI",
       "location_city": "Providence"
     },
@@ -34102,7 +34104,7 @@
       "status": "active",
       "date_added": "2026-10-03",
       "scraped": "2026-10-03",
-      "last_seen": "2026-10-25",
+      "last_seen": "2026-11-15",
       "location_display": "Providence, RI",
       "location_city": "Providence"
     },
@@ -34128,7 +34130,7 @@
       "status": "active",
       "date_added": "2026-10-03",
       "scraped": "2026-10-03",
-      "last_seen": "2026-10-25",
+      "last_seen": "2026-11-15",
       "location_display": "Statewide (RI)",
       "location_city": ""
     },
@@ -34154,7 +34156,7 @@
       "status": "active",
       "date_added": "2026-10-03",
       "scraped": "2026-10-03",
-      "last_seen": "2026-10-25",
+      "last_seen": "2026-11-15",
       "location_display": "Cranston, RI",
       "location_city": "Cranston"
     },
@@ -34180,7 +34182,7 @@
       "status": "active",
       "date_added": "2026-10-03",
       "scraped": "2026-10-03",
-      "last_seen": "2026-10-25",
+      "last_seen": "2026-11-15",
       "location_display": "Warwick, RI",
       "location_city": "Warwick"
     },
@@ -34206,7 +34208,7 @@
       "status": "active",
       "date_added": "2026-10-03",
       "scraped": "2026-10-03",
-      "last_seen": "2026-10-25",
+      "last_seen": "2026-11-15",
       "location_display": "Statewide (RI)",
       "location_city": ""
     },
@@ -34232,7 +34234,7 @@
       "status": "active",
       "date_added": "2026-10-03",
       "scraped": "2026-10-03",
-      "last_seen": "2026-10-25",
+      "last_seen": "2026-11-15",
       "location_display": "Warwick, RI",
       "location_city": "Warwick"
     },
@@ -34258,7 +34260,7 @@
       "status": "active",
       "date_added": "2026-10-03",
       "scraped": "2026-10-03",
-      "last_seen": "2026-10-25",
+      "last_seen": "2026-11-15",
       "location_display": "Statewide (RI)",
       "location_city": ""
     },
@@ -34310,7 +34312,7 @@
       "status": "active",
       "date_added": "2026-10-03",
       "scraped": "2026-10-03",
-      "last_seen": "2026-10-25",
+      "last_seen": "2026-11-15",
       "location_display": "Statewide (RI)",
       "location_city": ""
     },
@@ -34336,7 +34338,7 @@
       "status": "active",
       "date_added": "2026-10-03",
       "scraped": "2026-10-03",
-      "last_seen": "2026-10-25",
+      "last_seen": "2026-11-15",
       "location_display": "Statewide (RI)",
       "location_city": ""
     },
@@ -34362,7 +34364,7 @@
       "status": "active",
       "date_added": "2026-10-03",
       "scraped": "2026-10-03",
-      "last_seen": "2026-10-25",
+      "last_seen": "2026-11-15",
       "location_display": "Statewide (RI)",
       "location_city": ""
     },
@@ -34388,7 +34390,7 @@
       "status": "active",
       "date_added": "2026-10-03",
       "scraped": "2026-10-03",
-      "last_seen": "2026-10-25",
+      "last_seen": "2026-11-15",
       "location_display": "Statewide (RI)",
       "location_city": ""
     },
@@ -34415,7 +34417,7 @@
       "status": "active",
       "date_added": "2026-10-03",
       "scraped": "2026-10-03",
-      "last_seen": "2026-10-25",
+      "last_seen": "2026-11-15",
       "location_display": "Statewide (RI)",
       "location_city": ""
     },
@@ -34441,7 +34443,7 @@
       "status": "active",
       "date_added": "2026-10-06",
       "scraped": "2026-10-06",
-      "last_seen": "2026-11-01",
+      "last_seen": "2026-11-15",
       "location_display": "Providence, RI",
       "location_city": "Providence"
     },
@@ -34467,7 +34469,7 @@
       "status": "active",
       "date_added": "2026-10-06",
       "scraped": "2026-10-06",
-      "last_seen": "2026-11-01",
+      "last_seen": "2026-11-15",
       "location_display": "Providence, RI",
       "location_city": "Providence"
     },
@@ -34493,7 +34495,7 @@
       "status": "active",
       "date_added": "2026-10-06",
       "scraped": "2026-10-06",
-      "last_seen": "2026-11-01",
+      "last_seen": "2026-11-15",
       "location_display": "Providence, RI",
       "location_city": "Providence"
     },
@@ -34519,7 +34521,7 @@
       "status": "active",
       "date_added": "2026-10-07",
       "scraped": "2026-10-07",
-      "last_seen": "2026-11-01",
+      "last_seen": "2026-11-15",
       "location_display": "Providence, RI",
       "location_city": "Providence"
     },
@@ -34545,7 +34547,7 @@
       "status": "active",
       "date_added": "2026-10-08",
       "scraped": "2026-10-08",
-      "last_seen": "2026-11-01",
+      "last_seen": "2026-11-15",
       "location_display": "Statewide (RI)",
       "location_city": ""
     },
@@ -34571,7 +34573,7 @@
       "status": "active",
       "date_added": "2026-10-08",
       "scraped": "2026-10-08",
-      "last_seen": "2026-11-01",
+      "last_seen": "2026-11-15",
       "location_display": "Statewide (RI)",
       "location_city": ""
     },
@@ -34597,7 +34599,7 @@
       "status": "active",
       "date_added": "2026-10-09",
       "scraped": "2026-10-09",
-      "last_seen": "2026-11-01",
+      "last_seen": "2026-11-15",
       "location_display": "Statewide (RI)",
       "location_city": ""
     },
@@ -34623,7 +34625,7 @@
       "status": "active",
       "date_added": "2026-10-09",
       "scraped": "2026-10-09",
-      "last_seen": "2026-11-01",
+      "last_seen": "2026-11-15",
       "location_display": "Providence, RI",
       "location_city": "Providence"
     },
@@ -34650,7 +34652,7 @@
       "status": "active",
       "date_added": "2026-10-09",
       "scraped": "2026-10-09",
-      "last_seen": "2026-11-01",
+      "last_seen": "2026-11-15",
       "location_display": "Statewide (RI)",
       "location_city": ""
     },
@@ -34677,7 +34679,7 @@
       "status": "active",
       "date_added": "2026-10-10",
       "scraped": "2026-10-10",
-      "last_seen": "2026-11-01",
+      "last_seen": "2026-11-15",
       "location_display": "Providence, RI",
       "location_city": "Providence"
     },
@@ -34704,7 +34706,7 @@
       "status": "active",
       "date_added": "2026-10-10",
       "scraped": "2026-10-10",
-      "last_seen": "2026-11-01",
+      "last_seen": "2026-11-15",
       "location_display": "Statewide (RI)",
       "location_city": ""
     },
@@ -34757,7 +34759,7 @@
       "status": "active",
       "date_added": "2026-10-11",
       "scraped": "2026-10-11",
-      "last_seen": "2026-10-25",
+      "last_seen": "2026-11-15",
       "location_display": "Statewide (RI)",
       "location_city": ""
     },
@@ -34783,7 +34785,7 @@
       "status": "active",
       "date_added": "2026-10-11",
       "scraped": "2026-10-11",
-      "last_seen": "2026-10-25",
+      "last_seen": "2026-11-15",
       "location_display": "Providence, RI",
       "location_city": "Providence"
     },
@@ -34809,7 +34811,7 @@
       "status": "active",
       "date_added": "2026-10-14",
       "scraped": "2026-10-14",
-      "last_seen": "2026-10-25",
+      "last_seen": "2026-11-15",
       "location_display": "Providence, RI",
       "location_city": "Providence"
     },
@@ -34835,7 +34837,7 @@
       "status": "active",
       "date_added": "2026-10-14",
       "scraped": "2026-10-14",
-      "last_seen": "2026-10-25",
+      "last_seen": "2026-11-15",
       "location_display": "Statewide (RI)",
       "location_city": ""
     },
@@ -34862,7 +34864,7 @@
       "status": "active",
       "date_added": "2026-10-14",
       "scraped": "2026-10-14",
-      "last_seen": "2026-10-25",
+      "last_seen": "2026-11-15",
       "location_display": "Statewide (RI)",
       "location_city": ""
     },
@@ -34916,7 +34918,7 @@
       "status": "active",
       "date_added": "2026-10-15",
       "scraped": "2026-10-15",
-      "last_seen": "2026-10-25",
+      "last_seen": "2026-11-15",
       "location_display": "Statewide (RI)",
       "location_city": ""
     },
@@ -34942,7 +34944,7 @@
       "status": "active",
       "date_added": "2026-10-16",
       "scraped": "2026-10-16",
-      "last_seen": "2026-10-25",
+      "last_seen": "2026-11-15",
       "location_display": "Providence, RI",
       "location_city": "Providence"
     },
@@ -34968,7 +34970,7 @@
       "status": "active",
       "date_added": "2026-10-20",
       "scraped": "2026-10-20",
-      "last_seen": "2026-11-01",
+      "last_seen": "2026-11-15",
       "location_display": "Statewide (RI)",
       "location_city": ""
     },
@@ -34994,7 +34996,7 @@
       "status": "active",
       "date_added": "2026-10-20",
       "scraped": "2026-10-20",
-      "last_seen": "2026-11-01",
+      "last_seen": "2026-11-15",
       "location_display": "Providence, RI",
       "location_city": "Providence"
     },
@@ -35020,7 +35022,7 @@
       "status": "active",
       "date_added": "2026-10-20",
       "scraped": "2026-10-20",
-      "last_seen": "2026-11-01",
+      "last_seen": "2026-11-15",
       "location_display": "Statewide (RI)",
       "location_city": ""
     },
@@ -35073,7 +35075,7 @@
       "status": "active",
       "date_added": "2026-10-22",
       "scraped": "2026-10-22",
-      "last_seen": "2026-11-01",
+      "last_seen": "2026-11-15",
       "location_display": "Statewide (RI)",
       "location_city": ""
     },
@@ -35099,7 +35101,7 @@
       "status": "active",
       "date_added": "2026-10-22",
       "scraped": "2026-10-22",
-      "last_seen": "2026-11-01",
+      "last_seen": "2026-11-15",
       "location_display": "Providence, RI",
       "location_city": "Providence"
     },
@@ -35125,7 +35127,7 @@
       "status": "active",
       "date_added": "2026-10-22",
       "scraped": "2026-10-22",
-      "last_seen": "2026-11-01",
+      "last_seen": "2026-11-15",
       "location_display": "Providence, RI",
       "location_city": "Providence"
     },
@@ -35152,7 +35154,7 @@
       "status": "active",
       "date_added": "2026-10-23",
       "scraped": "2026-10-23",
-      "last_seen": "2026-11-01",
+      "last_seen": "2026-11-15",
       "location_display": "Providence, RI",
       "location_city": "Providence"
     },
@@ -35178,7 +35180,7 @@
       "status": "active",
       "date_added": "2026-10-23",
       "scraped": "2026-10-23",
-      "last_seen": "2026-11-01",
+      "last_seen": "2026-11-15",
       "location_display": "Statewide (RI)",
       "location_city": ""
     },
@@ -35204,7 +35206,7 @@
       "status": "active",
       "date_added": "2026-10-23",
       "scraped": "2026-10-23",
-      "last_seen": "2026-11-01",
+      "last_seen": "2026-11-15",
       "location_display": "Statewide (RI)",
       "location_city": ""
     },
@@ -35230,7 +35232,7 @@
       "status": "active",
       "date_added": "2026-10-24",
       "scraped": "2026-10-24",
-      "last_seen": "2026-11-01",
+      "last_seen": "2026-11-15",
       "location_display": "Statewide (RI)",
       "location_city": ""
     },
@@ -35256,7 +35258,7 @@
       "status": "active",
       "date_added": "2026-10-28",
       "scraped": "2026-10-28",
-      "last_seen": "2026-10-28",
+      "last_seen": "2026-11-15",
       "location_display": "Statewide (RI)",
       "location_city": ""
     },
@@ -35282,7 +35284,7 @@
       "status": "active",
       "date_added": "2026-10-28",
       "scraped": "2026-10-28",
-      "last_seen": "2026-10-28",
+      "last_seen": "2026-11-15",
       "location_display": "Statewide (RI)",
       "location_city": ""
     },
@@ -35308,7 +35310,7 @@
       "status": "active",
       "date_added": "2026-10-28",
       "scraped": "2026-10-28",
-      "last_seen": "2026-10-28",
+      "last_seen": "2026-11-15",
       "location_display": "Statewide (RI)",
       "location_city": ""
     },
@@ -35334,7 +35336,7 @@
       "status": "active",
       "date_added": "2026-10-28",
       "scraped": "2026-10-28",
-      "last_seen": "2026-10-28",
+      "last_seen": "2026-11-15",
       "location_display": "Providence, RI",
       "location_city": "Providence"
     },
@@ -35360,7 +35362,7 @@
       "status": "active",
       "date_added": "2026-10-28",
       "scraped": "2026-10-28",
-      "last_seen": "2026-10-28",
+      "last_seen": "2026-11-15",
       "location_display": "Providence, RI",
       "location_city": "Providence"
     },
@@ -35386,7 +35388,7 @@
       "status": "active",
       "date_added": "2026-10-28",
       "scraped": "2026-10-28",
-      "last_seen": "2026-10-28",
+      "last_seen": "2026-11-15",
       "location_display": "Statewide (RI)",
       "location_city": ""
     },
@@ -35412,7 +35414,7 @@
       "status": "active",
       "date_added": "2026-10-28",
       "scraped": "2026-10-28",
-      "last_seen": "2026-10-28",
+      "last_seen": "2026-11-15",
       "location_display": "Statewide (RI)",
       "location_city": ""
     },
@@ -35438,7 +35440,7 @@
       "status": "active",
       "date_added": "2026-10-28",
       "scraped": "2026-10-28",
-      "last_seen": "2026-10-28",
+      "last_seen": "2026-11-15",
       "location_display": "Statewide (RI)",
       "location_city": ""
     },
@@ -35464,7 +35466,7 @@
       "status": "active",
       "date_added": "2026-10-29",
       "scraped": "2026-10-29",
-      "last_seen": "2026-10-29",
+      "last_seen": "2026-11-15",
       "location_display": "Providence, RI",
       "location_city": "Providence"
     },
@@ -35490,7 +35492,7 @@
       "status": "active",
       "date_added": "2026-10-29",
       "scraped": "2026-10-29",
-      "last_seen": "2026-10-29",
+      "last_seen": "2026-11-15",
       "location_display": "Providence, RI",
       "location_city": "Providence"
     },
@@ -35516,7 +35518,7 @@
       "status": "active",
       "date_added": "2026-10-29",
       "scraped": "2026-10-29",
-      "last_seen": "2026-10-29",
+      "last_seen": "2026-11-15",
       "location_display": "Statewide (RI)",
       "location_city": ""
     },
@@ -35542,7 +35544,7 @@
       "status": "active",
       "date_added": "2026-10-29",
       "scraped": "2026-10-29",
-      "last_seen": "2026-10-29",
+      "last_seen": "2026-11-15",
       "location_display": "Statewide (RI)",
       "location_city": ""
     },
@@ -35568,7 +35570,7 @@
       "status": "active",
       "date_added": "2026-10-30",
       "scraped": "2026-10-30",
-      "last_seen": "2026-10-30",
+      "last_seen": "2026-11-15",
       "location_display": "Providence, RI",
       "location_city": "Providence"
     },
@@ -35594,7 +35596,7 @@
       "status": "active",
       "date_added": "2026-10-30",
       "scraped": "2026-10-30",
-      "last_seen": "2026-10-30",
+      "last_seen": "2026-11-15",
       "location_display": "Statewide (RI)",
       "location_city": ""
     },
@@ -35620,7 +35622,7 @@
       "status": "active",
       "date_added": "2026-10-30",
       "scraped": "2026-10-30",
-      "last_seen": "2026-10-30",
+      "last_seen": "2026-11-15",
       "location_display": "Statewide (RI)",
       "location_city": ""
     },
@@ -35646,7 +35648,7 @@
       "status": "active",
       "date_added": "2026-10-31",
       "scraped": "2026-10-31",
-      "last_seen": "2026-10-31",
+      "last_seen": "2026-11-15",
       "location_display": "Providence, RI",
       "location_city": "Providence"
     },
@@ -35672,7 +35674,7 @@
       "status": "active",
       "date_added": "2026-11-02",
       "scraped": "2026-11-02",
-      "last_seen": "2026-11-02",
+      "last_seen": "2026-11-15",
       "location_display": "Providence, RI",
       "location_city": "Providence"
     },
@@ -35698,7 +35700,7 @@
       "status": "active",
       "date_added": "2026-11-02",
       "scraped": "2026-11-02",
-      "last_seen": "2026-11-02",
+      "last_seen": "2026-11-15",
       "location_display": "Providence, RI",
       "location_city": "Providence"
     },
@@ -35724,7 +35726,7 @@
       "status": "active",
       "date_added": "2026-11-02",
       "scraped": "2026-11-02",
-      "last_seen": "2026-11-02",
+      "last_seen": "2026-11-15",
       "location_display": "Statewide (RI)",
       "location_city": ""
     },
@@ -35750,7 +35752,7 @@
       "status": "active",
       "date_added": "2026-11-02",
       "scraped": "2026-11-02",
-      "last_seen": "2026-11-02",
+      "last_seen": "2026-11-15",
       "location_display": "Pawtucket, RI",
       "location_city": "Pawtucket"
     },
@@ -35776,7 +35778,7 @@
       "status": "active",
       "date_added": "2026-11-02",
       "scraped": "2026-11-02",
-      "last_seen": "2026-11-02",
+      "last_seen": "2026-11-15",
       "location_display": "Pawtucket, RI",
       "location_city": "Pawtucket"
     },
@@ -35802,7 +35804,7 @@
       "status": "active",
       "date_added": "2026-11-02",
       "scraped": "2026-11-02",
-      "last_seen": "2026-11-02",
+      "last_seen": "2026-11-15",
       "location_display": "Statewide (RI)",
       "location_city": ""
     },
@@ -35829,7 +35831,7 @@
       "status": "active",
       "date_added": "2026-11-03",
       "scraped": "2026-11-03",
-      "last_seen": "2026-11-03",
+      "last_seen": "2026-11-15",
       "location_display": "Providence, RI",
       "location_city": "Providence"
     },
@@ -35855,7 +35857,7 @@
       "status": "active",
       "date_added": "2026-11-03",
       "scraped": "2026-11-03",
-      "last_seen": "2026-11-03",
+      "last_seen": "2026-11-15",
       "location_display": "Statewide (RI)",
       "location_city": ""
     },
@@ -35881,7 +35883,7 @@
       "status": "active",
       "date_added": "2026-11-04",
       "scraped": "2026-11-04",
-      "last_seen": "2026-11-04",
+      "last_seen": "2026-11-15",
       "location_display": "Statewide (RI)",
       "location_city": ""
     },
@@ -35907,7 +35909,7 @@
       "status": "active",
       "date_added": "2026-11-04",
       "scraped": "2026-11-04",
-      "last_seen": "2026-11-04",
+      "last_seen": "2026-11-15",
       "location_display": "Statewide (RI)",
       "location_city": ""
     },
@@ -35933,7 +35935,7 @@
       "status": "active",
       "date_added": "2026-11-04",
       "scraped": "2026-11-04",
-      "last_seen": "2026-11-04",
+      "last_seen": "2026-11-15",
       "location_display": "Statewide (RI)",
       "location_city": ""
     },
@@ -35959,7 +35961,7 @@
       "status": "active",
       "date_added": "2026-11-04",
       "scraped": "2026-11-04",
-      "last_seen": "2026-11-04",
+      "last_seen": "2026-11-15",
       "location_display": "Statewide (RI)",
       "location_city": ""
     },
@@ -35985,7 +35987,7 @@
       "status": "active",
       "date_added": "2026-11-04",
       "scraped": "2026-11-04",
-      "last_seen": "2026-11-04",
+      "last_seen": "2026-11-15",
       "location_display": "Warwick, RI",
       "location_city": "Warwick"
     },
@@ -36011,7 +36013,7 @@
       "status": "active",
       "date_added": "2026-11-05",
       "scraped": "2026-11-05",
-      "last_seen": "2026-11-05",
+      "last_seen": "2026-11-15",
       "location_display": "Providence, RI",
       "location_city": "Providence"
     },
@@ -36037,7 +36039,7 @@
       "status": "active",
       "date_added": "2026-11-05",
       "scraped": "2026-11-05",
-      "last_seen": "2026-11-05",
+      "last_seen": "2026-11-15",
       "location_display": "Statewide (RI)",
       "location_city": ""
     },
@@ -36063,7 +36065,7 @@
       "status": "active",
       "date_added": "2026-11-05",
       "scraped": "2026-11-05",
-      "last_seen": "2026-11-05",
+      "last_seen": "2026-11-15",
       "location_display": "Statewide (RI)",
       "location_city": ""
     },
@@ -36113,12 +36115,14 @@
       "work_mode": "unknown",
       "salary_type": "annual",
       "id": "grc-specialist-mixpanel-50377638",
-      "status": "active",
+      "status": "archived",
       "date_added": "2026-11-06",
       "scraped": "2026-11-06",
       "last_seen": "2026-11-06",
       "location_display": "Providence, RI",
-      "location_city": "Providence"
+      "location_city": "Providence",
+      "archived_date": "2026-11-15",
+      "archived_reason": "deadlink_diff_v1"
     },
     {
       "role": "Research Info Sys Coordinator",
