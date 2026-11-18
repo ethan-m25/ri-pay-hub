@@ -1,10 +1,10 @@
 {
   "meta": {
     "count": 1194,
-    "active": 318,
-    "new_today": 4,
-    "links_newly_archived": 1,
-    "updated": "2026-11-17T07:14:59Z",
+    "active": 317,
+    "new_today": 2,
+    "links_newly_archived": 2,
+    "updated": "2026-11-18T07:17:13Z",
     "state": "Rhode Island",
     "law": "⚖️ RI S0270 (2023)",
     "currency": "USD",
@@ -2629,7 +2629,7 @@
       "work_mode": "remote",
       "salary_type": "annual",
       "id": "senior-ii-fullstack--vanta-74407640",
-      "status": "active",
+      "status": "archived",
       "date_added": "2026-05-20",
       "scraped": "2026-05-20",
       "last_seen": "2026-11-15",
@@ -2642,7 +2642,8 @@
       "category_provisional": false,
       "category_title": "Engineering",
       "classifier_version": "gemma4:12b|codex-v1.0|p2",
-      "category_legacy": "Engineering"
+      "category_legacy": "Engineering",
+      "archived_date": "2026-11-18"
     },
     {
       "role": "Senior Manager, Enablement GTM Programs",
@@ -14799,7 +14800,7 @@
       "work_mode": "onsite",
       "salary_type": "annual",
       "id": "outpatient-physical--highbarhealth-73632407",
-      "status": "active",
+      "status": "archived",
       "date_added": "2026-06-11",
       "scraped": "2026-06-11",
       "last_seen": "2026-11-15",
@@ -14811,7 +14812,8 @@
       "category_provisional": false,
       "category_title": null,
       "classifier_version": "gemma4:12b|codex-v1.0|p2",
-      "category_legacy": "Other"
+      "category_legacy": "Other",
+      "archived_date": "2026-11-18"
     },
     {
       "role": "Pelvic Health Physical Therapist",
@@ -36668,6 +36670,32 @@
       "date_added": "2026-11-17",
       "scraped": "2026-11-17",
       "last_seen": "2026-11-17",
+      "location_display": "Statewide (RI)",
+      "location_city": ""
+    },
+    {
+      "role": "Clinical Pharmacist Specialist, Ambulatory -  Inflammatory Diseases",
+      "company": "RIH Rhode Island Hospital",
+      "min": 110302,
+      "max": 182000,
+      "location": "Rhode Island, RI",
+      "source_url": "https://brownhealth.wd12.myworkdayjobs.com/en-US/External_Careers/job/Rhode-Island-Hospital/Clinical-Pharmacist-Specialist--Ambulatory----Inflammatory-Diseases_JR-116332-1",
+      "posted": "2026-11-18",
+      "currency": "USD",
+      "region": "RI",
+      "_width": 71698,
+      "_compliant": true,
+      "_nonCompliant": false,
+      "_exempt": false,
+      "_federal": false,
+      "category": "Other",
+      "work_mode": "unknown",
+      "salary_type": "annual",
+      "id": "clinical-pharmacist--rih-rhode-islan-86233025",
+      "status": "active",
+      "date_added": "2026-11-18",
+      "scraped": "2026-11-18",
+      "last_seen": "2026-11-18",
       "location_display": "Statewide (RI)",
       "location_city": ""
     }
